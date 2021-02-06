@@ -21,13 +21,22 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Employee Experience"
+  url = "https://www.lynda.com/Business-Skills-tutorials/Employee-Experience/700792-2.html?certificate=1FFB382164F54FB4ABF33449333F4424"
+  certificate_url = "https://drive.google.com/file/d/1awbTsds6WsbFO-yY9Nh0Q5qjkMXsU4IM/view?usp=sharing"
+  date_start = "2020-12-20"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Data Visualization in R with ggplot2"
   url = "https://www.lynda.com/ViewCertificate/65B77A0A727947DB874B90C59C41933B?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate"
   certificate_url = "https://drive.google.com/file/d/1UtzeWtGxF9X4bnZVih1HKDWawJ2ciAe-/view?usp=sharing"
   date_start = "2020-09-03"
   date_end = ""
   description = ""
-
 
 [[item]]
   organization = "Lynda.com/LinkedIn"
