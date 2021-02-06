@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   * Metodología de la Investigación Descriptiva
   * Metodología de la Investigación Cualitativa
   * Construcción de Pruebas Psicológicas
-  * Gestión de recursos humanos
+  * Gestión de Recursos Humanos
   """
   
 [[experience]]
