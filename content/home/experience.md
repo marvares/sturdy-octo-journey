@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-01-01"
   date_end = ""
   description = """
-  Asesoría a estudiantes y tesistas en Psicología, Administración, y CCSS en:
+  Asesoría a estudiantes y tesistas en Psicología, Administración, y Ciencias Sociales en:
   
   * Planteamiento del Problema de Investigación
   * Formulación de Matriz de Consistencia
