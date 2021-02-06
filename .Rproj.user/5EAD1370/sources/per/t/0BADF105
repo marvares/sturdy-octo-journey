@@ -1,0 +1,24 @@
+{
+    "id": "0BADF105",
+    "path": "~/Desktop/marvares - copia/config/_default/menus.toml",
+    "project_path": "config/_default/menus.toml",
+    "type": "toml",
+    "hash": "3702163433",
+    "contents": "",
+    "dirty": false,
+    "created": 1594964041911.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "39,12",
+        "scrollLine": "27"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1594964413,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1594964413256,
+    "read_only": false,
+    "read_only_alternatives": []
+}

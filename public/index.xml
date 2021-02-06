@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martín Vargas Estrada</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martín Vargas Estrada</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_2.png</url>
+      <title>Martín Vargas Estrada</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Escalas de Medición, Parte 4</title>
+      <link>/post/em04/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/em04/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em04/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusión&#34;&gt;Conclusión&lt;/h2&gt;
+&lt;p&gt;Podemos citar aquí literalmente el siguiente párrafo del artículo original, que me encanta y creo que es un triunfo de la sensatez y el pragmatismo por sobre la especulación bizantina potencialmente infinita de aquel señero comité de eruditos ingleses:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Al comité británico, entonces, podemos aventurarnos a sugerir, a modo de conclusión, que la definición más liberal y útil de medición es, como lo sugirió uno de sus miembros, &amp;ldquo;la asignación de números a las cosas para representar hechos y convenciones sobre ellas&amp;rdquo;. El problema de qué es y qué no es medición se reduce a la simple pregunta: ¿Cuáles son las reglas, si las hay, bajo las cuales se asignan los números? Si podemos determinar un conjunto coherente de reglas, estamos obviamente hablando de medición de algún tipo, y ya luego podemos proceder a la más interesante pregunta  acerca del tipo de medición de que se trata.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;puntos-clave&#34;&gt;Puntos Clave&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;No hay única forma válida de entender el concepto de &amp;ldquo;medición&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cada forma de medir distinta pasará a definir una escala de medición distinta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;El tipo de análisis estadístico que es posible aplicar a cada tipo de medición dependerá del tipo de escala usada para medir los datos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cada escala de medición estará definida por la manera en (es decir, las reglas con) que se asigna los números a los objetos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Entonces, el problema se reduce a definir cuáles son las reglas usadas para cada tipo de escala, las cuales definen cada tipo de medición, así como las propiedades matemáticas de tales reglas y las operaciones que, en consecuencia, se pueden aplicar a los resultados de cada tipo de medición.&lt;/li&gt;
+&lt;li&gt;Las propiedades de cada escala son acumulativas: las escalas de menor nivel (nominal, ordinal) están contenidas en las de rango superior (intervalo, de razón).&lt;/li&gt;
+&lt;li&gt;Para las variables en escala nominal, es posible establecer
+&lt;ul&gt;
+&lt;li&gt;n (número de casos)&lt;/li&gt;
+&lt;li&gt;Moda&lt;/li&gt;
+&lt;li&gt;Asociación contingencial (tabla de contingencias, chi cuadrado)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Para las variables en escala ordinal, es posible establecer:
+&lt;ul&gt;
+&lt;li&gt;Mediana&lt;/li&gt;
+&lt;li&gt;Percentiles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Para las variables en escala de intervalo, es posible establecer:
+&lt;ul&gt;
+&lt;li&gt;Promedio&lt;/li&gt;
+&lt;li&gt;Desviación estándar&lt;/li&gt;
+&lt;li&gt;Correlación ordinal (&lt;em&gt;rank-order correlation&lt;/em&gt;) [Spearman]&lt;/li&gt;
+&lt;li&gt;Correlaciones Pearson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Para las variables en escala de razón, es posible establecer:
+&lt;ul&gt;
+&lt;li&gt;Coeficiente de covariación&lt;/li&gt;
+&lt;li&gt;Más todas las operaciones admisibles para las escalas anteriores&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;caso-de-aplicación-ejemplo-práctico&#34;&gt;Caso de Aplicación (Ejemplo Práctico):&lt;/h2&gt;
+&lt;p&gt;Imaginemos la siguiente escena:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Un amigo y tú están paseando por el centro comercial, cuando un encuestador los aborda y les pregunta qué tan satisfechos se encuentran ustedes con las compras que han hecho. Les muestra una tarjeta en la que se lee lo siguiente: &amp;ldquo;Usa los números enteros del 1 al 5 para responder a la pregunta, donde 1 es &amp;lsquo;no estoy satisfecho en absoluto&amp;rsquo;, y 4 es &amp;lsquo;estoy muy satisfecho&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tu amigo, quien hizo una compra desafortunada, responde con un número 2 a la pregunta, mientras que tú, que acabas de encontrar exactamente lo que buscabas, respondes con la opción 4.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La cuestión es: ¿tu satisfacción con tu compra es el doble de la satisfacción que tiene tu amigo? Aparentemente, uno tendería responder que sí, ya que 4 es el doble de 2 (4/2=2).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sin embargo,  luego de considerarlo bien, lo primero que deberíamos resolver es: ¿qué tipo de escala de medición está siendo usada?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Si fuera una escala nominal tan solo bastaría saber si tu satisfacción es o no la misma que la satisfacción de tu amigo. Si ese fuera el caso, no obstante, al encuestador le hubiera bastado con decir: ¿están igual de satisfechos o no? Obviamente, esa no fue la pregunta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Si fuera escala ordinal, hubiera bastado con preguntar  simplemente cuál de ustedes está más satisfecho. Pero esa tampoco exactamente fue la pregunta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Solo nos quedan dos opciones: la escala de intervalo o la escala de razón. ¿Cuál es la diferencia más obvia entre ambas? La proporcionalidad. Mientras que la escala de razón goza de proporcionalidad, la escala de intervalo no. Por lo tanto, establezcamos si esta medida en particular es proporcional o no.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para definir si hay proporcionalidad, bastará responder a la pregunta siguiente: ¿esta medición tiene un cero absoluto? Eso significa, en otras palabras: ¿existe un nivel de satisfacción &amp;ldquo;cero&amp;rdquo;? De nuevo otra tentación. Podríamos decir: &amp;ldquo;sí, yo puedo comprar algo y estar cero satisfecho&amp;rdquo;. Bueno, eso cumple con solo parte de la definición. La otra parte es: &amp;ldquo;es ese cero satisfacción&amp;rdquo; inequívocamente el mismo para cualquier persona en cualquier momento y en cualquier lugar? En otras palabras: ¿ese &amp;ldquo;cero satisfecho&amp;rdquo; es objetivo?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La respuesta es: no. Tu &amp;ldquo;cero satisfecho&amp;rdquo; no es comprobable como el mismo e idéntico grado de satisfacción para cualquier persona en cualquier tiempo y en cualquier lugar. Tu &amp;ldquo;cero satisfacción&amp;rdquo; puede ser mi &amp;ldquo;1 de satisfacción&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ese es el punto de las mediciones de actitud (y esta lo es): la actitud por definición es subjetiva. Y lo mismo aplica para casi todas las mediciones psicológicas: son subjetivas. Por lo tanto, carecen de &amp;ldquo;punto cero&amp;rdquo; que sea objetivo y absoluto como los -273 ºC del cero de la escala Kelvin o la velocidad de la luz.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;En suma: estamos ante una medición en escala de intervalo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Espero que hayas podido comprender el tema de las escalas de medición. Nos hemos tomado un tiempo porque es un concepto fundamental; si no lo entendemos es probable que el resto de la estadística y la metodología en general se vuelva algo dificultoso, sobre todo cuando se trata de interpretar y comprender.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em04/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Escalas de Medición, Parte 3</title>
+      <link>/post/em03/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/em03/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em03/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em03/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em03/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;escalas-de-medición-parte-3&#34;&gt;Escalas de Medición, Parte 3&lt;/h1&gt;
+&lt;p&gt;Continuando con el resumen y explicación del artículo clásico de Stevens, iniciaremos la parte 3 de esta serie conversando algo acerca de las escalas de intervalo y de razón.&lt;/p&gt;
+&lt;h2 id=&#34;escala-de-intervalo&#34;&gt;Escala de Intervalo&lt;/h2&gt;
+&lt;p&gt;Es la primera escala que sí puede ser propiamente calificada como &amp;ldquo;cuantitativa&amp;rdquo;. Todos los estadísticos son admisibles aquí, salvo aquellos que asumen la existencia de un punto &amp;ldquo;cero&amp;rdquo; absoluto.&lt;/p&gt;
+&lt;p&gt;Es decir, para poder determinar si una variable está siendo medida en escala de intervalo, debemos saber si el &lt;em&gt;cero&lt;/em&gt; de esa escala es literalmente &amp;ldquo;&lt;em&gt;ausencia&lt;/em&gt;&amp;rdquo; del atributo, o si, por el contrario, sencillamente todos los que usan la escala se han puesto de acuerdo en asignar un valor &amp;ldquo;&lt;em&gt;cero&lt;/em&gt;&amp;rdquo; a un punto determinado por razones de conveniencia.&lt;/p&gt;
+&lt;p&gt;El ejemplo clásico son las escalas que normalmente usamos para medir la temperatura. Por ejemplo, en la mayoría de naciones usamos la escala de grados centígrados o Celsius. En esta escala, el &lt;em&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/em&gt; (cero) corresponde al punto en que el agua se cristaliza en forma de hielo. La pregunta que debemos hacernos es, según lo dicho líneas arriba: &lt;em&gt;¿es este punto &amp;ldquo;cero&amp;rdquo; reflejo de una auténtica ausencia de la variable que estamos midiendo?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Bueno, en esta caso es claro que la respuesta es &amp;ldquo;no&amp;rdquo;, y la razón es sencilla: la temperatura, como atributo, sigue existiendo hacia abajo (-1ºC, -2ºC, etc.) de ese supuesto punto &amp;ldquo;cero&amp;rdquo;. Por lo tanto, se trata de un punto cero arbitrario, escogido por simple conveniencia para poder señalar con facilidad un estado relevante de una sustancia vital.&lt;/p&gt;
+&lt;p&gt;Vemos, pues que el punto &amp;ldquo;cero&amp;rdquo; de una escala intervalar es un asunto de mera convención y/o conveniencia.&lt;/p&gt;
+&lt;p&gt;Stevens ilustra una propiedad importante de las escalas de intervalo: &lt;em&gt;dos escalas de intervalo pueden intercambiarse entre sí mediante una fórmula&lt;/em&gt;. Por ejemplo en cuanto a la temperatura: la escala Celsius y la Fahrenheit son intercambiables mediante una función lineal (la fórmula de conversión).&lt;/p&gt;
+&lt;p&gt;Asimismo, es importante anotar que &lt;em&gt;en una escala de intervalo no tiene sentido hablar de proporcionalidad&lt;/em&gt;.  Es decir, no es válido decir que 10 puntos son el doble que 5 puntos. La explicación es que, al no haber un punto de cero absoluto, no hay cómo establecer un punto de referencia para establecer proporciones.&lt;/p&gt;
+&lt;p&gt;Ahora bien, algunas excepciones en relación a la escala de intervalo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Los lapsos o periodos de tiempo se consideran medidos en escala de razón y no de intervalo; el motivo es que el inicio de un evento puede ser considerado el punto cero de medición. Esto puede sonar como una excepción arbitraria, y hasta cierto punto lo es, pero responde a la ausencia práctica de un punto de inicio del tiempo en general.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aunque en general se considera que las temperaturas se miden en escala de intervalo, la escala de grados Kelvin (donde la temperatura más baja alcanzable en el universo se ha establecido como -273 ºC, sí es una escala de razón. Ese punto sí constituiría un auténtico &amp;ldquo;punto cero&amp;rdquo; de temperatura, sin importar en qué época o posición se encuentre el observador.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nota importante para nosotros los psicólogos: la enorme mayoría de atributos que la Psicología intenta medir son medibles solo hasta la escala de intervalo. Esto se debe a que casi siempre un &amp;ldquo;punto cero&amp;rdquo; del atributo o bien es inalcanzable, o bien no tiene sentido. Por ejemplo, ¿qué sentido puede tener hablar de &amp;ldquo;cero inteligencia&amp;rdquo;, o &amp;ldquo;cero personalidad&amp;rdquo;?&lt;/p&gt;
+&lt;h2 id=&#34;escala-de-razón&#34;&gt;Escala de razón:&lt;/h2&gt;
+&lt;p&gt;Este tipo de escalas son más propias de la Física que de la Psicología. Son aquellos casos en los que se puede aplicar los cuatro tipo de operaciones a las variables:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Igualdad o desigualdad&lt;/li&gt;
+&lt;li&gt;Ranqueo u ordenamiento&lt;/li&gt;
+&lt;li&gt;Igualdad de intervalos entre los puntos de medición&lt;/li&gt;
+&lt;li&gt;Proporcionalidad entre las medidas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Las mediciones en escala de razón pueden ser transformadas solo dentro de una medición de razón a otra y solo multiplicándolas por un valor constante.&lt;/p&gt;
+&lt;p&gt;Las transformaciones logarítmicas solo son aplicables a este tipo de mediciones. Las transformaciones logarítmicas son las que se usan a menudo en estadística cuando queremos expresar en un mismo gráfico o en una misma tabla mediciones dispares en órdenes de magnitud, como centímetros y kilómetros.&lt;/p&gt;
+&lt;p&gt;Hay dos subtipos o subgrupos de medición de razón:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Las mediciones de atributos fundamentales (largo, masa, resistencia eléctrica y similares).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Las mediciones de atributos derivados (densidad, fuerza, velocidad y similares). Los atributos derivados lo son porque resultan de una relación entre dimensiones fundamentales irreducibles. Por ejemplo, la densidad es la masa en relación a un volumen, y la velocidad es la distancia en relación a un periodo de tiempo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Las mediciones psicológicas en escala de razón son escasas, pero no inexistentes. Stevens menciona el ejemplo de la escala Sone de percepción sonora, y yo añadiría el ejemplo de la Ley de Weber y Fechner (te dejo de tarea revisar en qué consiste esta última).&lt;/p&gt;
+&lt;p&gt;Por último, cabe mencionar que, en la práctica, muchos software estadísticos y algunos textois de estadística simplemente no distinguen entre ambas clases de escala; por ejemplo, SPSS, uno de los softwares más populares para la investigación en ciencias sociales y psicología, usa el término &amp;ldquo;escala&amp;rdquo; para caracterizar a las variables que no estén medidas en forma nominal ni ordinal. Y es que usualmente aplicaremos el mismo tipo de estadístico en uno y otro caso.&lt;/p&gt;
+&lt;p&gt;En el artículo siguiente, último de la serie sobre este tema, cerraremos con algunas conclusiones generales y un caso de análisis para que puedas poner en acción algunos de los conceptos que hemos venido discutiendo hasta aquí.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em03/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em03/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em03/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Política de Privacidad</title>
+      <link>/privacy/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;A la fecha, la única fuente de datos de visitantes que este sitio web puede recopilar es la que los visitantes mismos proveen de manera intencional y voluntaria a través de los formularios y plugins de la sección &amp;ldquo;Contáctame&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Este sitio web es personal y, por lo tanto, no tiene la capacidad, hasta donde su autor conoce, de recopilar de manera automática y/o velada ninguna información o dato accesible al webmaster.&lt;/p&gt;
+&lt;p&gt;Todo dato que usted mismo brinde a través de la sección &amp;ldquo;Contáctame&amp;rdquo; solo será usado por el webmaster para proveerle sus servicios profesionales, y no será compartida con terceros de ninguna índole bajo ninguna modalidad. Su información de contacto y cualesquiera otros detalles personales serán mantenidos bajo estricta confidencialidad.&lt;/p&gt;
+&lt;p&gt;Además, toda la información que usted comparta será tratada según lo dispuesto en el Código de Ética del Psicólogo del Colegio de Psicólogos del Perú, y la legislación peruana e internacional aplicable. Asimismo, el autor/webmaster tratará siempre de apegarse a las pautas éticas de la APA (Asociación Psicológica Americana) en tanto y cuanto sean compatibles con los lineamientos mencionados anteriormente.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>El Drama de la Comunicación y la Precariedad de la Ciencia</title>
+      <link>/post/pc/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/pc/</guid>
+      <description>
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/pc/&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;amp;summary=En%20este%20ensayo%20pretendo%20establecer%20una%20idea%20sencilla%20y%20hasta%20trivial%3A%20la%20comunicaci%C3%B3n%20perfectamente%20eficiente%20entre%20los%20seres%20humanos%20es%20imposible.%20En%20segunda%20instancia,%20trato%20de%20esbozar%20algunas%20de%20las%20consecuencias%20de%20esta%20idea%20para%20efectos%20de%20actividades%20tales%20como%20la%20art%C3%ADstica,%20la%20pol%C3%ADtica,%20y%20la%20cient%C3%ADfica,%20haciendo%20en%20el%20%C3%BAltimo%20caso%20un%20%C3%A9nfasis%20especial%20en%20el%20proceso%20de%20la%20terapia%20psicol%C3%B3gica&amp;amp;source=&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/pc/&#34;&gt;Compartir en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20el%20art%C3%ADculo%3A%20https%3A//www.martinvargas.org.pe/post/pc/&#34;&gt;Compartir vía correo electrónico&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;introducción&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Introducción&lt;/h2&gt;
+&lt;p&gt;En este ensayo pretendo establecer una idea sencilla y hasta trivial: &lt;em&gt;la comunicación perfectamente eficiente entre los seres humanos es imposible&lt;/em&gt;. En segunda instancia, trato de esbozar algunas de las consecuencias de esta idea para efectos de actividades tales como la artística, la política, y la científica, haciendo en el último caso un énfasis especial en el proceso de la terapia psicológica.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;el-drama&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;El Drama&lt;/h2&gt;
+&lt;p&gt;En cada obra de arte, en cada discurso político, en cada artículo científico, y en general en cada palabra escrita o pronunciada, radica un drama: el verdadero corazón y núcleo del mensaje jamás logra ser trasmitido de manera perfecta.&lt;/p&gt;
+&lt;p&gt;Esto va más allá de la simple discordancia generada por la intención (o falta de ella); más allá de las diferencias de codificación (un hablante del español que no entiende a un monolingüe chino); y más allá de la distancia espacial (un cubano malinterpretando a un argentino) o temporal (un astronauta que no entendería a un &lt;em&gt;sans culotte&lt;/em&gt; del siglo XVIII).&lt;/p&gt;
+&lt;p&gt;Aun dos gemelos idénticos que se han criado juntos y vivido las mismas experiencias son incapaces de generar y sostener una comunicación perfecta: malentendidos, suspicacias y diferencias en la connotación emocional podrán ser eliminados, aunque solo sea por instantes, pero el solo hecho de generar lenguaje –verbal o no verbal–, conlleva &lt;em&gt;ruido semántico&lt;/em&gt; &lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;: el puente no es nunca la otra orilla; el camino jamás es igual al destino.&lt;/p&gt;
+&lt;p&gt;Esta idea es sencilla aunque sea ardua de explicar. No se trata de que la comunicación humana sea imperfecta por causas de malevolencia o diferencias de circunstancia. Es el método mismo el que lleva en sí la semilla de su propia falencia, por lo tanto esta es insuperable y solo nos quedan cuatro opciones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tratar de disminuir el &lt;em&gt;ruido semántico&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Hacer del &lt;em&gt;ruido semántico&lt;/em&gt; un atributo.&lt;/li&gt;
+&lt;li&gt;Asumir –es decir, imaginar voluntariosamente– que el &lt;em&gt;ruido semántico&lt;/em&gt; no existe&lt;/li&gt;
+&lt;li&gt;Perseverar en el lenguaje esperando que el &lt;em&gt;ruido semántico&lt;/em&gt; sea negligible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La primera opción es la elegida por la Ciencia y la Filosofía; la segunda, por el Arte en todas sus ramas; la tercera, por la comunicación política; la última es la ruta del habla cotidiana.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;la-paradoja&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;La Paradoja&lt;/h2&gt;
+&lt;p&gt;Todo sistema de comunicación nace de la ilusión de que es factible transmitir estados emocionales esencialmente complejos. La paradoja radica en que sobre esta misión imposible se construye sistemas semánticamente complejos, cuya complejidad va gradualmente volviéndolos inútiles.&lt;/p&gt;
+&lt;p&gt;En lo que a los lenguajes concierne, los más simples, con menos matices y menos capacidades, son más eficaces que los lenguajes complejos y refinados, preñados de sutilezas y sobrepoblados de perspectivas históricas y alusiones socioculturales. La complejidad misma del lenguaje lo revela cada vez como algo más y más inútil, un sistema basado en una ilusión cuya precariedad va revelándose más claramente conforme pasa el tiempo, se incrementa su legado y aumenta el número de personas que lo usan.&lt;/p&gt;
+&lt;p&gt;En otros términos: un lenguaje se vuelve menos útil conforme es usado por más personas durante más tiempo. Esto se debe a que el esfuerzo de asumir voluntariosamente que el sistema funciona se va volviendo cada vez más insostenible conforme los usuarios se incrementan.&lt;/p&gt;
+&lt;p&gt;Ejemplos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;El idioma quechua, que usa varios préstamos del culturalmente dominante castellano, requiere de sus hablantes un menor nivel de presunción semántica que el inglés.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;El idioma chino se resquebraja bajo el peso de su propia densidad sociohistórica: incapaz de seguir sustentando la ilusión de unidad, apenas si sobrevive como ilusión gráfica, mientras que la ilusión oral hace tiempo cedió su lugar a la atomización. &lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Los temas &lt;a href=&#34;#fn3&#34; class=&#34;footnote-ref&#34; id=&#34;fnref3&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; elementales de la Música sobreviven más tiempo y son más populares que las formas inmóviles del clasicismo europeo. La razón es que aquello que alimentó la motivación de sus compositores y permitió su refinamiento fue un momento histórico que ya ha pasado. No es posible reproducir los nocturnos de Chopin como él los imaginó, ni experimentarlos en el 2020 como lo hacían los asistentes a los &lt;em&gt;salons&lt;/em&gt; parisienses del siglo XIX.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;el-populoso-empobrecimiento-del-lenguaje&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;El Populoso Empobrecimiento del Lenguaje&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&lt;em&gt;Cien hombres, juntos, son la centésima parte de un hombre.&lt;/em&gt;”
+Antonio Porchia&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Tal vez asombre a algunos la frase: &lt;strong&gt;&lt;em&gt;a mayor cantidad de hablantes, durante más tiempo, más pobre el lenguaje.&lt;/em&gt;&lt;/strong&gt; Sin embargo; no es solo cierta o aplicable al lenguaje, sino también a cualquier otro sistema de comunicación y a cualquier artefacto comunicativo.&lt;/p&gt;
+&lt;p&gt;¿Qué espectador teatral podría decir que prefiere &lt;em&gt;Hamlet&lt;/em&gt; tal cual fue escrito? ¿Por qué es casi imposible encontrar puestas en escena que respeten la integridad del drama shakespeareano? Porque habría muy pocos dispuestos a someterse a una réplica de la experiencia isabelina.&lt;a href=&#34;#fn4&#34; class=&#34;footnote-ref&#34; id=&#34;fnref4&#34;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;La riqueza de un sistema comunicacional no se mide por su cantidad de hablantes, su antigüedad, o las sutilezas y repertorio léxico que posea, sino por la eficiencia que tenga para transmitir su contenido al receptor.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;En ese sentido, el balbuceo de un bebé es más eficaz, comunicacionalmente, que la Biblia entera.&lt;/p&gt;
+&lt;p&gt;En efecto, mientras que para poder entender el sentido emocional del balbuceo infantil apenas si necesitamos aprendizajes previos, contexto sociohistórico, o una comunidad que comparta sus implicancias, en el caso bíblico requerimos, en muchos casos, años de estudio en diversas disciplinas, una comunidad que sostenga nuestra peculiar interpretación del texto, y un sentido existencial y espiritual que valide nuestra peculiar interpretación del texto bíblico.&lt;/p&gt;
+&lt;p&gt;Algunos dirán: “todo el mundo sabe lo que dice la Biblia”. Y en ese presupuesto radica, precisamente, la pobreza de los contenidos comunicacionales complejos como la Biblia: que todo el mundo asume que sabe de qué se trata, sin contrastarlo con los demás. Es esta último, esta especie de presunción de conocimiento, lo que yo llamo “&lt;em&gt;la burbuja comunicacional&lt;/em&gt;”.&lt;/p&gt;
+&lt;p&gt;Esta &lt;em&gt;burbuja comunicacional&lt;/em&gt; va creciendo conforme se incrementa la red de usuarios del sistema de comunicación. A medida que ese número aumenta, se hace necesario que esa burbuja crezca más y más, ya que las (in)comprensiones se multiplican al ser función del procesamiento individual; llega el momento en que la tensión de sostener las múltiples discrepancias acerca de los elementos comunicativos&lt;a href=&#34;#fn5&#34; class=&#34;footnote-ref&#34; id=&#34;fnref5&#34;&gt;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; empieza a ser demasiado grande y atenta contra la estabilidad del sistema comunicacional.&lt;/p&gt;
+&lt;p&gt;Ese momento en la dinámica comunicacional, en el que el sistema ya está resquebrajado pero aún no se atomiza, es quizás el más peligroso, pues se alcanza la máxima pauperización comunicacional al mismo tiempo en que el sistema influye la máxima cantidad de gente.&lt;/p&gt;
+&lt;p&gt;Y es postulo que este fenómeno de la “pauperización en la masificación” va más allá de un simple problema de emisión y recepción de mensajes. Pasemos a ver algunas de las consecuencias de este fenómeno más allá de lo estrictamente comunicacional.&lt;/p&gt;
+&lt;div id=&#34;ciencia-vs.-empobrecimiento&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Ciencia vs. Empobrecimiento&lt;/h3&gt;
+&lt;p&gt;Con total certeza, la Ciencia es el mejor (tal vez el único) caso de éxito que los seres humanos podemos ostentar en relación al manejo de la pauperización semántica.&lt;/p&gt;
+&lt;p&gt;En efecto, el lenguaje científico, en todas sus ramas, ha mantenido una encomiable resistencia a la degradación semántica. Físicos de Teherán pueden sostener un fluido diálogo con físicos de Río de Janeiro, Sydney o Kyoto.&lt;/p&gt;
+&lt;p&gt;La estrategia científica ha sido involuntaria pero brillante: ha mantenido el ruido semántico a un mínimo sencillamente limitando el número de sus usuarios. A diferencia de casi cualquier otro sistema comunicacional, la Ciencia ha restringido el acceso a su comunidad de usuarios; y no lo ha hecho de manera intencional o deliberada. Lo ha hecho como producto impensado de la formalización de su lenguaje. Entender el verdadero lenguaje científico (no ese producto bastardeado que llamamos &lt;em&gt;divulgación científica&lt;/em&gt;) ostenta una elevada barrera de entrada, a saber una educación, un entrenamiento y una práctica constantes, y la interacción dentro de una comunidad de pares sometida a reglas comparativamente rígidas.&lt;/p&gt;
+&lt;p&gt;Normalmente, esto representaría la aniquilación de cualquier sistema comunicacional: ¿quién quiere usar un sistema que sirve para comunicarse con tan pocos y para cosas tan específicas?. Sin embargo, la Ciencia tiene una incomensurable ventaja: sus productos. El espectacular aumento en la calidad objetiva de vida (más longevidad, menor enfermedad, restricción bélica) valida y la da a sus usuarios un aura de élite inigualable en la Historia de la Humanidad.&lt;/p&gt;
+&lt;p&gt;No es que la existencia de una élite haya sido una novedad en sí misma; lo es el hecho de que esa nueva clase de élite:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No tiene poder político directo&lt;/li&gt;
+&lt;li&gt;No tiene voluntad discriminatoria (aunque sí genere discriminación &lt;em&gt;de facto&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Ostenta productos reales, objetivos e inobjetables&lt;/li&gt;
+&lt;li&gt;Universaliza sus reglas basándose en meritocracia de un nuevo tipo, uno que en principio no excluye a nadie, aunque en la práctica excluya a muchos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Las élites religioso-políticas que han usado el sistema de franquicias ideológicas para viabilizar y usar el poder político de manera gradualmente creciente nunca tuvieron, hasta La Revolución Industrial, nada objetivo y beneficioso que mostrar como justificación para su predominio, como no fuera el poder imperativo de la fuerza, à la Hobbes. La comunidad científica, por primera vez, generó esa justificación objetiva e inobjetable, a cambio de dos prácticas comparativamente ventajosas: financiamiento y libertad. Dado que el financiamiento a los científicos generó la inmensamente rentable &lt;em&gt;tecnología&lt;/em&gt; y la libertad de investigación generó el conocimiento sin implicaciones ideológicas, políticamente neutro&lt;a href=&#34;#fn6&#34; class=&#34;footnote-ref&#34; id=&#34;fnref6&#34;&gt;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt;, a los dirigentes políticos no les ha sido demasiado difícil acceder a esas dos prácticas, salvo deshonrosas excepciones de líderes que han condenado a sus naciones al oscurantismo, el retraso y la dependencia.&lt;/p&gt;
+&lt;p&gt;Sin esos productos (tecnología, prosperidad y calidad de vida, así como estabilidad política indirecta), la Ciencia como sistema comunicacional tendría probablemente la misma popularidad e impacto que el esperanto o el ajedrez.&lt;/p&gt;
+&lt;p&gt;Sin embargo, y para terminar por el momento con el análisis de la Ciencia bajo esta óptica, habría que mencionar que desde el año 2015/2016 lo que yo denomino la &lt;strong&gt;gran regresión antiglobalista&lt;/strong&gt;, que como un péndulo político ha retrotraído al mundo social al viejo estatus nacionalista, con sus valores miopes y su recelo negacionista y evitativo, es asimismo una amenaza existencial a la Ciencia. Las masas de foco local que votan por Trump y el &lt;em&gt;Brexit&lt;/em&gt; nacieron en un mundo en el que las ventajas científicas no solo no son novedades, sino que se dan por sentado. El antiguo asombro del &lt;em&gt;ignoramus&lt;/em&gt; ante las bombillas eléctricas se ha disuelto en el enojo contra las redes 5G. Hay un empoderamiento universal que está cobrando a la Ciencia la factura por su elitismo, y hoy nadie se avergüenza por ser &lt;em&gt;antivaxxer&lt;/em&gt; o &lt;em&gt;terraplanero.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Por otro lado, la Ciencia, absorta en las secuelas de la aleatoriedad fundamental de la Mecánica Cuántica, la inaccesibilidad experimental de la Teoría de las Supercuerdas, y el vértigo de los multiversos, sigue volviéndose más y más compleja sin el antiguo beneficio de mostrar al mundo más tecnología espectacular que la justifique. Las masas rebeldes han entendido, incluso con su razonamiento rudimental, que la antigua gallina de los huevos de oro científicos ya no se enculeca y piensa serimaente en hacerse un caldo con esa criatura que ya solo consume y no reporta nada provechoso para quien viaja en combi o come pan con pan. ¿Qué le importan al obrero los multiversos, que no entiende, los exoplanetas, a los que jamás llegará, o la danza inenarrable de las partículas subatómicas? Eso no se come, ni hará que su vida se extienda o mejore su salud.&lt;/p&gt;
+&lt;p&gt;Es poco probable que la Ciencia logre preservar su estatus de sistema comunicacional cerrado y elitista. Las Ciencias Duras están llegando al límite de su mecanismo simbiótico con el poder y a las Ciencias Sociales ni siquiera les falta mucho: ni siquiera se sabe si están en camino. Probablemente la última gran esperanza de la apuesta científica sean las Neurociencias. Si estas logran el nivel espectacular de resultados que antiguamente fue patrimonio de la Física y la Química, tal vez aún haya esperanza para el mejor, único caso de éxito de sistema comunicativo cerrado.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/pc/&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;amp;summary=En%20este%20ensayo%20pretendo%20establecer%20una%20idea%20sencilla%20y%20hasta%20trivial%3A%20la%20comunicaci%C3%B3n%20perfectamente%20eficiente%20entre%20los%20seres%20humanos%20es%20imposible.%20En%20segunda%20instancia,%20trato%20de%20esbozar%20algunas%20de%20las%20consecuencias%20de%20esta%20idea%20para%20efectos%20de%20actividades%20tales%20como%20la%20art%C3%ADstica,%20la%20pol%C3%ADtica,%20y%20la%20cient%C3%ADfica,%20haciendo%20en%20el%20%C3%BAltimo%20caso%20un%20%C3%A9nfasis%20especial%20en%20el%20proceso%20de%20la%20terapia%20psicol%C3%B3gica&amp;amp;source=&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/pc/&#34;&gt;Compartir en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20el%20art%C3%ADculo%3A%20https%3A//www.martinvargas.org.pe/post/pc/&#34;&gt;Compartir vía correo electrónico&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt; Vamos a usar la frase &lt;strong&gt;ruido semántico&lt;/strong&gt; para aludir a todo impedimento, intrínseco o extrínseco, que afecta al usuario emisor de un sistema comunicacional en su relación comunicacional con su receptor, e impide la transmisión perfecta del mensaje.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;Los habitantes chinos de zonas geográficamente distantes son incapaces de entenderse oralmente; solo la escritura sigue siendo única, sostenida por todos los sistemas estatales que se han empeñado por milenios en hacer de China una unidad política: el chino, como idioma, es un pulseo milenario entre la atomización dialectal y el verticalismo burocrático.&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn3&#34;&gt;&lt;p&gt;Con la palabra &lt;em&gt;temas&lt;/em&gt; aludo a secuencias musicales; es decir, encadenamientos de notas y sus tonalidades. Un estudio sumario de la música nos revela que, si bien existen secuencias potencialmente infinitas, solo un subconjunto es realmente eficaz para trasmitir los contenidos que el artista musical propone; las secuencias sencillas y de notas adyacentes suele ser preferida por las audiencias de forma virtualmente universal. Por el contrario, las secuencias enrarecidas del impresionismo musical o del atonalismo son favorecidos por élites escasas.&lt;a href=&#34;#fnref3&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn4&#34;&gt;&lt;p&gt;Réplica, por lo demás, imposible: incluso re-actuando &lt;em&gt;Hamlet&lt;/em&gt; al interior de una moderna reconstrucción del &lt;em&gt;Globe&lt;/em&gt;, y espectando la obra en pie y vestido de época, la vivencia original sería irrepetible, sencillamente porque nuestra mente no es una mente del 1600 sino del 2020.&lt;a href=&#34;#fnref4&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn5&#34;&gt;&lt;p&gt;Un &lt;em&gt;elemento comunicativo&lt;/em&gt; es la mínima unidad de significado del sistema comunicacional. Imploro a la lectora su paciencia, ya que en este ensayo estoy proponiendo nociones a un nivel de abstracción muy alto: un nivel en el que se generaliza Arte, Ciencia, Filosofía, etc., y por lo tanto no podemos hablar en términos más concretos y técnicos.&lt;a href=&#34;#fnref5&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn6&#34;&gt;&lt;p&gt;Al menos en principio, aunque para muchos sería difícil negar que la Ciencia ha logrado hacer mejores migas con el liberalismo capitalista que con el antiguo socialismo soviético. Para esos muchos tal vez el ejemplo del avance tecnológico chino quizás no sea un contraargumento suficiente, pero ese es otro debate.&lt;a href=&#34;#fnref6&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qué es el Estrés</title>
+      <link>/post/stress001/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/stress001/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/stress001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/stress001/&amp;amp;title=Qu%C3%A9%20es%20el%20estr%C3%A9s&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/stress001/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/stress001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cuando-los-poderes-del-pensamiento-se-aletargan&#34;&gt;Cuando los poderes del pensamiento se aletargan&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Hay cosas a nuestro alrededor, cosas de las cuales no puedo dar cuenta clara: cosas materiales y espirituales; pesadez en la atmósfera; una sensación de asfixia, ansiedad y, sobre todo, ese terrible estado de existencia que experimentan los nervios cuando los sentidos están vivos y despiertos y, sin embargo, los poderes del pensamiento se aletargan.&amp;quot;&lt;/em&gt; (Edgar A. Poe, &lt;em&gt;&lt;strong&gt;Shadow&lt;/strong&gt;&lt;/em&gt;).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Edgar Allan Poe vivió en un mundo muy distinto al nuestro: un mundo sin telecomunicaciones, sin medios masivos de distracción; un mundo en el que países enteros no llegaban a tener ni la mitad de la población de una metrópolis de hoy. Y sin embargo, fue capaz de describir sensaciones muy parecidas a las que nosotros, habitantes aislados pero permanentemente comunicados del siglo XXI, llamamos &lt;em&gt;&lt;strong&gt;estrés&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Los psicólogos pensamos que los estados de ánimo son más o menos permanentes y universales; es decir, existen aproximadamente desde siempre y en todos los lugares. Así que, si hoy tantos nos sentimos eventualmente aquejados por el estrés, ¿por qué no Poe? ¿por qué no tú?&lt;/p&gt;
+&lt;h2 id=&#34;pensamientos-sensaciones-emociones&#34;&gt;Pensamientos, sensaciones, emociones&lt;/h2&gt;
+&lt;p&gt;Suelo plantearles a mis alumnos la siguiente metáfora: Prudencio y Nicasio son colegas vendedores de celulares. Una mañana su supervisor les define la siguiente meta: deben vender 100 celulares cada uno antes del fin del mes. Quien no la cumpla, dejará de pertenecer a la empresa.&lt;/p&gt;
+&lt;p&gt;Prudencio es un vendedor eficiente, pero cien celulares es una enormidad. Se esfuerza, y pronto se ve abrumado por la sensación aplastante de una meta imposible. Su confianza en sí mismo disminuye, y la falta de convicción afecta su poder de convencimiento. Cada nueva llamada se hace más difícil; su mente torturada por el prospecto de ser un desempleado a futuro busca la menor oportunidad para distraerse, y eso solo le quita tiempo. A medida que se acerca el vencimiento del plazo, la angustia y desesperación de su voz hace que sus argumentos parezcan alegatos que en vez de motivar, ponen incómodos a sus potenciales clientes.&lt;/p&gt;
+&lt;p&gt;La mañana del vigésimo octavo día del mes, Prudencio se balancea apretujado en una combi, rumbo al negocio de un posible cliente. De pronto lo atenaza una angustiante sensación de ahogo; su corazón empieza a latir desbocado, como si acabara de terminar una carrera de cien metros contrarreloj. Sudoroso, sale desesperado del transporte y salta a la Avenida Javier Prado, cuando aún falta mucho para llegar a su destino; convencido de que en cualquier momento le dará un ataque al corazón, trata de llenar sus pulmones de aire y mira a su alrededor buscando algún alma caritatva que lo ayude a llegar a un hospital.&lt;/p&gt;
+&lt;p&gt;Nicasio, por otro lado, desarrolla una actividad frenética; apela a sus parientes, amigos, compañeros de promoción, conocidos de la cuadra, gente que se encuentra en la cola del supermercado, y a quien tome asiento a su lado en el Metropolitano. Recuerda a su primer jefe, quien le ayudó a descubrir su vocación por las ventas y le llamaba &amp;ldquo;Tigre&amp;rdquo;. Se siente un tigre, una especie de animal sin tiempo para otra cosa que no sea su cacería. Un depredador no filosofa, no recuerda, no se pone a imaginar escenarios de desgracia potencial: simplemente actúa. Le falta tiempo para llamar a su cartera de clientes; cada noche se duerme sonriendo, pensando en alguna manera novedosa de vender. Al día 30 del mes, se dio cuenta de que aún le faltaban diez celulares, pero había llegado a casi doblar su récord personal anterior.&lt;/p&gt;
+&lt;p&gt;Prudencio pasó por todo el ciclo del estrés: &lt;em&gt;&lt;strong&gt;evaluó&lt;/strong&gt;&lt;/em&gt; su meta como algo atemorizante y difícil de alcanzar, empezó a &lt;em&gt;&lt;strong&gt;sentir&lt;/strong&gt;&lt;/em&gt; aprensión acerca de su futuro, y eso lo llevó a &lt;em&gt;&lt;strong&gt;actuar&lt;/strong&gt;&lt;/em&gt; menos y peor de lo que normalmente hubiera actuado. Terminó por sentir &lt;em&gt;&lt;strong&gt;sensaciones&lt;/strong&gt;&lt;/em&gt; físicas que lo llevaron al hospital.&lt;/p&gt;
+&lt;p&gt;Nicasio, por el contrario, no estaba estresado; simplemente &lt;em&gt;estaba demasiado ocupado para estresarse&lt;/em&gt;. Su actividad mental era tal, que en vez de ir en detrimento de su desempeño, lo hizo mejorar. Se planteó la meta no como algo imposible, sino un desafío hasta cierto pounto divertido, un reto personal a sus habilidades.&lt;/p&gt;
+&lt;p&gt;Puede que ninguno de los dos lograse la meta y ambos terminen despedidos, pero apuesto a que Nicasio la pasó mejor, y aun en el peor escenario, terminó el mes con mucho más comisiones, un certificado de trabajo halagador y fondos para sobrellevar un desempleo que probablemente sea breve.&lt;/p&gt;
+&lt;h2 id=&#34;qué-es-el-estrés&#34;&gt;Qué es el estrés&lt;/h2&gt;
+&lt;p&gt;Si prestaste atención a algunas de las palabras clave de los párrafos anteriores (las he enfatizado con negritas y cursivas para tu mayor comodidad), ya estamos listos para definir el estrés:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;El estrés se define como el desbalance negativo entre las demandas percibidas de una situación y los recursos personales propios de afrontarla.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;El estrés ocurre cuando las demandas percibidas  de una situación exceden la capacidad de afrontamiento de la persona (Lazarus &amp;amp; Folkman, 1984): tanto Prudencio como Nicasio empezaron el mes con la misma meta, bajo las mismas condiciones; pero el resultado y, sobre todo, la vivencia personal fue muy distinta. Esto quiere decir que el estrés no es algo que esté allá afuera, ni es una característica de una situación, sino de quien la vive. En ese sentido, técnicamente no existen trabajos estresantes, sino trabajadores estresados.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nuestros pensamientos generan emociones&lt;/strong&gt;&lt;/em&gt;: si soy un tigre, no puedo tener miedo, sino más bien excitación por la meta que estoy a punto de alcanzar. Si soy un futuro desempleado, siento miedo y aprensión por lo que depara el futuro.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nuestras emociones generan conducta&lt;/strong&gt;&lt;/em&gt;: la ansiedad terminó por hacer de Prudencio un peor vendedor y lo convirtió en un &lt;em&gt;procrastinador&lt;/em&gt; que solo buscaba evadir su situación, entrando en un círculo vicioso de distracciones e ineficiencia que desembocó en un ataque de pánico. Para Nicasio la nueva meta acabó por convertirse en una especie de juego que terminó por elevar su autoestima.&lt;/p&gt;
+&lt;p&gt;El ciclo del estrés se produce por el encadenamiento de pensamientos negativos que llevan a emociones negativas (miedo, ira, sensación de minusvalía, entre otras), que llevan a la persona a entrar en &lt;em&gt;modo de supervivencia&lt;/em&gt; y a tener conductas rígidas de escape o de agresión. Es un mecanismo que nos sirvió de mucho durante ese 95% de nuestra historia como especie, en que habitamos cavernas y planicies y para sobrevivir teníamos que pelear o huir. Pero ahora ya no tiene cabida: Prudencio no podía salir corriendo de la oficina de su jefe, y tampoco lo podía atacar.&lt;/p&gt;
+&lt;h2 id=&#34;cómo-afrontar-las-situaciones-difíciles&#34;&gt;Cómo afrontar las situaciones difíciles&lt;/h2&gt;
+&lt;p&gt;Si me has acompañado hasta ahora, concluirás conmigo en que el estrés no es un estado inevitable; es el fruto amargo de una manera equivocada pero corregible de afrontar las situaciones difíciles.&lt;/p&gt;
+&lt;p&gt;Para evitar caer en el estrés, podemos actuar a diversos niveles: podemos modificar nuestras emociones, nuestros pensamientos, nuestras conductas, o diversas combinaciones de estos. Es una tarea potencialmente difícil, sobre todo si se la emprende en soledad. Por ello, te ofrecemos nuestro apoyo profesional; no dejes que el &lt;em&gt;poder de tus pensamientos se aletargue&lt;/em&gt;; te esperamos.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/stress001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/stress001/&amp;amp;title=Qu%C3%A9%20es%20el%20estr%C3%A9s&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/stress001/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/stress001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Escalas de Medición, Parte 2</title>
+      <link>/post/em02/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/em02/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em02/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em02/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em02/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;escalas-de-medición-parte-2&#34;&gt;Escalas de Medición, Parte 2&lt;/h1&gt;
+&lt;p&gt;Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología: el clásico ***&amp;ldquo;On the Theory of Scales of Measurement&amp;rdquo;, de Stevens: ***. Esta es la segunda parte. Puedes leer la primera 
+&lt;a href=&#34;https://www.martinvargas.org.pe/post/em01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Continuando con el resumen y explicación del artículo clásico de Stevens, iniciaremos la parte 2 de esta serie conversando algo acerca de las escalas nominales y ordinales.&lt;/p&gt;
+&lt;h2 id=&#34;escala-nominal&#34;&gt;Escala Nominal&lt;/h2&gt;
+&lt;p&gt;Es la escala que permite el uso más irrestricto de números o caracteres. Los números o caracteres se aplican a elementos, también llamados &lt;strong&gt;unidades de análisis&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Una unidad de análisis es cualquier cosa cuyos atributos queremos medir.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;La regla de la escala nominal es: &amp;ldquo;&lt;em&gt;no asignar el mismo membrete &amp;ndash;número o combinación de caracteres&amp;ndash; a más de una unidad de análisis; y tampoco membretes diferentes a la misma unidad de análisis&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;La unidad de análisis puede ser &lt;em&gt;singular&lt;/em&gt; (un individuo), o &lt;em&gt;plural&lt;/em&gt; (un grupo). Como ya habíamos mencionado, la unidad de análisis es la que posee el atributo que queremos medir. En el caso de la escala nominal, lo único que queremos medir o determinar es si los elementos tienen o no el mismo atributo.&lt;/p&gt;
+&lt;p&gt;Uno de los ejemplos más simples posibles es el del sexo biológico. Si las unidades de análisis son los alumnos de Psicología, y el atributo es el sexo biológico, asignaremos el membrete &amp;ldquo;1&amp;rdquo; a las mujeres, y &amp;ldquo;2&amp;rdquo; a los varones. Lo único que estamos intentando hacer es determinar qué alumnos corresponden a cada sexo. Por lo tanto, nos bastará con usar membretes distintos; de hecho, podríamos cambiar los membretes por cualesquiera otros, con la única condición de respetar la regla ya establecida. Más allá de eso, cualquier permutación de valores es válida en esta escala: podríamos usar &amp;ldquo;A&amp;rdquo; y &amp;ldquo;B&amp;rdquo;; &amp;ldquo;I&amp;rdquo; y &amp;ldquo;II&amp;rdquo;; &amp;ldquo;0&amp;rdquo; y &amp;ldquo;1&amp;rdquo;; etc.&lt;/p&gt;
+&lt;p&gt;Como anécdota, Stevens menciona que era justamente la escala nominal la manzana de la discordia durante las reuniones del famoso Comité: para los expertos provenientes de la Física, otorgarle a un método tan rudimental como el nominal la dignidad de &amp;ldquo;medición&amp;rdquo; era algo inadmisible.&lt;/p&gt;
+&lt;h2 id=&#34;escala-ordinal&#34;&gt;Escala Ordinal&lt;/h2&gt;
+&lt;p&gt;La operación que define a esta escala es el &lt;strong&gt;ranqueo u ordenamiento&lt;/strong&gt; de las unidades de análisis en base al atributo que estamos midiendo. Por ejemplo, cuando estamos tratando de medir el atributo &lt;em&gt;&lt;strong&gt;estatus&lt;/strong&gt;&lt;/em&gt; de los puestos de trabajo de una empresa (que vendrían a ser  &lt;em&gt;las unidades de análisis&lt;/em&gt;), podemos asignarles un código que implique un orden, &lt;em&gt;un más de&lt;/em&gt; o &lt;em&gt;menos de&lt;/em&gt;:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Puesto&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Código A&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Código B&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Auxiliar&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Asistente&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Analista&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Especialista&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;210&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Supervisor&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;300&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Jefe&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;310&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;En esta tabla, los códigos asignados a cada puesto reflejan el &lt;em&gt;estatus&lt;/em&gt; asignado a cada cargo. Este estatus no es una cantidad exacta o predefinida; no se trata realmente de salario, ya que, por ejemplo, un &amp;ldquo;Especialista&amp;rdquo; muy cotizado en el mercado puede llegar a ganar más dinero que un &amp;ldquo;Supervisor&amp;rdquo; que no tenga calificaciones especiales o posea poca experiencia, como sabe cualquiera que haya trabajado en remuneraciones del personal. Tal vez lo más aproximado sería decir que esperaríamos que un analista tenga más responsabilidades que un auxiliar pero menos que un Jefe, aunque no ea posible medir las diferencias manera exacta. Solo sabemos que algunos puestos tienen más estatus que otros, aunque no sepamos cuanto más.&lt;/p&gt;
+&lt;p&gt;Cualquier cambio sistemático que se haga a una escala ordinal es válido, siempre y cuando no se altere el orden o ranqueo de las unidades de análisis. Por ejemplo, si cambiamos el código A por el código B, no tendríamos ningún problema ni perderíamos información esencial. Ambas versiones de codificación mantienen el orden, que en este caso es lo único que estamos midiendo, lo único que realmente interesa.&lt;/p&gt;
+&lt;p&gt;Stevens admite que en realidad casi todas las medidas que hacemos los psicólogos son de tipo ordinal, y que cualquier indicador estadístico en virtud del cual se presuma que uno sabe algo más de las unidades que el simple orden relativo de estas (como por ejemplo el promedio o la desviación estándar) en puridad no son aplicables.&lt;/p&gt;
+&lt;p&gt;Lo que dice literalmente Stevens es:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Por otro lado, para esta estadística &amp;ldquo;&lt;em&gt;ilegal&lt;/em&gt;&amp;rdquo; puede invocarse una especie de sanción pragmática: en numerosos casos conduce a resultados fructíferos. Si bien la prohibición de este procedimiento probablemente no sirva para un buen propósito, es apropiado señalar que los medios y las desviaciones estándar calculadas en una escala ordinal son erróneas en la medida en que los intervalos sucesivos en la escala son desiguales en tamaño. Cuando solo se conoce el orden de clasificación de los datos, debemos proceder con cautela con nuestras estadísticas, y especialmente con las conclusiones que se extrae de ellas.&lt;/em&gt; (Stevens, S. S. (1946). On the theory of scales of measurement. Science, 103(2684), p. 679)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;En otras palabras: o bien nos podemos poner super estrictos, y no ganar nada por ello, o bien aventurarnos un poco y, en la medida en que es razonable, pensar que los intervalos de la escala son más o menos parejos o semejantes entre sí, calcular algunos estadísticos útiles. Con cautela.&lt;/p&gt;
+&lt;p&gt;Incluso algunos estadísticos admisibles para una escala ordinal deben usarse con prudencia. Por ejemplo, &lt;em&gt;interpolar&lt;/em&gt; el valor de un determinado percentil linealmente es, estrictamente, ilícito, porque no es válido asumir que los intervalos entre los puntos de una escala ordinal son todos iguales (lo cual es un requisito para la linealidad). Por ejemplo, si calculamos que el P90 (percentil 90) &amp;ldquo;cae&amp;rdquo; en el dato ordinal 30, y el P80 en el dato ordinal 20, no es admisible &lt;em&gt;interpolar&lt;/em&gt; (en otras palabras, deducir) que el P85 va a estar necesariamente en el valor 25.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;El término &amp;ldquo;interpolar&amp;rdquo; significa deducir un valor intermedio desconocido entre dos valores que sí conocemos, mientras que &amp;ldquo;extrapolar&amp;rdquo; significa asumir un valor desconocido más allá de dos o más valores conocidos.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Para complementar: si usamos el mismo ejemplo anterior, sería asimismo inválido &lt;em&gt;extrapolar&lt;/em&gt; que, solo porque el P80 es 20 y el P90 es 30, el P95 va a ser 35.&lt;/p&gt;
+&lt;p&gt;En el artículo siguiente, haremos una explicación un poco más detallada de los dos tipos de escalas que permiten extraer más información: las escalas de intervalo y de razón.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em02/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em02/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em02/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Escalas de Medición, Parte 1</title>
+      <link>/post/em01/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/em01/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20art%C3%ADculo&amp;amp;body=https%3A//www.martinvargas.org.pe/post/em01/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http%3A//127.0.0.1%3A4321/post/em01/&amp;amp;title=Interesante%20art%C3%ADculo&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Comparto%20un%20art%C3%ADculo%20interesante%3A%20http%3A//127.0.0.1%3A4321/post/em01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;escalas-de-medición-parte-1&#34;&gt;Escalas de Medición, Parte 1&lt;/h1&gt;
+&lt;p&gt;Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología:  &lt;em&gt;&lt;strong&gt;Stevens, S. S. (1946). On the theory of scales of measurement. Science, 103(2684), 677–680. 
+&lt;a href=&#34;https://doi.org/10.1126/science.103.2684.677&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1126/science.103.2684.677&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Este es apenas el primero de una serie de artículos, ya que este tema es  fundamental pero quizá a algunos de nosotros se nos puede complicar si tratamos de asimilarlo de una sola vez.&lt;/p&gt;
+&lt;h2 id=&#34;un-comité-inglés&#34;&gt;Un comité inglés&lt;/h2&gt;
+&lt;p&gt;En 1932, en Inglaterra, se reunió un comité compuesto por físicos y psicólogos, para deliberar  sobre la siguiente cuestión: &lt;em&gt;&lt;strong&gt;¿es posible medir las sensaciones?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Discutieron las cuestión ¡durante siete años! Y no lograron un acuerdo: cada uno &amp;ldquo;salió tal como había entrado&amp;rdquo;. Así que continuaron hasta 1940.&lt;/p&gt;
+&lt;p&gt;El meollo de la discusión consistía en ponerse de acuerdo en relación a qué se entiende por &amp;ldquo;&lt;em&gt;medición&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Como suele suceder en la historia de la Psicología, los &amp;ldquo;primeros principios&amp;rdquo; tuvieron que ver con el estudio de lo sensorial, específicamente la percepción auditiva (Stevens era una de los expertos en el tema).&lt;/p&gt;
+&lt;p&gt;Para cerrar la discusión, se acordó que iban a centrarse en el estudio de un instrumento de medición específico, en este caso un test del mismo Stevens: &amp;ldquo;&lt;em&gt;the Sone scale of loudness&amp;rdquo;&lt;/em&gt;, de 1938. Era una escala que intentaba medir la sensación subjetiva que corresponde a estímulos auditivos.&lt;/p&gt;
+&lt;p&gt;Enfrentado a la imposibilidad de llegar a una única definición de medición que no suscite alguna objeción, el autor propone la admisión &lt;em&gt;à priori&lt;/em&gt; de que no existe una única modalidad de medición.&lt;/p&gt;
+&lt;p&gt;Stevens indica que las diferentes clases de medición se diferencian en función de dos criterios:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Las diferencias &amp;ldquo;prácticas&amp;rdquo; (&amp;quot;&lt;em&gt;&lt;strong&gt;empirical operations&lt;/strong&gt;&lt;/em&gt;&amp;quot;) en las acciones implicadas en la medición misma; y&lt;/li&gt;
+&lt;li&gt;La diferencia en las propiedades matemático-formales de cada tipo de medición.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Uno de los miembros del famoso Comité indicó una definición de medición que ¡yo ya había deducido por mí mismo hace años!:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;&lt;em&gt;La medición, en el sentido más amplio, se define como la asignación de números a objetos o eventos de acuerdo con determinadas reglas.&lt;/em&gt;&amp;rdquo; (N. R. Campbell, según Stevens, p. 667)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;¿Qué es una escala? Una escala es un algoritmo que asigna números/caracteres a objetos/eventos aplicando ciertas reglas&lt;/strong&gt;&lt;/em&gt;, las cuales reglas deben tener cierto paralelismo a los aspectos de los objetos/eventos que se pretende medir.&lt;/p&gt;
+&lt;h2 id=&#34;reglasoperaciones&#34;&gt;Reglas=Operaciones&lt;/h2&gt;
+&lt;p&gt;Cuando hablaba de reglas, hablaba en realidad de operaciones que se pueden expresar matemáticamente.&lt;/p&gt;
+&lt;p&gt;Entrando en materia, existen cuatro grandes tipos de escalas: escala nominal, escala ordinal, escala de intervalo y escala de razón. Cada tipo de escala de medición estará definida por un tipo de operación aplicable; la palabra &amp;ldquo;aplicable&amp;rdquo; significa que podemos usar esas operaciones para modificar la escala sin que se pierda ninguna propiedad esencial de la medición.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Escala&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Definición&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Ejemplo&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Nominal&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Sirve solo para distinguir un elemento de otro&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Perú, Guatemala, EEUU;  católico, evangélico, ateo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ordinal&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Sirve para determinar qué elemento tiene más o menos del atributo que se mide&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Grado militar: soldado raso, capitán, general; nivel organizacional: auxiliar, asistente, jefe, gerente.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;De intervalo&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Sirve para medir la distancia entre los elementos; la distancia debe ser constante; el &amp;ldquo;punto cero&amp;rdquo; es arbitrario&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Grados centígrados; grados Fahrenheit. La inmensa mayoría de pruebas psicológicas.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;De razón&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Igual que la escala de intervalo, pero el cero es absoluto, objetivo, y no arbitrario.&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Número de cigarrillos consumidos; número de parejas sexuales.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Las operaciones o reglas de las que estamos hablando son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Igualdad/desigualdad&lt;/strong&gt; (&lt;em&gt;Escala nominal&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ranqueo u ordenamiento&lt;/strong&gt; (&lt;em&gt;Escala ordinal&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vectorialidad o igualdad entre los grados de diferencia&lt;/strong&gt; entre dos o más objetos o estímulos (&lt;em&gt;Escala de intervalo&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proporcionalidad o igualdad entre las proporciones&lt;/strong&gt; existentes entre dos o más objetos o estímulos (&lt;em&gt;Escala de razón&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La tabla siguiente nos resume y nos da un ejemplo de cada  operación aplicable a cada tipo de escala:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Escala&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Operación&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Expresión&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;em&gt;Nominal&lt;/em&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Igualdad&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1=1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;em&gt;Ordinal&lt;/em&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ranqueo&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1 &amp;lt; 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;em&gt;Intervalo&lt;/em&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Vectorialidad&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;(2-1)=(3-2)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;em&gt;De razón&lt;/em&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Proporcionalidad&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;(1/2)=(2/4)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;¿Cuál sería el criterio para aplicar las diferentes escalas de medición? Es decir, ¿de qué depende el tipo de medición que vamos a aplicar? Pues va a depender de las propiedades que queremos medir:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Si solo queremos medir si dos objetos son o no los mismos, usaremos la escala &lt;strong&gt;nominal&lt;/strong&gt; (estaremos midiendo la propiedad de &lt;em&gt;igualdad&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;Si queremos medir si cuál es mayor ente dos o más objetos, usaremos la escala &lt;strong&gt;ordinal&lt;/strong&gt; (estaremos midiendo la propiedad de &lt;em&gt;ranqueo&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;Si queremos determinar si las diferencias o &amp;ldquo;distancias&amp;rdquo; entre dos o más objetos es igual o diferente, usaremos la escala de &lt;strong&gt;intervalo&lt;/strong&gt; (estaremos midiendo la propiedad de Igualdad entre los grados de diferencia, o &lt;em&gt;vectorialidad&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;Si queremos determinar la proporcionalidad entre dos o más objetos, usaremos la escala de &lt;strong&gt;razón&lt;/strong&gt; (estaremos midiendo la propiedad de &lt;em&gt;proporcionalidad&lt;/em&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;El criterio para definir qué análisis es posible aplicar es mantener los datos &lt;em&gt;invariantes&lt;/em&gt;, o como hemos dicho líneas arriba: operar de tal forma que la medición esencial no se altera.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;En la escala &lt;em&gt;&lt;strong&gt;nominal&lt;/strong&gt;&lt;/em&gt;, un nombre puede ser cambiado por otro. La única limitación es no aplicar el mismo nombre para elementos diferentes, ni tampoco nombres diferentes para el mismo elemento. Por ejemplo, si los elementos que queremos medir son grupos religiosos, no podremos usar el término &lt;em&gt;católico&lt;/em&gt; para quienes van a misa y reconocen la autoridad del Papa y para quienes profesan la fe de Mahoma y peregrinan a la Meca.&lt;/li&gt;
+&lt;li&gt;En la escala &lt;em&gt;&lt;strong&gt;ordinal&lt;/strong&gt;&lt;/em&gt;, no solo no se puede cambiar el nombre o denominación, sino tampoco el orden de los elementos. Sin embargo,  sí es posible hacer cualquier otro cambio.  Por ejemplo, si estamos usando las denominaciones &amp;ldquo;100&amp;rdquo; como código para los auxiliares, &amp;ldquo;200&amp;rdquo; para los analistas, y &amp;ldquo;300&amp;rdquo; para los jefes, podríamos cambiarlas por &amp;ldquo;1&amp;rdquo;, &amp;ldquo;2&amp;rdquo; y &amp;ldquo;3&amp;rdquo;, o &amp;ldquo;1000&amp;rdquo;, &amp;ldquo;2000&amp;rdquo; y &amp;ldquo;3000&amp;rdquo;, o por último, &amp;ldquo;A&amp;rdquo;, &amp;ldquo;B&amp;rdquo;, y &amp;ldquo;C&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;En la escala &lt;em&gt;&lt;strong&gt;de intervalo&lt;/strong&gt;&lt;/em&gt;, las operaciones admisibles son aún más restringidas; solo se pueden hacer cambios si se hace una transformación lineal del tipo  &lt;em&gt;&lt;strong&gt;ax+b&lt;/strong&gt;&lt;/em&gt;. Por ejemplo, se puede convertir una temperatura medida en grados centígrados a grados Fahrenheit (F=C*9/5+32), pero usando una transformación.&lt;/li&gt;
+&lt;li&gt;En la escala &lt;em&gt;&lt;strong&gt;de razón&lt;/strong&gt;&lt;/em&gt;, la escala de medición de mayor nivel, es también la más restringida. Solo son admisibles transformaciones mediante la multiplicación por una constante, del tipo &lt;em&gt;&lt;strong&gt;ax&lt;/strong&gt;&lt;/em&gt;. Por ejemplo, las medidas de longitud solo se pueden transformar mediante una constante, como el caso de pulgadas a centímetros (cm=pulgadas*2.54).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;En los próximos artículos, haremos una pequeña revisión de los dos grupos de escalas: nominal y ordinal, por un lado, y las de intervalo y de razón, por el otro.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20art%C3%ADculo&amp;amp;body=https%3A//www.martinvargas.org.pe/post/em01/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http%3A//127.0.0.1%3A4321/post/em01/&amp;amp;title=Interesante%20art%C3%ADculo&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Comparto%20un%20art%C3%ADculo%20interesante%3A%20http%3A//127.0.0.1%3A4321/post/em01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparando tus Datos</title>
+      <link>/post/data_wrangling/</link>
+      <pubDate>Sat, 23 May 2020 21:13:14 -0500</pubDate>
+      <guid>/post/data_wrangling/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/data_wrangling/&amp;amp;title=Preparando%20tus%20Datos&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/data_wrangling/&#34;&gt;Comparte vía correo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;p&gt;Cuando hacemos una investigación o tesis cuantitativa, a menudo se hace necesario &amp;ldquo;vaciar&amp;rdquo; los datos en una hoja de cálculo, o incluso hacer tablas manuales, antes de poder analizarlos en un software estadístico para llegar a una interpretación y conclusiones.&lt;/p&gt;
+&lt;p&gt;En este artículo, te resumiré algunas pautas importantes para poder preparar tu data (usaremos el término &lt;em&gt;data&lt;/em&gt; o &lt;em&gt;datos&lt;/em&gt; indistintamente), tomadas del importante artículo de Hadley Wickham &lt;em&gt;&lt;strong&gt;&amp;ldquo;Tidy Data&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; (Wickham, 2014).&lt;/p&gt;
+&lt;h2 id=&#34;tidy-data-o-data-ordenada&#34;&gt;Tidy Data o &amp;ldquo;Data Ordenada&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Tidy Data&lt;/em&gt; es una frase inglesa que podría traducirse como &amp;ldquo;data ordenada&amp;rdquo;, en el sentido de data arreglada, limpia, o correctamemnte dispuesta. Es una forma consistente y estandarizada de disponer la data para un procesamiento eficiente a fin de ingresarla a SPSS, R, Jamovi, SAS u otros software estadístico. Es el resultado final de un proceso que denominaremos &amp;ldquo;Preparación de la Data&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Se trata de un proceso continuo, que no se hace una sola vez y ya, debido a que es usual que para algunos análisis o para comprobar ciertas hipótesis, se tenga que &amp;ldquo;rearreglar&amp;rdquo; la data más de una vez.&lt;/p&gt;
+&lt;p&gt;Recomendamos a quien esté particularmente interesado en el tema la lectura del artículo original, cuya refrencia anotaremos al final de este artículo. Es uno de los textos clave sobre el asunto.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mantener el estándar &lt;em&gt;Tidy Data&lt;/em&gt; permite analizar más rápido, sin tener que &amp;ldquo;acomodar&amp;rdquo; la data primero, así como también hace posible colaborar fácilmente con otros. Por último, también nos permitirá hacer interface con otros sistemas y herramientas de software sin necesidad de hacer muchas modificaciones.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;variables-observaciones-y-valores&#34;&gt;Variables, Observaciones y Valores&lt;/h2&gt;
+&lt;p&gt;Todo conjunto de datos (también llamado &lt;em&gt;data set&lt;/em&gt;) tiene tres elementos:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Variables&lt;/strong&gt;: consiste en la medición de algún tipo de atributo propio de la unidad de análisis. Ejemplos: duración, frecuencia, cantidad, altura, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observaciones&lt;/strong&gt;: Es la recolección de una variable en un momento específico del tiempo, medida en una única entidad o unidad de análisis. Ejemplos: el tiempo que le toma a un alumno completar el examen de fin de semestre en un día determinado.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Valores&lt;/strong&gt;: Son la intersección entre variables y observaciones.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Para hacer tu data &amp;ldquo;ordenada&amp;rdquo; se debe seguir tres simples convenciones:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Cada variable debe formar una columna (es decir, en vertical). Ergo, el nombre de cada columna debe ser el nombre de una variable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Cada fila  (en horizontal) debe contener una única observación.&lt;/li&gt;
+&lt;li&gt;Cada tabla debe contener data acerca de una única unidad observacional.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Algunos ejemplos, tomados de Wickham, de lo que se debe y no se debe hacer en términos de tablas:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.JPG&#34; alt=&#34;Ejemplo de disposición de data &amp;ldquo;desarreglada&amp;rdquo;&#34; title=&#34;Ejemplo de mala disposición de data&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En la tabla de arriba el problema consiste en que se ha dispuesto a las unidades de análisis (las personas) en las columnas, mientras que las variables (tipos de tratamiento) están en las filas.&lt;/p&gt;
+&lt;p&gt;En el segundo ejemplo (debajo), la disposición está un poco mejor pero aún puede mejorarse. Al menos ya se han dispuesto las variables en las columnas y las personas en las filas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2.JPG&#34; alt=&#34;Otro ejemplo de disposición de data &amp;ldquo;desarreglada&amp;rdquo;&#34; title=&#34;Ejemplo de mala disposición de data&#34;&gt;&lt;/p&gt;
+&lt;p&gt;El tercer ejemplo (justo debajo de estas líneas) nos muestra la misma data en la versión &lt;em&gt;arreglada&lt;/em&gt;, en términos de Tidy Data. La idea es que cada tratamiento, aplicada a cada persona, aparezca en una fila.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;3.JPG&#34; alt=&#34;Ejemplo de Tidy data&#34; title=&#34;Ejemplo de buena disposición de data&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Según las convenciones de &lt;em&gt;Tidy Data&lt;/em&gt;, en el último ejemplo se cuentan tres variables: &lt;em&gt;Persona&lt;/em&gt;, &lt;em&gt;Tipo de Tratamiento&lt;/em&gt; y &lt;em&gt;Resultado.&lt;/em&gt; Además tenemos 06 &lt;em&gt;observaciones&lt;/em&gt;, correspondientes a cada combinación de persona/paciente y tipo de tratamiento. Es importante notar que, por ejemplo, hay dos filas para Jane Doe, correspondientes a cada uno de los tratamientos que recibió, así como a los resultados correspondientes. Asimismo, John tiene un registro en &amp;ldquo;-&amp;rdquo;. Esto no quiere decir que no haya recibido ese tratamiento (si no lo hubiera recibido sencillamente no existiría esa fila); significa más bien que, pese a haber recibido ese tratamiento, no fue posible determinar el resultado. Por último, tenemos 18 &lt;em&gt;valores&lt;/em&gt; para esta tabla: son los contenidos que están ubicados en las intersecciones de las variables con las unidades de análisis (en este caso, pacientes). Así pues, cada observación consiste en tres valores, correspondientes a cada una de las tres variables involucradas.&lt;/p&gt;
+&lt;p&gt;Este último ejemplo está formateado como Tidy Data porque:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cada variable forma una columna&lt;/li&gt;
+&lt;li&gt;Cada observación forma una fila&lt;/li&gt;
+&lt;li&gt;Cada tipo de &lt;em&gt;unidad observacional&lt;/em&gt; forma una tabla. En este caso, la unidad observacional es el paciente. Si tuviéramos datos acerca de los doctores y los tratamientos que aplican, tendríamos que registrarlos en una tabla distinta. &lt;em&gt;Unidad observacional&lt;/em&gt; es otro nombre para lo que antes hemos llamado &lt;em&gt;unidad de análisis.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Esta es una convención TY importante: Cada Tabla debe corresponder a una &lt;em&gt;única unidad observacional.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;tipos-de-problema-que-afectan-a-la-data&#34;&gt;Tipos de Problema que afectan a la Data&lt;/h2&gt;
+&lt;p&gt;Wickham, en su paper, identifica cinco categorías de problema que afectan a los data sets y los hacen &lt;em&gt;untidy&lt;/em&gt; o &amp;ldquo;desarreglados&amp;rdquo;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Columnas definidas por valores en vez de por variables&lt;/li&gt;
+&lt;li&gt;Más de una variable registrada en la misma columna&lt;/li&gt;
+&lt;li&gt;Variables registradas en filas &lt;em&gt;&lt;strong&gt;y&lt;/strong&gt;&lt;/em&gt; en columnas a la vez&lt;/li&gt;
+&lt;li&gt;Dos o más unidades observacionales registradas en la misma tabla&lt;/li&gt;
+&lt;li&gt;Una única unidad observacional registrada en múltiples tablas&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;En la tabla siguiente tenemos un ejemplo del problema Tipo 1: las columnas están definidas por valores en vez de variables. Estos datos provienen de un estudio realizado por el Pew Research Center acerca de religión y niveles de ingreso económico familiar en EEUU.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;4.JPG&#34; alt=&#34;Ejemplo de Problema Tipo 1. Estudio sobre Religión e ingreso familiar  anual en EEUU.&#34; title=&#34;Ejemplo de Problema Tipo 1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;La siguiente es una forma de arreglar el problema, haciendo que la data sea “Tidy” (ordenada) (Ojo, solo se muestran las primera filas, ya que al ordenarse la tabla se hace mucho más larga):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;5.JPG&#34; alt=&#34;Ejemplo de Problema Tipo 1, Resuelto.(Se muestra solo las primeras filas)&#34; title=&#34;Ejemplo de Problema Tipo 1, Resuelto&#34;&gt;&lt;/p&gt;
+&lt;p&gt;La tabla a continuación muestra un ejemplo del problema Tipo 2: más de una variable registrada en una sola columna.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;6.JPG&#34; alt=&#34;Ejemplo de Problema Tipo 2: TBC por país, año, edad y género&#34; title=&#34;Ejemplo de Problema Tipo 2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En la siguiente tabla se ha dado un paso intermedio para ordenar la data: obsérvese, sin embargo,  la columna llamada &amp;ldquo;Column&amp;rdquo;: contiene dos variables en simultáneo: género y edad.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;7.JPG&#34; alt=&#34;Ejemplo de Problema Tipo 2: TBC por país, año, edad y género. &amp;ldquo;Corrigiendo&amp;rdquo; la data: paso intermedio. Obsérvese la columna llamada &amp;ldquo;Column&amp;rdquo;: contiene dos variables en simultáneo: género y edad.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En la tabla siguiente vemos que se soluciona finalmente la inconsistencia y ya tenemos la data “tidy” u “ordenada”: hemos separado la variable género de la variable edad en columnas distintas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;8.JPG&#34; alt=&#34;Ejemplo de Problema Tipo 2: TBC por país, año, edad y género. &amp;ldquo;Corrigiendo&amp;rdquo; la data: paso final. Obsérvese que las dos variables antes en simultáneo: género y edad, ahora están divididas, cada una en su columna.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En la tabla siguiente vemos datos provenientes del reporte de una estación meteorológica ubicada en México. El problema en este caso es que existe una columna definida para cada día posible del mes (columnas de los días 09 a 31 omitidas). Obsérvese que para el mismo día y el mismo país se registra dos valores: temperatura máxima y mínima. Por lo tanto, la variable fecha está repartida en filas y columnas, y la variable temperatura en dos filas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;9.JPG&#34; alt=&#34;Ejemplo de Problema Tipo 3: Datos del clima en México provenientes de una estación meteorológica. Hay una columna definida para cada día posible del mes (columnas de los días 09 a 31 omitidas). Obsérvese que para el mismo día y el mismo país se registra dos valores: temperatura máxima y mínima. La variable fecha está repartida en filas y columnas, y la variable temperatura en dos filas.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En la tabla siguiente vemos que se realizó un paso intermedio: ya se estableció una columna para la variable fecha.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;10.JPG&#34; alt=&#34;Ejemplo de Problema Tipo 3: Datos del clima en México provenientes de una estación meteorológica. Paso intermedio. Obsérvese que ahora ya hay una columna para cada fecha&#34;&gt;&lt;/p&gt;
+&lt;p&gt;La siguiente tabla ilustra el paso final en el reordenamiento: ahora ya hay una columna para cada fecha y para tipo de temperatura. Esta data ya está &amp;ldquo;arreglada&amp;rdquo; (&lt;em&gt;tidy&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;11.JPG&#34; alt=&#34;Ejemplo de Problema Tipo 3: Datos del clima para México. Paso final. Obsérvese que ahora ya hay una columna para cada fecha y para tipo de temperatura. Esta data ya está &amp;ldquo;arreglada&amp;rdquo; (tidy).&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Para poder entender bien los dos últimos tipos de error hay que tener claro que &lt;em&gt;&amp;ldquo;Unidad Observacional&amp;rdquo;&lt;/em&gt; es un concepto relativo, no absoluto. Por ejemplo, si mi objeto de estudio es una empresa bancaria, entonces registrar los datos de número de clientes y ventas mensuales de todas sus sucursales en una sola tabla cumpliría con los criterios de data &amp;ldquo;arreglada&amp;rdquo;. Si, por el contrario, estuviera escribiendo una tesis consistente en un estudio  de clientes y ventas de una sucursal bancaria específica, entonces incluir en una tabla data de otras sucursales o bien data de indicadores económicos nacionales, estaría &amp;ldquo;desarreglando&amp;rdquo; la data, añadiendo información potencialmente innecesaria desde el punto de vista de procesamiento.&lt;/p&gt;
+&lt;p&gt;Teniendo clara esta consideración, los últimos dos tipos de error son más fáciles de entender y detectar. Por ejemplo, la tabla de datos de varias sucursales del banco &amp;ldquo;X&amp;rdquo; dentro de una tesis centrada solo en una sucursal estaría &amp;ldquo;desarreglada&amp;rdquo; (problema tipo 4); mientras que vaciar los datos de cada sucursal del banco &amp;ldquo;X&amp;rdquo; en una tabla diferente generaría &amp;ldquo;desarreglo&amp;rdquo; si mi tesis trata se enfoca en ese banco como organización (problema tipo 5).&lt;/p&gt;
+&lt;p&gt;Por último, es importante tomar en cuenta que muchas veces lo que estamos llamando &amp;ldquo;data desarreglada&amp;rdquo; (&lt;em&gt;&amp;ldquo;untidy&amp;rdquo;&lt;/em&gt;) lo es para efectos de procesamiento de data, en especial para efectos de procesamiento de data por programas de software como R y similares. No significa que necesariamente las tablas que hemos puesto como &lt;em&gt;untidy&lt;/em&gt; sean versiones &amp;ldquo;incorrectas&amp;rdquo;; en muchas ocasiones los autores e instituciones disponen la data de esa forma porque se trata de presentaciones que para el ojo humano son más intuitivas y fáciles de leer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/data_wrangling/&amp;amp;title=Preparando%20tus%20Datos&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/data_wrangling/&#34;&gt;Comparte vía correo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estadística, estadísticas, y verdad</title>
+      <link>/post/estad_y_verdad/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/estad_y_verdad/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&amp;amp;title=Art%C3%ADculo&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/estad_y_verdad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Las estadísticas tienen una relación tormentosa con la verdad. Lo que debería ser su mejor carta de credibilidad &amp;ndash;a saber, ser una expresión matemática&amp;ndash; a menudo es una barrera para ser mejor comprendidas, y su mayor atractivo &amp;ndash;poder manifestarse en forma gráfica&amp;ndash; rara vez es usada para trasladar lo veraz de modo más digerible, sino más bien para facilitar la tergiversación.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Y sin embargo, todos sabemos el dilema de uso de toda herramienta: la dimensión ética es definida por el usuario y no por la herramienta misma.&lt;/p&gt;
+&lt;p&gt;A mí me gusta la Estadística (singular, mayúscula), aunque eso a menudo me convierta en detective de las estadísticas (plural, minúsculas). Y aunque sea un lugar común para el peruano ser deprecativo, en esta ocasión me uniré al coro de quienes piden data de calidad en relación a las cifras de nuestra versión local de la pandemia.&lt;/p&gt;
+&lt;p&gt;Ojo: &lt;em&gt;data&lt;/em&gt;, ni siquiera &lt;strong&gt;información&lt;/strong&gt;. La data es simplemente números. La información es lo que esos números implican en un primer nivel de significado. Pero en relación a nuestro COVID-19, nuestro desdén por la recolección de data puede entrañar un peligro mortal… literalmente.&lt;/p&gt;
+&lt;p&gt;Nuestro cultura nacional está impregnada de inmediatismo, de impulsividad, de materialismo; es el imperio de lo concreto pisoteando todos los días a lo abstracto. Y quizás pocas cosas sean más abstractas que la Estadística leal, ese misterioso habitante de la zona de interacción entre lo matemático y lo verdadero (definiendo esto último, siendo más bien ingenuos, como la coincidencia entre lo que se describe y lo que es real).&lt;/p&gt;
+&lt;p&gt;Hay en el peruano un desdén general por la recopilación fiel de las cifras; no se entiende su finalidad y se la subordina siempre a casi cualquier otra cosa. Nuestra acción, al menos colectiva, es alocada y cortoplacista, táctica y práctica &amp;ndash;raramente estratégica o principista&amp;ndash;, y eso nos condena cada día a la mediocridad, la ignorancia y la pobreza, pero en contexto de pandemia el riesgo es aún mayor: despreciar la Estadística puede condenarnos a ser una estadística.&lt;/p&gt;
+&lt;p&gt;Quien tenga allegados heroicos en el sector Salud sabe bien que el sistema está saturado desde hace mucho tiempo; el mecanismo de reacción a la que la realidad peruana empuja a casi todos (hacer lo que se puede con lo que se tiene, sin saber bien lo que se viene) nos ciega espectacularmente ante las vías de solución.&lt;/p&gt;
+&lt;p&gt;El hecho de que el Gobierno realice conferencias de prensa paralelas para &amp;ldquo;proteger&amp;rdquo; a los peruanos de las estadísticas reales, o que el IDL, en un sondeo superficial, descubra que la mortandad por el virus es el triple de la versión oficial, son síntomas de que el sistema está más enfermo de lo que se pensaba (en más de un sentido).&lt;/p&gt;
+&lt;p&gt;Me encantaría hacer análisis estadísticos de la famosa curva de contagio, como los que algunos colegas hacen; pero ¿de qué sirve hacer análisis de data falsa y/o incompleta? Como aprendí cuando empecé a trabajar en la implementación de sistemas de información: &lt;em&gt;basura entra, basura sale&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Yo albergo un pesimismo que me parece sensato en cuanto a las generaciones adultas de peruanos: estamos demasiado contaminados por la incertidumbre como para entender que el amor por los datos &amp;ndash;todo amor nos impulsa  a ser fieles&amp;ndash; puede rebajar esa cuota de inquietud que nos acompaña cada día. Pero quizás no sea tarde para los jóvenes que hoy se educan en los niveles de educación elemental.&lt;/p&gt;
+&lt;p&gt;Por eso hago este pedido para mis colegas docentes universitarios y escolares: fomentemos en los alumnos la lealtad con la verdad, empezando por el respeto por los datos. Hagamos actividades al respecto, transmitamos la fidelidad a la verdad en cada una de nuestras actitudes; demos el ejemplo en nuestra propia investigación, en especial quienes están involucrados en los saberes que los gringos llaman &lt;em&gt;&lt;strong&gt;STEM&lt;/strong&gt;&lt;/em&gt; (&lt;em&gt;ciencia, tecnología, ingeniería, matemáticas&lt;/em&gt;). Como dijera Borges, quien distorsiona, por dejadez o conveniencia, la minuciosa recopilación de los datos, niega parte del mundo y nos divorcia de la realidad.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&amp;amp;title=Art%C3%ADculo&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/estad_y_verdad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virus, Cultura y Civilización</title>
+      <link>/post/virus_y_civ/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/virus_y_civ/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/virus_y_civ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.martinvargas.org.pe/post/virus_y_civ/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/virus_y_civ/&amp;amp;title=Interesante%20art%C3%ADculo&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/virus_y_civ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;La aparición del COVID-19 representa una oportunidad para crecer como país. ¿Podremos aprovecharla?&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Son pocas las oportunidades en las cuales el genio de todo un pueblo emerge con claridad total, donde las pesadillas relucen en la superficie y los miedos, las glorias y las voluntades coinciden. Se requiere un trauma que fracture la consciencia colectiva, por decirlo de algún modo.&lt;/p&gt;
+&lt;p&gt;Los psicólogos sociales nos pasamos la vida suspirando para que ese gran laboratorio de la interacción humana nos depare esa experiencia: captar el momento en que las naciones se galvanizan y reaccionan (o no reaccionan) ante un estímulo colosal; poder presenciar, anotar, analizar e interpretar el modo particular en que una cultura se manifiesta como casi nunca antes o después.&lt;/p&gt;
+&lt;p&gt;Y este año nos ha regalado justamente eso. Nos ha dado una  &lt;em&gt;cura de burro&lt;/em&gt;, para usar la frase de García Márquez, para la curiosidad científica. Nos ha sometido, a todos sin excepción, a las mismas condiciones. Es como si Dios hubiera enfocado su lupa inmensa sobre la hormiga de la humanidad.&lt;/p&gt;
+&lt;p&gt;El virus que no nombraré ha reducido la ilusión de la diversidad individual a su justa dimensión de farsa, la ha borrado y fundido como una baratija en la hoguera de un incendio universal y espontáneo. Es la naturaleza la que se frunce, y detrás de las mascarillas ahora todos tenemos el mismo rostro, el mismo gesto, y más allá de la mirada la misma preocupación.&lt;/p&gt;
+&lt;p&gt;Una de mis hijas era hace años seguidora de  &lt;em&gt;Hetalia&lt;/em&gt;; un anime en donde cada personaje es un estereotipo cultural: Italia vive en codependencia de Alemania; Japón es calculador y aborrece los gestos afectivos, China una especie de joven avejentado que ya ha pasado por tod. Pues bien: la coyuntura internacional parece un capítulo de  &lt;em&gt;Hetalia&lt;/em&gt;  en versión trágica: Alemania parece haber contenido la enfermedad a punta de autodisciplina, España no termina de pagar su gusto por la francachela, Italia se ahoga en las consecuencias de su emocionalidad, Inglaterra apenas se entera de sus propios muertos, y Estados Unidos no puede contener sus ganas de volver al centro comercial, aunque rompa récords mundiales de mortandad en el proceso. Ciertamente, no hace falta pensar demasiado para percatarse de que el Reino Unido y los Estados Unidos no necesitaban a Boris y a Donald &amp;ndash;esas caricaturas&amp;ndash; para ser lo que siempre han sido. A lo más, esos líderes enanos no han hecho otra cosa que interponer una sombra excepcionalmente diminuta al espíritu y genio de sus propias culturas.&lt;/p&gt;
+&lt;p&gt;Pero, por otro lado, este es también el año en que se evidencia, con contundencia, que en el mundo ya solo existe una sola civilización. Y a esta idea de Yuval Harari (&lt;em&gt;21 Lessons for the 21st Century, 2018&lt;/em&gt;) habría que acotarla con una importante precisión: no es que el espíritu de las naciones haya desaparecido, o que la peculiaridad cultural ya no exista. Más bien: hay, en casi todas las sociedades, una cara oficial, una esfera de corrección política que por lo general coincide con el liderazgo político formal. Esa cara oficial es homogénea de país en país, y mantiene ciertas creencias y directrices coherentes que posibilitan el entendimiento internacional.&lt;/p&gt;
+&lt;p&gt;Una de esas directrices es el valor cardinal de la vida humana; otra, la perspectiva global al momento de analizar los problemas. Y una tercera, lo económico como fundamento de la viabilidad nacional. En otras palabras: casi todos los mandatarios están de acuerdo en ir a extremos para proteger la vida de sus individuos; que una amplia mayoría de problemas tienen una lógica planetaria que no puede entenderse &amp;ndash;y menos solucionarse&amp;ndash;desde una mentalidad local; y que, salvo circunstancias de peligro existencial, la prosperidad económica debe buscarse a toda costa.&lt;/p&gt;
+&lt;p&gt;Y sin embargo, esto es solo un pensamiento de civilización, no de cultura.&lt;/p&gt;
+&lt;p&gt;¿Quiénes componen la civilización? Los dirigentes políticos, los educadores y la intelectualidad.&lt;/p&gt;
+&lt;p&gt;¿Quienes componen la cultura? Prácticamente todos los demás, incluyendo a políticos, maestros e intelectuales en sus propios ámbitos privados.&lt;/p&gt;
+&lt;p&gt;Con esto quiero decir una cosa muy concreta: la clase dirigente en casi todos los países están más o menos de acuerdo en los puntos básicos ya mencionados. Es la esfera de lo &amp;ldquo;civilizado&amp;rdquo; tomando su posición y expresándose: lo que vemos en los documentos oficiales, las conferencias de prensa y las noticias del  &lt;em&gt;streaming&lt;/em&gt;. Más importante aún: esas creencias son la guía de las decisiones sistémicas de los gobiernos.&lt;/p&gt;
+&lt;p&gt;Y sin embargo en todo el planeta, en el día a día, en la calle, allá bajo el sol, islámicos ardientes, evangélicos impertérritos, católicos culposos, ateos de ceja contraída y animistas dionisíacos llevan a la práctica, en todo el mundo, creencias a menudo distantes de lo &amp;ldquo;civilizado&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Ahora que ya he establecido estas ideas, es posible para mí decir que el Perú de Vizcarra se está portando de manera mucho más  &lt;em&gt;civilizada&lt;/em&gt;  que la Norteamérica de Trump, o que China es más líder de la  &lt;em&gt;civilización&lt;/em&gt;  mundial que Brasil, más allá del peso relativo de sus economías.&lt;/p&gt;
+&lt;p&gt;Y también es posible plantear que, a nivel nacional, hay países que logran tener una distancia comparativamente corta entre la civilización y la cultura (¿Taiwán? ¿Singapur? ¿Alemania?), mientras que en otros casos (¿Estados Unidos? ¿Brasil? ¿España?) hay una brecha que por momentos se tira abajo la formalidad y sucumbe a la tentación del populismo.&lt;/p&gt;
+&lt;p&gt;Ahora bien, ¿en dónde nos ubicamos los peruanos? Sin duda, tenemos, por excepción, una clase &amp;ndash;mejor dicho, un líder político, Vizcarra&amp;ndash; hijo de circunstancias muy especiales, que no se siente cliente de ningún partido o colectivo orgánico capaz de recortarle la agenda o presionarlo hacia acciones concretas. Naturalmente, ese político no ha surgido de elecciones abiertas, al menos no de manera directa. No sé si por habilidad o por fortuna, mi tocayo ha mantenido al  &lt;em&gt;pueblo&lt;/em&gt;  como interlocutor, y ya se sabe que hablarle a todos es no responder a nadie. Tal vez el mayor riesgo del actual Presidente, en lo poco de tiempo que le resta, hubiera podido ser empezar a caminar por las nubes,  &lt;em&gt;à&lt;/em&gt;  la Belaúnde. Esta crisis sanitaria, sin embargo, se suma a las demás por las que ha pasado para mantenerlo alineado y alerta a una serie de prioridades de Estado. Tenemos en el Palacio de Pizarro a un hombre hecho estadista por las circunstancias.&lt;/p&gt;
+&lt;p&gt;Y sin embargo, una vez más el pueblo no está a la altura. La cultura peruana no se ha elevado a la estatura debida y corre, por lo tanto, el riesgo de asfixiarse bajo la cotidianidad y lo inmediato. Cada una de las pocas ocasiones en que he salido últimamente a la calle me ha revelado a personas incapaces de ver más allá de distancias nasales. Mucha picardía cultural y poca prudencia civilizada, no solo en Lima, sino en especial en provincias. La infracción a las normas convertida en materia de memes y  &lt;em&gt;Tik Toks&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;¿Cuál es el riesgo? Más allá de la ventura/desventura de nuestro escenario político actual, esta es una ocasión excepcional que deberíamos aprovechar para hacer palpable la fuerza y las ventajas de lo civilizado, en este país nuestro que tan poco ha visto de ello en su historia. El sufrimiento y los muertos no pueden, no deben acontecer y dejarnos idénticos. Como sociedad, deberíamos dar unos pasos que nos alejen de nuestro ensimismamiento cultural; pensar más en la Nación y el Estado, y menos en el papel higiénico y el pollo.&lt;/p&gt;
+&lt;p&gt;De otro modo, en las elecciones próximas, y en los años sucesivos, seguiremos padeciendo a políticos que pasan del Palacio al presidio, pobladores encerrados en un círculo neurótico con nuestro propio país, como la proverbial esposa sufrida con marido infiel. Este vínculo, que a muchos puede parecer sutil, entre portarse mejor y elegir mejor, debe ser señalado y reiterado. Solo ciudadanos civilizados tienen en mente criterios de civilización política y los exigen de sus dirigentes.&lt;/p&gt;
+&lt;p&gt;Ojalá fuera que el virus nos inmunice contra la delincuencia política.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/virus_y_civ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.martinvargas.org.pe/post/virus_y_civ/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/virus_y_civ/&amp;amp;title=Interesante%20art%C3%ADculo&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/virus_y_civ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enigmas y Problemas</title>
+      <link>/post/enigma/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/enigma/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/enigma/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.martinvargas.org.pe/post/enigma/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=mailto%3A?subject=Interesante%2520art%25C3%25ADculo%26body=Comparto%2520un%2520art%25C3%25ADculo%2520interesante...%2520%250Ahttps%253A//www.martinvargas.org.pe/post/enigma/&amp;amp;title=Interesante%20art%C3%ADculo&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/enigma/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Decía Steven Pinker que existen enigmas, y existen problemas.&lt;/p&gt;
+&lt;p&gt;Un enigma es algo de cuya esencia no sabemos nada o casi nada, mientras que de un problema al menos tenemos, en principio, cierta idea de por dónde empezar a buscar una solución. Por ejemplo, la vida después de la muerte es un enigma, pero los mecanismos que producen el envejecimiento o la enfermedad son un problema.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;El avance científico consiste en convertir, poco a poco, enigmas en problemas. El paso intermedio entre unos y otros es la pregunta.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Cuando empezamos nuestra carrera profesional, traemos muchos enigmas en la cabeza, pero los conocimientos, habilidades y competencias aprendidas van convirtiendo, con el tiempo, a los enigmas en problemas, y luego a los problemas en técnicas y saberes.&lt;/p&gt;
+&lt;p&gt;He conocido a muchos estudiantes que, en el camino hacia la culminación de sus estudios, dejan morir esa curiosidad que hacía que su carrera fuera una fuente de sorpresa y asombro constantes y acaban, en el noveno y décimo ciclo, entorpecidos tras una maraña de técnicas y saberes, hasta el punto en que se les hace muy difícil volver a ver a su profesión con esos “ojos de primer ciclo”, y al momento  de empezar su tesis solo se les ocurren tecnicismos, o &amp;ndash;peor aún&amp;ndash; &lt;em&gt;¡nada!&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;preguntas-y-problemas&#34;&gt;Preguntas y Problemas&lt;/h2&gt;
+&lt;p&gt;Pero las mejores tesis son las que emergen como respuesta a una pregunta no demasiado lejana del enigma: &lt;em&gt;“¿Qué factores generan la felicidad en los seres humanos?” “¿Los mecanismos básicos de la mente humana son básicamente los mismos de la mente animal, y por lo tanto, la diferencia entre ambas es solo de grado y no de cualidad?”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;No importa que no podamos someter de inmediato a la investigación, así tal cual, a la buena pregunta. Para eso está la formulación del problema.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Formular un problema es coger una buena pregunta de investigación y “ponerle patas”: acotarla (“¿qué es ‘felicidad’?”; “nos interesa la mente de todos los animales o solo la de los mamíferos? ¿o solo la de los primates?, etc.); restringirla a un tiempo y un lugar concretos (&amp;quot;¿es la felicidad de los peruanos distinta a la de los demás seres humano?&amp;quot;); y/o limitarla a solo una teoría o un enfoque (&amp;quot;¿usaré la psicología positiva o la teoría émica de Yamamoto?&amp;quot;).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pero si empezamos a investigar desde el tecnicismo, nuestra tesis corre el riesgo de ser, en el mejor de los casos, solo un aporte técnico, accesible e interesante solo para los técnicos. No quiero que se me malentienda: no hay ninguna objeción para las tesis técnicas, salvo el limitado interés que generan, ante todo para el tesista mismo.&lt;/p&gt;
+&lt;p&gt;Una tesis es un camino largo, una maratón de largo aliento: no es solo “una monografía con esteroides”. Si no nos apasiona, se nos hará pesado hacerla, un suplicio buscar referencias, una galimatías el análisis, y lo más probable es que nuestras conclusiones sean, en el mejor de los casos, áridas, y, en el peor, redundantes.&lt;/p&gt;
+&lt;p&gt;Así que, ¡a enamorarse otra vez de sus carreras! Recuperen la “mirada del cachimbo”, y regresen hasta encontrar una pregunta lo más cercana posible al enigma.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/enigma/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.martinvargas.org.pe/post/enigma/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=mailto%3A?subject=Interesante%2520art%25C3%25ADculo%26body=Comparto%2520un%2520art%25C3%25ADculo%2520interesante...%2520%250Ahttps%253A//www.martinvargas.org.pe/post/enigma/&amp;amp;title=Interesante%20art%C3%ADculo&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/enigma/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relación entre esperanza, bienestar, actitudes laborales y sociodemográficos en miembros de la PEA</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bases de la Psicología Social, Una Visión Personal de las Teorías Fundamentales</title>
+      <link>/publication/book/bases/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/book/bases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Términos</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;El material que aquí publico tiene, en general, propósitos de presentación personal y divulgación psicológica y, salvo cuando cito específicamente a algún autor, es totalmente original.&lt;/p&gt;
+&lt;p&gt;Hay tres tipos de material aquí:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Información de presentación personal (asumible como un sucedáneo virtual de un &lt;em&gt;currículum vitae&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Artículos originales de divulgación psicológica:
+&lt;ul&gt;
+&lt;li&gt;Análisis y Exposición de conceptos básicos de Psicología, Metodología Científica y similares;&lt;/li&gt;
+&lt;li&gt;Análisis, resumen y crítica de artículos, libros y otros de terceros;&lt;/li&gt;
+&lt;li&gt;Ensayos y artículos donde expongo conceptos teóricos propios;&lt;/li&gt;
+&lt;li&gt;Análisis sociopsicológico de coyuntura&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Presentación de publicaciones hechas en otros medios:
+&lt;ul&gt;
+&lt;li&gt;Tesis de grado;&lt;/li&gt;
+&lt;li&gt;Libros electrónicos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;¿ Qué te es lícito hacer con mi contenido?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Todo lo que es permitido en virtud de la licencia CreativeCommons Atribución-Compartir Igual 4.0 Internacional:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Licencia Creative Commons&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Esta obra está bajo una &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional&lt;/a&gt;.
+&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Argerich</title>
+      <link>/post/xf_argerich/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      <guid>/post/xf_argerich/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_Argerich/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_argerich/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_Argerich/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_Argerich/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;microrrelato&#34;&gt;Microrrelato&lt;/h2&gt;
+&lt;p&gt;Bien conocido es que la Argerich destrozó el corazón de Charles Dutoit. Menos conocido es que Dutoit cortó con su Victorinox las cuerdas del Pléyel de ésta, ubicado en el salón isabelino del domicilio conyugal de Ginebra.&lt;/p&gt;
+&lt;p&gt;Luego, en el trascurso de una tarde demencial &amp;ndash;mientras Martha viajaba a Suiza desde España&amp;ndash; dibujó con las cuerdas rotas la palabreja &amp;ldquo;&lt;em&gt;felatriz&lt;/em&gt;&amp;rdquo; sobre la alfombra persa. Luego la deshizo, convencido de que el diseño de arabescos de Estambul impedía la debida legibilidad del denuesto, y más convencido aún de que lo que había sido concebido como insulto podría dibujar una sonrisa complacida en los delgados y mezquinos labios de su ex.
+(Así de monumental era el ego de la concertista.)&lt;/p&gt;
+&lt;p&gt;Pero el asesinato del noble instrumento de ensayo estaba consumado, y cuando arribó al hogar hasta hacía poco compartido, la argentina lloró toda la noche, mucho más de lo que había llorado nunca por su marido.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_Argerich/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_argerich/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_Argerich/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_Argerich/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trazos</title>
+      <link>/post/xf_trazos/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/post/xf_trazos/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_trazos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_trazos/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_trazos/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_trazos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;microrrelato&#34;&gt;Microrrelato&lt;/h2&gt;
+&lt;p&gt;La edad esculpe trazos de muchos vicios sobre los rostros: los pocos y reiterados, obviamente; pero sobre todo los vicios que no ejercimos jamás, aquellos atesorados por la memoria y alejados de la vista.&lt;/p&gt;
+&lt;p&gt;Aquellos vicios de fuerza opaca ocultan sus propias herramientas. Como, por ejemplo, este cuchillo largo, de filo perfecto, que nunca llegué a usar ni a descartar.&lt;/p&gt;
+&lt;p&gt;Tal vez sean esos pecados, los que nunca tradujimos en acción pero que nos habitaron siempre; los contenidos, negados, soslayados, quienes emergen a medida que nos separamos de la vida y nos acercamos a la oscuridad.&lt;/p&gt;
+&lt;p&gt;Serán como sombras en la piel que el sol, más y más remoto, termina siendo incapaz de disipar.&lt;/p&gt;
+&lt;p&gt;Pobre amigo negado mío, traicionado por mi cobardía&amp;hellip; ¿me atreveré hoy, por fin, a usarte?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_trazos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_trazos/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_trazos/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_trazos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bienestar subjetivo, “Felicidad objetiva” y actitudes en una muestra representativa de la población peruana</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El Libro del Laurel Rosa</title>
+      <link>/publication/book/laurel/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/book/laurel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tinta Indeleble</title>
+      <link>/post/xf_tinta/</link>
+      <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
+      <guid>/post/xf_tinta/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_tinta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_tinta/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_tinta/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_tinta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cuento&#34;&gt;Cuento&lt;/h2&gt;
+&lt;p&gt;Como todos los días fatídicos, aquel se había caracterizado por un clima mediocre, ligeramente tétrico, pero para nada notable.&lt;/p&gt;
+&lt;p&gt;Martha &amp;ndash;conocida entre sus amigos como &lt;em&gt;Morthx&lt;/em&gt;&amp;ndash; se sometió a la milenaria práctica, esta vez ejecutada en una mediocre tienducha cercana a la Plaza Francia.&lt;/p&gt;
+&lt;p&gt;Nunca se sabrá la verdad, porque la verdad duró sólo unos segundos. Algunos dicen que el tatuador se equivocó y malentendió las indicaciones de su cliente. Otros, que ella misma solicitó la deformación que la anestesia no le dejó sentir sino hasta que ya fue tarde.&lt;/p&gt;
+&lt;p&gt;Lo cierto es que, durante los breves instantes en que aún fue humana, &lt;em&gt;Morthx&lt;/em&gt; se horrorizó ante el espejo, y que ese espanto primordial sirvió de puente para que la bestia interior &amp;ndash;la misma que había sido dibujada y evocada por la tinta imborrable y los cortes y taladros del tatuador&amp;ndash; emergiera.&lt;/p&gt;
+&lt;p&gt;Dijeron los pocos testigos &amp;ndash;mientras les duró la memoria, ya que ninguno llegó a ver la mañana siguiente sin ser presa de demencia permanente e invasiva&amp;ndash; que lo que salió rompiendo las ventanas del stand, remontándose en el aire, en círculos cada vez más elevados, sobre la plazoleta central, por encima de los pisos comerciales, más allá de los postes de alumbrado, para finalmente perderse detrás de las nubes de derrota de Lima era algo terrible e indescriptible, una blasfemia que sólo con su sombra cortaba el espíritu de quien la viera.&lt;/p&gt;
+&lt;p&gt;El cadáver que tras de sí dejó aquel ser era una masa exangüe que nada tenía que ver con lo humano.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_tinta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_tinta/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_tinta/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_tinta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prez inconexa</title>
+      <link>/post/xf_prayer/</link>
+      <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
+      <guid>/post/xf_prayer/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_prayer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_prayer/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_prayer/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_prayer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;microrrelato&#34;&gt;Microrrelato&lt;/h2&gt;
+&lt;p&gt;Dadivoso y multiforme es el Señor. Fisgón y discreto. Alado e inmóvil.&lt;/p&gt;
+&lt;p&gt;Desinteresado y omnipresente es el Señor. Un ser inhumano cuyo morada es la emoción de las personas.&lt;/p&gt;
+&lt;p&gt;Secreto e inocultable es el Señor. Ciego y omnisciente. Conectado y ausente. Sordo y sensible.&lt;/p&gt;
+&lt;p&gt;Ceremonioso y sencillo es el Señor. Extremo y puntual. Oceánico y seco. Pulverulento y continuo.&lt;/p&gt;
+&lt;p&gt;Remoto y alado es el Señor. Preciso y total. Frecuentado y asombroso.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_prayer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_prayer/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_prayer/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_prayer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Her Shadow</title>
+      <link>/post/xf_hershadow/</link>
+      <pubDate>Sat, 03 May 2014 00:00:00 +0000</pubDate>
+      <guid>/post/xf_hershadow/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_hershadow/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_hershadow/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_hershadow/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_hershadow/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cuento&#34;&gt;Cuento&lt;/h2&gt;
+&lt;p&gt;Cada vez que ella aparecía, las personas empezaban a  sentirse algo anómalas. Una sensación de desajuste general invadía los ambientes. Una especie de horror lógico.&lt;/p&gt;
+&lt;p&gt;Ella lo sabía, y sufría por ello. No lograba convencer a nadie de que todo se debía a una enfermedad involuntaria, a una pequeña secuenciación caótica de sus genes, a un revoltijo en sus cromosomas. Vamos, que simplemente había nacido así.&lt;/p&gt;
+&lt;p&gt;El único hombre que se atrevió a hacerle el amor fue un insensato extranjero, a quien muchos tildaban de retrasado mental. Hoy, después de tantos siglos, es imposible aclarar si en verdad esa era la condición que explicaba a ese varón, meditabundo y mustio, que le hizo la corte por largos años, sin ceses ni apuros.&lt;/p&gt;
+&lt;p&gt;Lo único cierto es que cuando, más agobiada que seducida, ella sucumbió y se entregó, el hombre terminó loco, y se suicidó al poco tiempo.&lt;/p&gt;
+&lt;p&gt;Nadie nunca la vio llorar después de esto, pero tampoco nadie la vio sonreír. Por el resto de su vida.&lt;/p&gt;
+&lt;p&gt;Sin amigos, sin amores, sin parientes (los cuales huían, fingían no verla, o la rechazaban de plano), la pobre mujer ni siquiera tuvo necesidad de suicidarse.&lt;/p&gt;
+&lt;p&gt;Se enfermó de una peste perniciosa, que la apocó, enmudeció y deshizo sin piedad alguna.&lt;/p&gt;
+&lt;p&gt;En sus últimos momentos, reducida a un hatillo de huesos envueltos en pellejo ceniciento, todo el mundo se le acercó para verla expirar.&lt;/p&gt;
+&lt;p&gt;Sólo entonces a todos les pareció natural que no tuviera sombra.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_hershadow/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_hershadow/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_hershadow/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_hershadow/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mujer Con Sombrero</title>
+      <link>/post/xf_wwah/</link>
+      <pubDate>Sat, 03 May 2014 00:00:00 +0000</pubDate>
+      <guid>/post/xf_wwah/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_wwah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_wwah/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/wwah/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/wwah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;microrrelato&#34;&gt;Microrrelato&lt;/h2&gt;
+&lt;p&gt;Señora con perro cagador&lt;/p&gt;
+&lt;p&gt;Mujer oculta con arma biológica&lt;/p&gt;
+&lt;p&gt;Simulando&lt;/p&gt;
+&lt;p&gt;Mintiendo&lt;/p&gt;
+&lt;p&gt;Mientras sobre el camino&lt;/p&gt;
+&lt;p&gt;Algo queda&lt;/p&gt;
+&lt;p&gt;Algo va quedando&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/wwah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/xf_wwah/&amp;amp;title=Interesante&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/wwah/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/wwah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

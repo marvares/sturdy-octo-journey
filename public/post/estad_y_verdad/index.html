@@ -1,0 +1,1254 @@
+<!DOCTYPE html><html lang="es" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Martín Vargas Estrada">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Compartir en Facebook  Compartir por correo  Compartir en LinkedIn  Compartir en Twitter   Las estadísticas tienen una relación tormentosa con la verdad. Lo que debería ser su mejor carta de credibilidad &ndash;a saber, ser una expresión matemática&ndash; a menudo es una barrera para ser mejor comprendidas, y su mayor atractivo &ndash;poder manifestarse en forma gráfica&ndash; rara vez es usada para trasladar lo veraz de modo más digerible, sino más bien para facilitar la tergiversación.">
+
+  
+  <link rel="alternate" hreflang="es" href="/post/estad_y_verdad/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/post/estad_y_verdad/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@marvares">
+  <meta property="twitter:creator" content="@marvares">
+  
+  <meta property="og:site_name" content="Martín Vargas Estrada">
+  <meta property="og:url" content="/post/estad_y_verdad/">
+  <meta property="og:title" content="Estadística, estadísticas, y verdad | Martín Vargas Estrada">
+  <meta property="og:description" content="Compartir en Facebook  Compartir por correo  Compartir en LinkedIn  Compartir en Twitter   Las estadísticas tienen una relación tormentosa con la verdad. Lo que debería ser su mejor carta de credibilidad &ndash;a saber, ser una expresión matemática&ndash; a menudo es una barrera para ser mejor comprendidas, y su mayor atractivo &ndash;poder manifestarse en forma gráfica&ndash; rara vez es usada para trasladar lo veraz de modo más digerible, sino más bien para facilitar la tergiversación."><meta property="og:image" content="/post/estad_y_verdad/featured.jpg">
+  <meta property="twitter:image" content="/post/estad_y_verdad/featured.jpg"><meta property="og:locale" content="es">
+  
+    
+      <meta property="article:published_time" content="2020-04-29T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-04-29T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/estad_y_verdad/"
+  },
+  "headline": "Estadística, estadísticas, y verdad",
+  
+  "image": [
+    "/post/estad_y_verdad/featured.jpg"
+  ],
+  
+  "datePublished": "2020-04-29T00:00:00Z",
+  "dateModified": "2020-04-29T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Martín Vargas Estrada"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Martín Vargas Estrada",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Compartir en Facebook  Compartir por correo  Compartir en LinkedIn  Compartir en Twitter   Las estadísticas tienen una relación tormentosa con la verdad. Lo que debería ser su mejor carta de credibilidad \u0026ndash;a saber, ser una expresión matemática\u0026ndash; a menudo es una barrera para ser mejor comprendidas, y su mayor atractivo \u0026ndash;poder manifestarse en forma gráfica\u0026ndash; rara vez es usada para trasladar lo veraz de modo más digerible, sino más bien para facilitar la tergiversación."
+}
+</script>
+
+  
+
+  
+
+
+  
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "Este sitio web utiliza cookies para garantizarle una mejor experiencia.",
+        "dismiss": "Entendido!",
+        "link": "Más información",
+        "href": "/privacy/"
+      }
+    })});
+  </script>
+
+
+
+  
+
+
+
+
+
+  <title>Estadística, estadísticas, y verdad | Martín Vargas Estrada</title>
+
+</head>
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Buscar</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Buscar..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Martín Vargas Estrada</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Barra de navegación">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Martín Vargas Estrada</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#skills"><span>Habilidades</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#accomplishments"><span>Logros</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experiencia</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publicaciones</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/#5"><span>Libros</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#X_files"><span>Otros</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#tags"><span>Keywords</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contáctame</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Buscar"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>Estadística, estadísticas, y verdad</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 29, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min de lectura
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/psicologia-social/">Psicología Social</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
+  <div style="position: relative">
+    <img src="/post/estad_y_verdad/featured_hu7bdf91a4613cb79dce32e9b154a2e043_964856_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <ul>
+<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/" target="_blank" rel="noopener">Compartir en Facebook</a></li>
+<li>
+<a href="mailto:?subject=Interesante%20art%C3%ADculo&amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/estad_y_verdad/">Compartir por correo</a></li>
+<li>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&amp;title=Art%C3%ADculo&amp;summary=&amp;source=" target="_blank" rel="noopener">Compartir en LinkedIn</a></li>
+<li>
+<a href="https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/estad_y_verdad/" target="_blank" rel="noopener">Compartir en Twitter</a></li>
+</ul>
+<blockquote>
+<p>Las estadísticas tienen una relación tormentosa con la verdad. Lo que debería ser su mejor carta de credibilidad &ndash;a saber, ser una expresión matemática&ndash; a menudo es una barrera para ser mejor comprendidas, y su mayor atractivo &ndash;poder manifestarse en forma gráfica&ndash; rara vez es usada para trasladar lo veraz de modo más digerible, sino más bien para facilitar la tergiversación.</p>
+</blockquote>
+<p>Y sin embargo, todos sabemos el dilema de uso de toda herramienta: la dimensión ética es definida por el usuario y no por la herramienta misma.</p>
+<p>A mí me gusta la Estadística (singular, mayúscula), aunque eso a menudo me convierta en detective de las estadísticas (plural, minúsculas). Y aunque sea un lugar común para el peruano ser deprecativo, en esta ocasión me uniré al coro de quienes piden data de calidad en relación a las cifras de nuestra versión local de la pandemia.</p>
+<p>Ojo: <em>data</em>, ni siquiera <strong>información</strong>. La data es simplemente números. La información es lo que esos números implican en un primer nivel de significado. Pero en relación a nuestro COVID-19, nuestro desdén por la recolección de data puede entrañar un peligro mortal… literalmente.</p>
+<p>Nuestro cultura nacional está impregnada de inmediatismo, de impulsividad, de materialismo; es el imperio de lo concreto pisoteando todos los días a lo abstracto. Y quizás pocas cosas sean más abstractas que la Estadística leal, ese misterioso habitante de la zona de interacción entre lo matemático y lo verdadero (definiendo esto último, siendo más bien ingenuos, como la coincidencia entre lo que se describe y lo que es real).</p>
+<p>Hay en el peruano un desdén general por la recopilación fiel de las cifras; no se entiende su finalidad y se la subordina siempre a casi cualquier otra cosa. Nuestra acción, al menos colectiva, es alocada y cortoplacista, táctica y práctica &ndash;raramente estratégica o principista&ndash;, y eso nos condena cada día a la mediocridad, la ignorancia y la pobreza, pero en contexto de pandemia el riesgo es aún mayor: despreciar la Estadística puede condenarnos a ser una estadística.</p>
+<p>Quien tenga allegados heroicos en el sector Salud sabe bien que el sistema está saturado desde hace mucho tiempo; el mecanismo de reacción a la que la realidad peruana empuja a casi todos (hacer lo que se puede con lo que se tiene, sin saber bien lo que se viene) nos ciega espectacularmente ante las vías de solución.</p>
+<p>El hecho de que el Gobierno realice conferencias de prensa paralelas para &ldquo;proteger&rdquo; a los peruanos de las estadísticas reales, o que el IDL, en un sondeo superficial, descubra que la mortandad por el virus es el triple de la versión oficial, son síntomas de que el sistema está más enfermo de lo que se pensaba (en más de un sentido).</p>
+<p>Me encantaría hacer análisis estadísticos de la famosa curva de contagio, como los que algunos colegas hacen; pero ¿de qué sirve hacer análisis de data falsa y/o incompleta? Como aprendí cuando empecé a trabajar en la implementación de sistemas de información: <em>basura entra, basura sale</em>.</p>
+<p>Yo albergo un pesimismo que me parece sensato en cuanto a las generaciones adultas de peruanos: estamos demasiado contaminados por la incertidumbre como para entender que el amor por los datos &ndash;todo amor nos impulsa  a ser fieles&ndash; puede rebajar esa cuota de inquietud que nos acompaña cada día. Pero quizás no sea tarde para los jóvenes que hoy se educan en los niveles de educación elemental.</p>
+<p>Por eso hago este pedido para mis colegas docentes universitarios y escolares: fomentemos en los alumnos la lealtad con la verdad, empezando por el respeto por los datos. Hagamos actividades al respecto, transmitamos la fidelidad a la verdad en cada una de nuestras actitudes; demos el ejemplo en nuestra propia investigación, en especial quienes están involucrados en los saberes que los gringos llaman <em><strong>STEM</strong></em> (<em>ciencia, tecnología, ingeniería, matemáticas</em>). Como dijera Borges, quien distorsiona, por dejadez o conveniencia, la minuciosa recopilación de los datos, niega parte del mundo y nos divorcia de la realidad.</p>
+<ul>
+<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/" target="_blank" rel="noopener">Compartir en Facebook</a></li>
+<li>
+<a href="mailto:?subject=Interesante%20art%C3%ADculo&amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/estad_y_verdad/">Compartir por correo</a></li>
+<li>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&amp;title=Art%C3%ADculo&amp;summary=&amp;source=" target="_blank" rel="noopener">Compartir en LinkedIn</a></li>
+<li>
+<a href="https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/estad_y_verdad/" target="_blank" rel="noopener">Compartir en Twitter</a></li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/metodologia/">Metodología</a>
+  
+  <a class="badge badge-light" href="/tag/ciencia/">Ciencia</a>
+  
+  <a class="badge badge-light" href="/tag/covid-19/">COVID-19</a>
+  
+  <a class="badge badge-light" href="/tag/estadistica/">Estadística</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/martin-vargas-estrada/avatar_hudf7b8620e192de66d79d1f7e36df7824_451904_270x270_fill_q90_lanczos_center.jpg" alt="Martín Vargas Estrada">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="/">Martín Vargas Estrada</a></h5>
+        <h6 class="card-subtitle">Asesor Académico</h6>
+        <p class="card-text">Mis intereses académicos se centran en Psicología Social, Psicología Organizacional, Análisis Cuantitativo y Psicología Positiva.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:francisco.vargas@pucp.pe" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/marvares" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.es/citations?hl=es&amp;user=mPZyY7kAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.facebook.com/martinvargasasesor/" target="_blank" rel="noopener">
+        <i class="fab fa-facebook"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/martinvargase/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.youtube.com/channel/UCjXDIfU88ANQi1zPybaYGhg?view_as=subscriber" target="_blank" rel="noopener">
+        <i class="fab fa-youtube"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Relacionado</h3>
+    <ul>
+      
+      <li><a href="/post/virus_y_civ/">Virus, Cultura y Civilización</a></li>
+      
+      <li><a href="/post/em04/">Escalas de Medición, Parte 4</a></li>
+      
+      <li><a href="/post/em03/">Escalas de Medición, Parte 3</a></li>
+      
+      <li><a href="/post/em02/">Escalas de Medición, Parte 2</a></li>
+      
+      <li><a href="/post/em01/">Escalas de Medición, Parte 1</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No se encontraron resultados","placeholder":"Buscar...","results":"resultados encontrados"};
+      const content_type = {
+        'post': "Artículos",
+        'project': "Proyectos",
+        'publication' : "Publicaciones",
+        'talk' : "Charlas",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Política de Privacidad</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Términos</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Citar</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copiar
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Descargar
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

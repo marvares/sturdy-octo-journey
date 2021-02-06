@@ -1,0 +1,1309 @@
+<!DOCTYPE html><html lang="es" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Martín Vargas Estrada">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología, el clásico &#34;On the Theory of Scales of Measurement&#34;, de Stevens. Puedes leer la primera [aquí](https://www.martinvargas.org.pe/post/em01/).">
+
+  
+  <link rel="alternate" hreflang="es" href="/post/em02/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/post/em02/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@marvares">
+  <meta property="twitter:creator" content="@marvares">
+  
+  <meta property="og:site_name" content="Martín Vargas Estrada">
+  <meta property="og:url" content="/post/em02/">
+  <meta property="og:title" content="Escalas de Medición, Parte 2 | Martín Vargas Estrada">
+  <meta property="og:description" content="Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología, el clásico &#34;On the Theory of Scales of Measurement&#34;, de Stevens. Puedes leer la primera [aquí](https://www.martinvargas.org.pe/post/em01/)."><meta property="og:image" content="/post/em02/featured.jpg">
+  <meta property="twitter:image" content="/post/em02/featured.jpg"><meta property="og:locale" content="es">
+  
+    
+      <meta property="article:published_time" content="2020-07-05T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-07-05T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/em02/"
+  },
+  "headline": "Escalas de Medición, Parte 2",
+  
+  "image": [
+    "/post/em02/featured.jpg"
+  ],
+  
+  "datePublished": "2020-07-05T00:00:00Z",
+  "dateModified": "2020-07-05T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Martín Vargas Estrada"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Martín Vargas Estrada",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología, el clásico \"On the Theory of Scales of Measurement\", de Stevens. Puedes leer la primera [aquí](https://www.martinvargas.org.pe/post/em01/)."
+}
+</script>
+
+  
+
+  
+
+
+  
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "Este sitio web utiliza cookies para garantizarle una mejor experiencia.",
+        "dismiss": "Entendido!",
+        "link": "Más información",
+        "href": "/privacy/"
+      }
+    })});
+  </script>
+
+
+
+  
+
+
+
+
+
+  <title>Escalas de Medición, Parte 2 | Martín Vargas Estrada</title>
+
+</head>
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Buscar</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Buscar..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Martín Vargas Estrada</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Barra de navegación">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Martín Vargas Estrada</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#skills"><span>Habilidades</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#accomplishments"><span>Logros</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experiencia</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publicaciones</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/#5"><span>Libros</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#X_files"><span>Otros</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#tags"><span>Keywords</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contáctame</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Buscar"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>Escalas de Medición, Parte 2</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 5, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    6 min de lectura
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/asesoria-de-tesis/">Asesoría de Tesis</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 454px;">
+  <div style="position: relative">
+    <img src="/post/em02/featured_hu003e6eb8db6b02d1acb4e78c40c1c418_436411_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <ul>
+<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em02/" target="_blank" rel="noopener">Compartir en Facebook</a></li>
+<li>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;summary=&amp;source=" target="_blank" rel="noopener">Compartir en LinkedIn</a></li>
+<li>
+<a href="mailto:?subject=Interesante%20Art%C3%ADculo&amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em02/">Compartir por correo</a></li>
+<li>
+<a href="https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em02/" target="_blank" rel="noopener">Compartir por Twitter</a></li>
+</ul>
+<h1 id="escalas-de-medición-parte-2">Escalas de Medición, Parte 2</h1>
+<p>Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología: el clásico ***&ldquo;On the Theory of Scales of Measurement&rdquo;, de Stevens: ***. Esta es la segunda parte. Puedes leer la primera 
+<a href="https://www.martinvargas.org.pe/post/em01/" target="_blank" rel="noopener">aquí</a>.</p>
+<p>Continuando con el resumen y explicación del artículo clásico de Stevens, iniciaremos la parte 2 de esta serie conversando algo acerca de las escalas nominales y ordinales.</p>
+<h2 id="escala-nominal">Escala Nominal</h2>
+<p>Es la escala que permite el uso más irrestricto de números o caracteres. Los números o caracteres se aplican a elementos, también llamados <strong>unidades de análisis</strong>.</p>
+<blockquote>
+<p>Una unidad de análisis es cualquier cosa cuyos atributos queremos medir.</p>
+</blockquote>
+<p>La regla de la escala nominal es: &ldquo;<em>no asignar el mismo membrete &ndash;número o combinación de caracteres&ndash; a más de una unidad de análisis; y tampoco membretes diferentes a la misma unidad de análisis</em>&rdquo;.</p>
+<p>La unidad de análisis puede ser <em>singular</em> (un individuo), o <em>plural</em> (un grupo). Como ya habíamos mencionado, la unidad de análisis es la que posee el atributo que queremos medir. En el caso de la escala nominal, lo único que queremos medir o determinar es si los elementos tienen o no el mismo atributo.</p>
+<p>Uno de los ejemplos más simples posibles es el del sexo biológico. Si las unidades de análisis son los alumnos de Psicología, y el atributo es el sexo biológico, asignaremos el membrete &ldquo;1&rdquo; a las mujeres, y &ldquo;2&rdquo; a los varones. Lo único que estamos intentando hacer es determinar qué alumnos corresponden a cada sexo. Por lo tanto, nos bastará con usar membretes distintos; de hecho, podríamos cambiar los membretes por cualesquiera otros, con la única condición de respetar la regla ya establecida. Más allá de eso, cualquier permutación de valores es válida en esta escala: podríamos usar &ldquo;A&rdquo; y &ldquo;B&rdquo;; &ldquo;I&rdquo; y &ldquo;II&rdquo;; &ldquo;0&rdquo; y &ldquo;1&rdquo;; etc.</p>
+<p>Como anécdota, Stevens menciona que era justamente la escala nominal la manzana de la discordia durante las reuniones del famoso Comité: para los expertos provenientes de la Física, otorgarle a un método tan rudimental como el nominal la dignidad de &ldquo;medición&rdquo; era algo inadmisible.</p>
+<h2 id="escala-ordinal">Escala Ordinal</h2>
+<p>La operación que define a esta escala es el <strong>ranqueo u ordenamiento</strong> de las unidades de análisis en base al atributo que estamos midiendo. Por ejemplo, cuando estamos tratando de medir el atributo <em><strong>estatus</strong></em> de los puestos de trabajo de una empresa (que vendrían a ser  <em>las unidades de análisis</em>), podemos asignarles un código que implique un orden, <em>un más de</em> o <em>menos de</em>:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Puesto</th>
+<th style="text-align:center">Código A</th>
+<th style="text-align:center">Código B</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Auxiliar</td>
+<td style="text-align:center">100</td>
+<td style="text-align:center">1</td>
+</tr>
+<tr>
+<td style="text-align:center">Asistente</td>
+<td style="text-align:center">110</td>
+<td style="text-align:center">2</td>
+</tr>
+<tr>
+<td style="text-align:center">Analista</td>
+<td style="text-align:center">200</td>
+<td style="text-align:center">3</td>
+</tr>
+<tr>
+<td style="text-align:center">Especialista</td>
+<td style="text-align:center">210</td>
+<td style="text-align:center">4</td>
+</tr>
+<tr>
+<td style="text-align:center">Supervisor</td>
+<td style="text-align:center">300</td>
+<td style="text-align:center">5</td>
+</tr>
+<tr>
+<td style="text-align:center">Jefe</td>
+<td style="text-align:center">310</td>
+<td style="text-align:center">6</td>
+</tr>
+</tbody>
+</table>
+<p>En esta tabla, los códigos asignados a cada puesto reflejan el <em>estatus</em> asignado a cada cargo. Este estatus no es una cantidad exacta o predefinida; no se trata realmente de salario, ya que, por ejemplo, un &ldquo;Especialista&rdquo; muy cotizado en el mercado puede llegar a ganar más dinero que un &ldquo;Supervisor&rdquo; que no tenga calificaciones especiales o posea poca experiencia, como sabe cualquiera que haya trabajado en remuneraciones del personal. Tal vez lo más aproximado sería decir que esperaríamos que un analista tenga más responsabilidades que un auxiliar pero menos que un Jefe, aunque no ea posible medir las diferencias manera exacta. Solo sabemos que algunos puestos tienen más estatus que otros, aunque no sepamos cuanto más.</p>
+<p>Cualquier cambio sistemático que se haga a una escala ordinal es válido, siempre y cuando no se altere el orden o ranqueo de las unidades de análisis. Por ejemplo, si cambiamos el código A por el código B, no tendríamos ningún problema ni perderíamos información esencial. Ambas versiones de codificación mantienen el orden, que en este caso es lo único que estamos midiendo, lo único que realmente interesa.</p>
+<p>Stevens admite que en realidad casi todas las medidas que hacemos los psicólogos son de tipo ordinal, y que cualquier indicador estadístico en virtud del cual se presuma que uno sabe algo más de las unidades que el simple orden relativo de estas (como por ejemplo el promedio o la desviación estándar) en puridad no son aplicables.</p>
+<p>Lo que dice literalmente Stevens es:</p>
+<blockquote>
+<p><em>Por otro lado, para esta estadística &ldquo;<em>ilegal</em>&rdquo; puede invocarse una especie de sanción pragmática: en numerosos casos conduce a resultados fructíferos. Si bien la prohibición de este procedimiento probablemente no sirva para un buen propósito, es apropiado señalar que los medios y las desviaciones estándar calculadas en una escala ordinal son erróneas en la medida en que los intervalos sucesivos en la escala son desiguales en tamaño. Cuando solo se conoce el orden de clasificación de los datos, debemos proceder con cautela con nuestras estadísticas, y especialmente con las conclusiones que se extrae de ellas.</em> (Stevens, S. S. (1946). On the theory of scales of measurement. Science, 103(2684), p. 679)</p>
+</blockquote>
+<p>En otras palabras: o bien nos podemos poner super estrictos, y no ganar nada por ello, o bien aventurarnos un poco y, en la medida en que es razonable, pensar que los intervalos de la escala son más o menos parejos o semejantes entre sí, calcular algunos estadísticos útiles. Con cautela.</p>
+<p>Incluso algunos estadísticos admisibles para una escala ordinal deben usarse con prudencia. Por ejemplo, <em>interpolar</em> el valor de un determinado percentil linealmente es, estrictamente, ilícito, porque no es válido asumir que los intervalos entre los puntos de una escala ordinal son todos iguales (lo cual es un requisito para la linealidad). Por ejemplo, si calculamos que el P90 (percentil 90) &ldquo;cae&rdquo; en el dato ordinal 30, y el P80 en el dato ordinal 20, no es admisible <em>interpolar</em> (en otras palabras, deducir) que el P85 va a estar necesariamente en el valor 25.</p>
+<blockquote>
+<p>El término &ldquo;interpolar&rdquo; significa deducir un valor intermedio desconocido entre dos valores que sí conocemos, mientras que &ldquo;extrapolar&rdquo; significa asumir un valor desconocido más allá de dos o más valores conocidos.</p>
+</blockquote>
+<p>Para complementar: si usamos el mismo ejemplo anterior, sería asimismo inválido <em>extrapolar</em> que, solo porque el P80 es 20 y el P90 es 30, el P95 va a ser 35.</p>
+<p>En el artículo siguiente, haremos una explicación un poco más detallada de los dos tipos de escalas que permiten extraer más información: las escalas de intervalo y de razón.</p>
+<ul>
+<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em02/" target="_blank" rel="noopener">Compartir en Facebook</a></li>
+<li>
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;summary=&amp;source=" target="_blank" rel="noopener">Compartir en LinkedIn</a></li>
+<li>
+<a href="mailto:?subject=Interesante%20Art%C3%ADculo&amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em02/">Compartir por correo</a></li>
+<li>
+<a href="https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em02/" target="_blank" rel="noopener">Compartir por Twitter</a></li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/metodologia/">Metodología</a>
+  
+  <a class="badge badge-light" href="/tag/investigacion-cuantitativa/">Investigación Cuantitativa</a>
+  
+  <a class="badge badge-light" href="/tag/estadistica/">Estadística</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/martin-vargas-estrada/avatar_hudf7b8620e192de66d79d1f7e36df7824_451904_270x270_fill_q90_lanczos_center.jpg" alt="Martín Vargas Estrada">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="/">Martín Vargas Estrada</a></h5>
+        <h6 class="card-subtitle">Asesor Académico</h6>
+        <p class="card-text">Mis intereses académicos se centran en Psicología Social, Psicología Organizacional, Análisis Cuantitativo y Psicología Positiva.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:francisco.vargas@pucp.pe" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/marvares" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.es/citations?hl=es&amp;user=mPZyY7kAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.facebook.com/martinvargasasesor/" target="_blank" rel="noopener">
+        <i class="fab fa-facebook"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/martinvargase/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.youtube.com/channel/UCjXDIfU88ANQi1zPybaYGhg?view_as=subscriber" target="_blank" rel="noopener">
+        <i class="fab fa-youtube"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Relacionado</h3>
+    <ul>
+      
+      <li><a href="/post/em04/">Escalas de Medición, Parte 4</a></li>
+      
+      <li><a href="/post/em03/">Escalas de Medición, Parte 3</a></li>
+      
+      <li><a href="/post/em01/">Escalas de Medición, Parte 1</a></li>
+      
+      <li><a href="/post/data_wrangling/">Preparando tus Datos</a></li>
+      
+      <li><a href="/post/estad_y_verdad/">Estadística, estadísticas, y verdad</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No se encontraron resultados","placeholder":"Buscar...","results":"resultados encontrados"};
+      const content_type = {
+        'post': "Artículos",
+        'project': "Proyectos",
+        'publication' : "Publicaciones",
+        'talk' : "Charlas",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Política de Privacidad</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Términos</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Citar</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copiar
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Descargar
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

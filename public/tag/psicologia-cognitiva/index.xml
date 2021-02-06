@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psicología Cognitiva | Martín Vargas Estrada</title>
+    <link>/tag/psicologia-cognitiva/</link>
+      <atom:link href="/tag/psicologia-cognitiva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Psicología Cognitiva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_2.png</url>
+      <title>Psicología Cognitiva</title>
+      <link>/tag/psicologia-cognitiva/</link>
+    </image>
+    
+    <item>
+      <title>Bases de la Psicología Social, Una Visión Personal de las Teorías Fundamentales</title>
+      <link>/publication/book/bases/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/book/bases/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
