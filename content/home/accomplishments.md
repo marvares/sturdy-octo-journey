@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Coaching Skills for Leaders and Managers"
+  url = "hthttps://www.lynda.com/Business-tutorials/Coaching-Skills-Leaders-Managers/713373-2.html?certificate=7976ABB21D3242CD8BEBAD729112DC2A"
+  certificate_url = "https://drive.google.com/file/d/1riu3WnemEhxzx3Kq7TwDzLRr8dSY8D04/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Developing Your Team Members"
   url = "https://www.lynda.com/Leadership-Management-tutorials/Developing-Your-Team-Members/737756-2.html?certificate=BF217D984735417FB149E20599C432E6"
   certificate_url = "https://drive.google.com/file/d/1xFqzyEgRqC5-JzREAsHX3MH2_qCkEYa9/view?usp=sharing"
