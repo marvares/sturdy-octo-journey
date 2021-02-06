@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Employee Experience"
   url = "https://www.lynda.com/Business-Skills-tutorials/Employee-Experience/700792-2.html?certificate=1FFB382164F54FB4ABF33449333F4424"
   certificate_url = "https://drive.google.com/file/d/1awbTsds6WsbFO-yY9Nh0Q5qjkMXsU4IM/view?usp=sharing"
-  date_start = "2021-02-10"
+  date_start = "2020-12-10"
   date_end = ""
   description = ""
 
