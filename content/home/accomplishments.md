@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Managing Employee Performance Problems"
+  url = "https://www.lynda.com/Business-Communication-tutorials/Managing-Employee-Performance-Problems/746305-2.html?certificate=18158D5830CB4DE3AC6D2C8835645970"
+  certificate_url = "https://drive.google.com/file/d/1h_Z2ylSWKYaur4-DIAKx3KaGVPAbBLoj/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Persuasive Coaching"
   url = "https://www.lynda.com/Business-tutorials/Persuasive-Coaching/758620-2.html?certificate=6558E2C2C30B4AE8A62E173A46EDAEDA"
   certificate_url = "https://drive.google.com/file/d/1Dqzv5DABQCK8azla7c07hnjuvUkn7s-U/view?usp=sharing"
