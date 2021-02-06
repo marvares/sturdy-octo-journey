@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Persuasive Coaching"
+  url = "https://www.lynda.com/Business-tutorials/Persuasive-Coaching/758620-2.html?certificate=6558E2C2C30B4AE8A62E173A46EDAEDA"
+  certificate_url = "https://drive.google.com/file/d/1Dqzv5DABQCK8azla7c07hnjuvUkn7s-U/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Employee Experience"
   url = "https://www.lynda.com/Business-Skills-tutorials/Employee-Experience/700792-2.html?certificate=1FFB382164F54FB4ABF33449333F4424"
   certificate_url = "https://drive.google.com/file/d/1awbTsds6WsbFO-yY9Nh0Q5qjkMXsU4IM/view?usp=sharing"
