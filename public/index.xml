@@ -264,18 +264,6 @@
     </item>
     
     <item>
-      <title>Política de Privacidad</title>
-      <link>/privacy/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;A la fecha, la única fuente de datos de visitantes que este sitio web puede recopilar es la que los visitantes mismos proveen de manera intencional y voluntaria a través de los formularios y plugins de la sección &amp;ldquo;Contáctame&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Este sitio web es personal y, por lo tanto, no tiene la capacidad, hasta donde su autor conoce, de recopilar de manera automática y/o velada ninguna información o dato accesible al webmaster.&lt;/p&gt;
-&lt;p&gt;Todo dato que usted mismo brinde a través de la sección &amp;ldquo;Contáctame&amp;rdquo; solo será usado por el webmaster para proveerle sus servicios profesionales, y no será compartida con terceros de ninguna índole bajo ninguna modalidad. Su información de contacto y cualesquiera otros detalles personales serán mantenidos bajo estricta confidencialidad.&lt;/p&gt;
-&lt;p&gt;Además, toda la información que usted comparta será tratada según lo dispuesto en el Código de Ética del Psicólogo del Colegio de Psicólogos del Perú, y la legislación peruana e internacional aplicable. Asimismo, el autor/webmaster tratará siempre de apegarse a las pautas éticas de la APA (Asociación Psicológica Americana) en tanto y cuanto sean compatibles con los lineamientos mencionados anteriormente.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>El Drama de la Comunicación y la Precariedad de la Ciencia</title>
       <link>/post/pc/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
@@ -986,13 +974,13 @@ $$&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+&lt;strong&gt;Two&lt;/strong&gt; 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
+Three 
 &lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -1066,39 +1054,6 @@ Three
     </item>
     
     <item>
-      <title>Términos</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;El material que aquí publico tiene, en general, propósitos de presentación personal y divulgación psicológica y, salvo cuando cito específicamente a algún autor, es totalmente original.&lt;/p&gt;
-&lt;p&gt;Hay tres tipos de material aquí:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Información de presentación personal (asumible como un sucedáneo virtual de un &lt;em&gt;currículum vitae&lt;/em&gt;)&lt;/li&gt;
-&lt;li&gt;Artículos originales de divulgación psicológica:
-&lt;ul&gt;
-&lt;li&gt;Análisis y Exposición de conceptos básicos de Psicología, Metodología Científica y similares;&lt;/li&gt;
-&lt;li&gt;Análisis, resumen y crítica de artículos, libros y otros de terceros;&lt;/li&gt;
-&lt;li&gt;Ensayos y artículos donde expongo conceptos teóricos propios;&lt;/li&gt;
-&lt;li&gt;Análisis sociopsicológico de coyuntura&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Presentación de publicaciones hechas en otros medios:
-&lt;ul&gt;
-&lt;li&gt;Tesis de grado;&lt;/li&gt;
-&lt;li&gt;Libros electrónicos&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;¿ Qué te es lícito hacer con mi contenido?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Todo lo que es permitido en virtud de la licencia CreativeCommons Atribución-Compartir Igual 4.0 Internacional:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Licencia Creative Commons&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Esta obra está bajo una &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional&lt;/a&gt;.
-&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Argerich</title>
       <link>/post/xf_argerich/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
@@ -1115,7 +1070,7 @@ Three
 &lt;/ul&gt;
 &lt;h2 id=&#34;microrrelato&#34;&gt;Microrrelato&lt;/h2&gt;
 &lt;p&gt;Bien conocido es que la Argerich destrozó el corazón de Charles Dutoit. Menos conocido es que Dutoit cortó con su Victorinox las cuerdas del Pléyel de ésta, ubicado en el salón isabelino del domicilio conyugal de Ginebra.&lt;/p&gt;
-&lt;p&gt;Luego, en el trascurso de una tarde demencial &amp;ndash;mientras Martha viajaba a Suiza desde España&amp;ndash; dibujó con las cuerdas rotas la palabreja &amp;ldquo;&lt;em&gt;felatriz&lt;/em&gt;&amp;rdquo; sobre la alfombra persa. Luego la deshizo, convencido de que el diseño de arabescos de Estambul impedía la debida legibilidad del denuesto, y más convencido aún de que lo que había sido concebido como insulto podría dibujar una sonrisa complacida en los delgados y mezquinos labios de su ex.
+&lt;p&gt;Luego, en el trascurso de una tarde demencial &amp;ndash;mientras Martha viajaba a Suiza desde España&amp;ndash; dibujó con las cuerdas rotas la palabreja &amp;ldquo;&lt;em&gt;felatriz&lt;/em&gt;&amp;rdquo; sobre la alfombra persa. Luego la deshizo, convencido de que el diseño de arabescos de Estambul impedía la debida legibilidad del denuesto, y más convencido aún de que lo que había sido concebido como insulto podría dibujar una sonrisa complacida en los delgados y mezquinos labios de su ex. 
 (Así de monumental era el ego de la concertista.)&lt;/p&gt;
 &lt;p&gt;Pero el asesinato del noble instrumento de ensayo estaba consumado, y cuando arribó al hogar hasta hacía poco compartido, la argentina lloró toda la noche, mucho más de lo que había llorado nunca por su marido.&lt;/p&gt;
 &lt;ul&gt;
