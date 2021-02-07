@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Coaching and Developing Employees"
+  url = "https://www.lynda.com/Business-tutorials/Coaching-Developing-Employees/802842-2.html?certificate=F23A690C504B457AAFB7802887BA9112"
+  certificate_url = "https://drive.google.com/file/d/1v6lnH24G9unFYl2scDn4sBsLwxcPhevT/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Delivering Employee Feedback"
   url = "https://www.lynda.com/Business-tutorials/Delivering-Employee-Feedback/5015861-2.html?certificate=167718849ABF404EAC6D535519D5184C"
   certificate_url = "https://drive.google.com/file/d/1xA5gJTkYolTWn3urGMd2Ts1PQrqlFDPx/view?usp=sharing  "
