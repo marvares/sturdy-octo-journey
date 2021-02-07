@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Bienvenid@s"
+title = "Novedades"
 subtitle = ""
 
 [design]
@@ -52,11 +52,11 @@ subtitle = ""
 
 Gracias por visitar mi página. 
 
-Aquí hallarás desde información básica acerca de mí (quién soy, mi trayectoria, mis intereses, etc.), hasta los libros que he escrito, mis artículos (psicológicos y no psicológicos), así como una ventana a mis redes sociales, incluyendo mi canal de YouTube.
+Algunas novedades: 
 
-En especial ahondo aquí en torno a temas de investigación científica, metodología, estadística y Psicología Social y Organizacional en general. 
+--Artículo añadido en [mi perfil en Researchgate.](https://www.researchgate.net/profile/Martin_Vargas_Estrada).
 
-Mensaje especial para mis alumnos y ex-alumnos: *¡Gracias por pasarte por aquí!*
+--Nueva serie sobre [Cómo Hacer una Tesis](https://www.youtube.com/watch?v=5LKj6OgpGvI&list=PLiOOLJGjf7hwHyFYu75vK_fY280uEtxa7) en mi canal de YouTube.
 
 Espero que encuentres algo de interés para ti. Estás en tu casa.
 
