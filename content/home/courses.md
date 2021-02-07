@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "HR and Digital Transformation"
+  url = "https://www.lynda.com/Business-Skills-tutorials/HR-Digital-Transformation/756286-2.html?certificate=2888F0335DF1436389A62078167F5DB4"
+  certificate_url = "https://drive.google.com/file/d/1ABIWFnBJlLAJe_Gpk-MbO_WaHyj6zoyQ/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Coaching and Developing Employees"
   url = "https://www.lynda.com/Business-tutorials/Coaching-Developing-Employees/802842-2.html?certificate=F23A690C504B457AAFB7802887BA9112"
   certificate_url = "https://drive.google.com/file/d/1v6lnH24G9unFYl2scDn4sBsLwxcPhevT/view?usp=sharing"
