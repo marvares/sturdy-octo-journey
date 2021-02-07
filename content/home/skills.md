@@ -18,55 +18,55 @@ subtitle = ""
   icon = "search-plus"
   icon_pack = "fas"
   name = "Metodología de la Investigación"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Diseño Instruccional y Docencia"
-  description = "95%"
+  description = ""
   
 [[feature]]
   icon = "poll-h"
   icon_pack = "fas"
   name = "Elaboración y Análisis de Escalas y Encuestas"
-  description = "95%"  
+  description = ""  
 
 [[feature]]
   icon = "chart-pie"
   icon_pack = "fas"
   name = "Análisis Estadístico"
-  description = "90%" 
+  description = "" 
 
 [[feature]]
   icon = "user-tie"
   icon_pack = "fas"
   name = "Gestión de Recursos Humanos"
-  description = "95%"  
+  description = ""  
   
 [[feature]]
   icon = "comments"
   icon_pack = "fas"
   name = "Coaching"
-  description = "90%"
+  description = ""
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "SPSS"
-  description = "85%"  
+  description = ""  
   
 [[feature]]
   icon = "pen-alt"
   icon_pack = "fas"
   name = "Redacción Científica"
-  description = "95%"  
+  description = ""  
 
 # Uncomment to use emoji icons.
 # [[feature]]

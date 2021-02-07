@@ -54,9 +54,9 @@ Gracias por visitar mi página.
 
 Algunas novedades: 
 
---Artículo añadido en [mi perfil en Researchgate.](https://www.researchgate.net/profile/Martin_Vargas_Estrada).
+--Artículo añadido en [mi perfil en Researchgate](https://www.researchgate.net/profile/Martin_Vargas_Estrada).
 
---Nueva serie sobre [Cómo Hacer una Tesis](https://www.youtube.com/watch?v=5LKj6OgpGvI&list=PLiOOLJGjf7hwHyFYu75vK_fY280uEtxa7) en mi canal de YouTube.
+--Nueva serie sobre [*Cómo Hacer una Tesis*](https://www.youtube.com/watch?v=5LKj6OgpGvI&list=PLiOOLJGjf7hwHyFYu75vK_fY280uEtxa7) en mi canal de YouTube.
 
 Espero que encuentres algo de interés para ti. Estás en tu casa.
 

@@ -5,6 +5,11 @@
 
 
 [[main]]
+  name = "En Breve"
+  url = "#about"
+  weight = 28
+  
+[[main]]
   name = "Habilidades"
   url = "#skills"
   weight = 30
@@ -13,6 +18,11 @@
   name = "Logros"
   url = "#accomplishments"
   weight = 40
+  
+[[main]]
+  name = "Formación"
+  url = "#courses"
+  weight = 41
   
 [[main]]
   name = "Experiencia"
@@ -29,20 +39,20 @@
   url = "#posts"
   weight = 60
   
-  [[main]]
-  name = "Otros"
-  url = "#X_files"
-  weight = 84
+  #[[main]]
+  #name = "Otros"
+  #url = "#X_files"
+  #weight = 84
 
 [[main]]
   name = "Publicaciones"
   url = "#featured"
   weight = 70
   
-[[main]]
-  name = "Keywords"
-  url = "#tags"
-  weight = 85
+#[[main]]
+  #name = "Keywords"
+  #url = "#tags"
+  #weight = 85
 
 #[[main]]
 #  name = "Courses"
