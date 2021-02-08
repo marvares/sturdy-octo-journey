@@ -57,8 +57,8 @@ user_groups:
 - Visitors
 ---
 
-Martín Vargas Estrada es psicólogo social, docente universitario, asesor académico y empresarial, y coach. 
+Soy psicólogo social, docente universitario, asesor académico, consultor empresarial, y coach. 
 
-Realiza investigación a nivel académico, asesora tesistas en Psicología, ciencias administrativas y sociales, y desarrolla encuestas y escalas de medición cualicuantitativa. Asimismo, es consultor de empresas en clima y cultura organizacional.
+Realizo investigación a nivel académico, asesoro tesistas en Psicología, ciencias administrativas y sociales, y desarrollo encuestas y escalas de medición cualicuantitativa. Asimismo, soy consultor de empresas en temas de clima y cultura organizacional.
 
-Tiene una experiencia de más de dos décadas en gestión de recursos humanos, y diez años en docencia a nivel universitario.
+Tengo más de dos décadas de experiencia en gestión de recursos humanos, y diez años en docencia a nivel universitario.
