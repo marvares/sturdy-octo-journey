@@ -52,7 +52,7 @@ subtitle = ""
 
 --Nueva serie sobre [*Cómo Hacer una Tesis*](https://youtube.com/playlist?list=PLiOOLJGjf7hwHyFYu75vK_fY280uEtxa7) en mi canal de YouTube.
 
-----Artículo añadido en [mi perfil en Researchgate](https://www.researchgate.net/profile/Martin_Vargas_Estrada).
+--Artículo añadido en [mi perfil en Researchgate](https://www.researchgate.net/profile/Martin_Vargas_Estrada).
 
 Espero que encuentres algo de interés para ti. Estás en tu casa.
 
