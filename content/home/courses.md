@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "HR as a Business Partner"
+  url = "https://www.lynda.com/Business-Skills-tutorials/HR-Business-Partner/612174-2.html?certificate=E48778919B404BA8AC7B48F04100DBC3"
+  certificate_url = "https://drive.google.com/file/d/1lA0ZIl4WEC7DPLJphxOFJU89yW5xIbsK/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Human Resources: Strategic Workforce Planning"
   url = "https://www.lynda.com/Business-Skills-tutorials/Human-Resources-Strategic-Workforce-Planning/669536-2.html?certificate=14CBF09DEAA74559843A4B7AC85B1353"
   certificate_url = "https://drive.google.com/file/d/1fkZ2fqbIeg2tUuo5AF5At4sgvif8142U/view?usp=sharing"
