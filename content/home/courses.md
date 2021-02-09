@@ -21,6 +21,36 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Software Project Management Foundations"
+  url = "https://www.lynda.com/Business-tutorials/Software-Project-Management-Foundations/2813141-2.html?certificate=82380536C7294A93A439E4E23D27A516"
+  certificate_url = "https://drive.google.com/file/d/1R9_18aXvOCUIvMYz-qQ0xuMUR32MJNSl/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Strategic Human Resources"
+  url = "https://www.lynda.com/Business-Skills-tutorials/Strategic-Human-Resources/434461-2.html?certificate=ACDB92D09B774306AC1F43CBBD4253EB"
+  certificate_url = "https://drive.google.com/file/d/1hph2Qd3mVGBHuyuU2g69optiDSWYiwZd/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Human Resources: Leadership and Strategic Impact"
+  url = "https://www.lynda.com/Business-Skills-tutorials/Human-Resources-Leadership-Strategic-Impact/651190-2.html?certificate=A7487BAC1D8F48C28C674E8D66278A18"
+  certificate_url = "https://drive.google.com/file/d/1lNzqIVWoETttq2ZfjIVUFhynp1gdTHsv/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "HR as a Business Partner"
   url = "https://www.lynda.com/Business-Skills-tutorials/HR-Business-Partner/612174-2.html?certificate=E48778919B404BA8AC7B48F04100DBC3"
   certificate_url = "https://drive.google.com/file/d/1lA0ZIl4WEC7DPLJphxOFJU89yW5xIbsK/view?usp=sharing"
