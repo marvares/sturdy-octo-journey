@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Human Resources: Strategic Workforce Planning"
+  url = "https://www.lynda.com/Business-Skills-tutorials/Human-Resources-Strategic-Workforce-Planning/669536-2.html?certificate=14CBF09DEAA74559843A4B7AC85B1353"
+  certificate_url = "https://drive.google.com/file/d/1fkZ2fqbIeg2tUuo5AF5At4sgvif8142U/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "HR and Digital Transformation"
   url = "https://www.lynda.com/Business-Skills-tutorials/HR-Digital-Transformation/756286-2.html?certificate=2888F0335DF1436389A62078167F5DB4"
   certificate_url = "https://drive.google.com/file/d/1ABIWFnBJlLAJe_Gpk-MbO_WaHyj6zoyQ/view?usp=sharing"
