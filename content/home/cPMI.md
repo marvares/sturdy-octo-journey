@@ -21,6 +21,46 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Teamwork Foundations"
+  url = "https://www.lynda.com/Business-tutorials/Teamwork-Foundations/2823195-2.html?certificate=DED03F49BC2E4BF2A9404950C5FECAB8"
+  certificate_url = "https://drive.google.com/file/d/1g8_D6r_6GLH94k4uJC11TKxKSRzchtrs/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Leading Productive Meetings"
+  url = "https://www.lynda.com/Business-Skills-tutorials/Leading-Productive-Meetings/693078-2.html?certificate=5C0A938BF42840DFB315B6F05E5F170A"
+  certificate_url = "https://drive.google.com/file/d/1z72QRhLD1yFLGtUhAsG3z1Io5bZe3o8_/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Time Management Fundamentals"
+  url = "https://www.lynda.com/Business-Skills-tutorials/Time-Management-Fundamentals/397387-2.html?certificate=32624B0C159D4A45ABD4BDA60E43CD30"
+  certificate_url = "https://drive.google.com/file/d/1Ku8rpKJmaQ3l_oGNgGUHl7G2HcFMWh3_/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Note-Taking for Business Professionals"
+  url = "https://www.lynda.com/Business-Skills-tutorials/Note-Taking-Business-Professionals/373782-2.html?certificate=19806DCC1635411AAC73F6932389EA95"
+  certificate_url = "https://drive.google.com/file/d/1HRcPCZtUzyg5v9s3tiuagYGJdxMZsCPg/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Enhancing Your Productivity"
   url = "https://www.lynda.com/Business-Skills-tutorials/Enhancing-Your-Productivity/88536-2.html?certificate=55983E7074134300B125B080E3055C28"
   certificate_url = "https://drive.google.com/file/d/1AZjZfieifhyVi6MxRODnmMg1S8bn3Xzp/view?usp=sharing"
