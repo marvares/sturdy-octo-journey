@@ -17,23 +17,42 @@
 [[main]]
   name = "Logros"
   url = "#accomplishments"
-  weight = 40
+  weight = 39
   
 [[main]]
   name = "Formación"
-  url = "#courses"
+  url = ""
+  weight = 40
+  
+[[main]]
+  name = "Recursos Humanos"
+  url = "#cHR"
+  parent = "Formación"
   weight = 41
+  
+[[main]]
+  name = "Data Science"
+  url = "#cR"
+  parent = "Formación"
+  weight = 44
+  
+[[main]]
+  name = "Gestión de Proyectos"
+  url = "#cPMI"
+  parent = "Formación"
+  weight = 42
+  
+[[main]]
+  name = "Diseño Instruccional"
+  url = "#cID"
+  parent = "Formación"
+  weight = 43
   
 [[main]]
   name = "Experiencia"
   url = "#experience"
   weight = 50
 
-[[main]]
- name = "Libros"
- url = "/publication/#5"
- weight = 80
- 
  [[main]]
   name = "Blog"
   url = "#posts"
@@ -45,9 +64,22 @@
   #weight = 84
 
 [[main]]
+  name = "Obra Escrita"
+  url = ""
+  weight = 70
+  
+[[main]]
+ name = "Libros"
+ url = "/publication/#5"
+ parent = "Obra Escrita"
+ weight = 72
+  
+[[main]]
   name = "Publicaciones"
   url = "#featured"
-  weight = 70
+  parent = "Obra Escrita"
+  weight = 71
+  
   
 #[[main]]
   #name = "Keywords"
