@@ -21,12 +21,42 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Project Management Simplified"
+  url = "https://www.lynda.com/Business-tutorials/Project-Management-Simplified/2814140-2.html?certificate=C7A5A64867654F59A7C8F3042D590512"
+  certificate_url = "https://drive.google.com/file/d/1Hdhyw5W3zaW_nW63hNR_eLyiMgPwefPY/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = "Certificado por PMI®"
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Communication Foundations"
+  url = "https://www.lynda.com/Leadership-Management-tutorials/Communication-Foundations/700790-2.html?certificate=B2ACAD5918094DFC9FCC742E6B9BE3A6"
+  certificate_url = "https://drive.google.com/file/d/14IWqrFT9A1l4hqr0KMtd6eLMGhg74kc1/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = "Certificado por PMI®"
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Business Writing Principles"
+  url = "https://www.lynda.com/Business-Skills-tutorials/Business-Writing-Fundamentals/147532-2.html?certificate=0153A2F0CAEE433893728A34058935C3"
+  certificate_url = "https://drive.google.com/file/d/1uw_oX6_680xsinuRazLEouJmFsQjs5y5/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = "Certificado por PMI®"
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Teamwork Foundations"
   url = "https://www.lynda.com/Business-tutorials/Teamwork-Foundations/2823195-2.html?certificate=DED03F49BC2E4BF2A9404950C5FECAB8"
   certificate_url = "https://drive.google.com/file/d/1g8_D6r_6GLH94k4uJC11TKxKSRzchtrs/view?usp=sharing"
   date_start = "2020-12-10"
   date_end = ""
-  description = ""
+  description = "Certificado por PMI®"
   
 [[item]]
   organization = "Lynda.com/LinkedIn"
@@ -36,7 +66,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1z72QRhLD1yFLGtUhAsG3z1Io5bZe3o8_/view?usp=sharing"
   date_start = "2020-12-10"
   date_end = ""
-  description = ""
+  description = "Certificado por PMI®"
   
 [[item]]
   organization = "Lynda.com/LinkedIn"
@@ -46,7 +76,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1Ku8rpKJmaQ3l_oGNgGUHl7G2HcFMWh3_/view?usp=sharing"
   date_start = "2020-12-10"
   date_end = ""
-  description = ""
+  description = "Certificado por PMI®"
   
 [[item]]
   organization = "Lynda.com/LinkedIn"
@@ -56,7 +86,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1HRcPCZtUzyg5v9s3tiuagYGJdxMZsCPg/view?usp=sharing"
   date_start = "2020-12-10"
   date_end = ""
-  description = ""
+  description = "Certificado por PMI®"
   
 [[item]]
   organization = "Lynda.com/LinkedIn"
@@ -66,7 +96,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1AZjZfieifhyVi6MxRODnmMg1S8bn3Xzp/view?usp=sharing"
   date_start = "2020-12-10"
   date_end = ""
-  description = ""
+  description = "Certificado por PMI®"
   
 [[item]]
   organization = "Lynda.com/LinkedIn"
@@ -76,7 +106,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1qRrvKeXfWWVXSt0rH9Khrl8gexL-RJJO/view?usp=sharing"
   date_start = "2020-12-10"
   date_end = ""
-  description = ""
+  description = "Certificado por PMI®"
   
 [[item]]
   organization = "Lynda.com/LinkedIn"
@@ -86,7 +116,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1BUBa5seRAlKv_uA1YhLlQsD40ve9VTNA/view?usp=sharing"
   date_start = "2020-12-10"
   date_end = ""
-  description = ""
+  description = "Certificado por PMI®"
   
 [[item]]
   organization = "Lynda.com/LinkedIn"
@@ -96,6 +126,6 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1R9_18aXvOCUIvMYz-qQ0xuMUR32MJNSl/view?usp=sharing"
   date_start = "2020-12-10"
   date_end = ""
-  description = ""
+  description = "Certificado por PMI®"
   
 +++
