@@ -21,6 +21,26 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Project Management Foundations: Teams"
+  url = "https://www.lynda.com/Business-tutorials/Project-Management-Foundations-Teams/2254037-2.html?certificate=D3262C7CB5534A0396F19117DDD29CCF"
+  certificate_url = "https://drive.google.com/file/d/1149yrr8EWLWtFMbHsNe4nKn1oNznUPot/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = "Certificado por PMI®"
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Project Management Foundations: Communication"
+  url = "https://www.lynda.com/Business-tutorials/Project-Management-Foundations-Communication/774893-2.html?certificate=A4AA2FB6E0EB4918860F8FB0D8EE55DD"
+  certificate_url = "https://drive.google.com/file/d/1xeX-sLWJNzc7O8ChFOO0b5cmKbRf4J_I/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = "Certificado por PMI®"
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Project Management Foundations: Risk"
   url = "https://www.lynda.com/Business-tutorials/Project-Management-Foundations-Risk/761928-2.html?certificate=E361B06342C04999ACF74E7FEDE11F81"
   certificate_url = "https://drive.google.com/file/d/13GmxfnXkJyeIP8WrF-FfAdhLlPwNMAK6/view?usp=sharing"
