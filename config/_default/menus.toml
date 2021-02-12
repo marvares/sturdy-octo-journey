@@ -25,10 +25,22 @@
   weight = 40
   
 [[main]]
+  name = "Pregrado-Postgrado"
+  url = "#cBasic"
+  parent = "Formación"
+  weight = 41
+  
+[[main]]
+  name = "Especialización"
+  url = "#cEspec"
+  parent = "Formación"
+  weight = 42
+  
+[[main]]
   name = "Recursos Humanos"
   url = "#cHR"
   parent = "Formación"
-  weight = 41
+  weight = 45
   
 [[main]]
   name = "Data Science"
@@ -40,7 +52,7 @@
   name = "Gestión de Proyectos"
   url = "#cPMI"
   parent = "Formación"
-  weight = 42
+  weight = 46
   
 [[main]]
   name = "Diseño Instruccional"
