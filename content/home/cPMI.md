@@ -21,6 +21,46 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
+  title = "Project Management Foundations: Risk"
+  url = "https://www.lynda.com/Business-tutorials/Project-Management-Foundations-Risk/761928-2.html?certificate=E361B06342C04999ACF74E7FEDE11F81"
+  certificate_url = "https://drive.google.com/file/d/13GmxfnXkJyeIP8WrF-FfAdhLlPwNMAK6/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = "Certificado por PMI®"
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Managing Project Stakeholders"
+  url = "https://www.lynda.com/Business-tutorials/Managing-Project-Stakeholders/2806198-2.html?certificate=D93F6F2C5CC94961B14B92F39E2C2D80"
+  certificate_url = "https://drive.google.com/file/d/1jpsgvvjChzdnXDHYNqI_NQUoOZRQScPz/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = "Certificado por PMI®"
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Microsoft Project 2019 and Project Online Desktop Essential Training"
+  url = "https://www.lynda.com/Project-tutorials/Microsoft-Project-2019-Project-Online-Desktop-Essential-Training/716043-2.html?certificate=6C728F8314AC4D7C86C226268479E257"
+  certificate_url = "https://drive.google.com/file/d/1OucRg58eFvJFSgy0WSqGH40FTtqXa-26/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = "Certificado por PMI®"
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
+  title = "Microsoft Project Quick Tips"
+  url = "https://www.lynda.com/Project-tutorials/Microsoft-Project-Quick-Tips/5043065-2.html?certificate=28A6267B631D410FBAD6021B9ACAE07F"
+  certificate_url = "https://drive.google.com/file/d/1WRkEMxgrvIfSeFSLSgbpgvPkICkGQVuQ/view?usp=sharing"
+  date_start = "2020-12-10"
+  date_end = ""
+  description = "Certificado por PMI®"
+  
+[[item]]
+  organization = "Lynda.com/LinkedIn"
+  organization_url = "http://www.lynda.com"
   title = "Project Management Simplified"
   url = "https://www.lynda.com/Business-tutorials/Project-Management-Simplified/2814140-2.html?certificate=C7A5A64867654F59A7C8F3042D590512"
   certificate_url = "https://drive.google.com/file/d/1Hdhyw5W3zaW_nW63hNR_eLyiMgPwefPY/view?usp=sharing"
