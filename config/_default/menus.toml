@@ -61,6 +61,12 @@
   weight = 43
   
 [[main]]
+  name = "Emprendimiento"
+  url = "#cEmp"
+  parent = "Formación"
+  weight = 44
+  
+[[main]]
   name = "Experiencia"
   url = "#experience"
   weight = 50
