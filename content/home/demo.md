@@ -56,5 +56,3 @@ subtitle = ""
 
 Espero que encuentres algo de interés para ti. 
 
-Bienvenid@.
-
