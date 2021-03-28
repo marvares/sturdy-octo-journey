@@ -22,7 +22,7 @@ copyright = ""
 
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
-disqusShortname = "https-www-martinvargas-org-pe-1"
+
 # Get last modified date for content from Git?
 enableGitInfo = false
 

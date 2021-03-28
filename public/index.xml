@@ -77,6 +77,122 @@
     </item>
     
     <item>
+      <title>El Perfil de la Política</title>
+      <link>/post/rs_perfil/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/rs_perfil/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em04/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;p&gt;Es indiscutible. Cuando se analiza la situación política, tendemos a involucrar emociones con enorme facilidad. Y esto se debe a que la esfera política existe en cuatro dimensiones que la caracterizan:&lt;/p&gt;
+&lt;p&gt;a. &lt;strong&gt;Dimensión Restricción / Libertad&lt;/strong&gt;: Cuando la esfera política y sus protagonistas se desenvuelven adecuadamente, los ciudadanos experimentan la sensación de tener libertad. La esfera privada predomina en sus vidas, es posible sumergirse en las metas propias, y se incrementa la ilusión de ser individuos capaces de definir el propio destino. Por el contrario, cuando la esfera política y sus protagonistas se desempeñan inadecuadamente, la vivencia individual parece difuminarse y predominan las preocupaciones públicas. El ciudadano pierde el foco en su realización personal y solo parece importar el gran y nebuloso destino de la nación. Esto genera la percepción de estar en una encrucijada existencial; la vida propia se suspende, campea la incertidumbre hasta lo intolerable, y se pierde la capacidad de acción. Solo parece importar lo masivo, y formar parte de los grandes movimientos se vuelve la única manera relevante de acción. Esto restringe y encorseta la iniciativa personal y, como es fácil de entender, el bienestar emocional de los ciudadanos disminuye.&lt;/p&gt;
+&lt;p&gt;b. &lt;strong&gt;Dimensión Opacidad / Transparencia&lt;/strong&gt;: Una de las prioridades de la opinión pública es la accesibilidad a los hechos. Como la concepción de lo político&lt;/p&gt;
+&lt;h2 id=&#34;puntos-clave&#34;&gt;Puntos Clave&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;No hay única forma válida de entender el concepto de &amp;ldquo;medición&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cada forma de medir distinta pasará a definir una escala de medición distinta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;El tipo de análisis estadístico que es posible aplicar a cada tipo de medición dependerá del tipo de escala usada para medir los datos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cada escala de medición estará definida por la manera en (es decir, las reglas con) que se asigna los números a los objetos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Entonces, el problema se reduce a definir cuáles son las reglas usadas para cada tipo de escala, las cuales definen cada tipo de medición, así como las propiedades matemáticas de tales reglas y las operaciones que, en consecuencia, se pueden aplicar a los resultados de cada tipo de medición.&lt;/li&gt;
+&lt;li&gt;Las propiedades de cada escala son acumulativas: las escalas de menor nivel (nominal, ordinal) están contenidas en las de rango superior (intervalo, de razón).&lt;/li&gt;
+&lt;li&gt;Para las variables en escala nominal, es posible establecer
+&lt;ul&gt;
+&lt;li&gt;n (número de casos)&lt;/li&gt;
+&lt;li&gt;Moda&lt;/li&gt;
+&lt;li&gt;Asociación contingencial (tabla de contingencias, chi cuadrado)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Para las variables en escala ordinal, es posible establecer:
+&lt;ul&gt;
+&lt;li&gt;Mediana&lt;/li&gt;
+&lt;li&gt;Percentiles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Para las variables en escala de intervalo, es posible establecer:
+&lt;ul&gt;
+&lt;li&gt;Promedio&lt;/li&gt;
+&lt;li&gt;Desviación estándar&lt;/li&gt;
+&lt;li&gt;Correlación ordinal (&lt;em&gt;rank-order correlation&lt;/em&gt;) [Spearman]&lt;/li&gt;
+&lt;li&gt;Correlaciones Pearson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Para las variables en escala de razón, es posible establecer:
+&lt;ul&gt;
+&lt;li&gt;Coeficiente de covariación&lt;/li&gt;
+&lt;li&gt;Más todas las operaciones admisibles para las escalas anteriores&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;caso-de-aplicación-ejemplo-práctico&#34;&gt;Caso de Aplicación (Ejemplo Práctico):&lt;/h2&gt;
+&lt;p&gt;Imaginemos la siguiente escena:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Un amigo y tú están paseando por el centro comercial, cuando un encuestador los aborda y les pregunta qué tan satisfechos se encuentran ustedes con las compras que han hecho. Les muestra una tarjeta en la que se lee lo siguiente: &amp;ldquo;Usa los números enteros del 1 al 5 para responder a la pregunta, donde 1 es &amp;lsquo;no estoy satisfecho en absoluto&amp;rsquo;, y 4 es &amp;lsquo;estoy muy satisfecho&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tu amigo, quien hizo una compra desafortunada, responde con un número 2 a la pregunta, mientras que tú, que acabas de encontrar exactamente lo que buscabas, respondes con la opción 4.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La cuestión es: ¿tu satisfacción con tu compra es el doble de la satisfacción que tiene tu amigo? Aparentemente, uno tendería responder que sí, ya que 4 es el doble de 2 (4/2=2).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sin embargo,  luego de considerarlo bien, lo primero que deberíamos resolver es: ¿qué tipo de escala de medición está siendo usada?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Si fuera una escala nominal tan solo bastaría saber si tu satisfacción es o no la misma que la satisfacción de tu amigo. Si ese fuera el caso, no obstante, al encuestador le hubiera bastado con decir: ¿están igual de satisfechos o no? Obviamente, esa no fue la pregunta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Si fuera escala ordinal, hubiera bastado con preguntar  simplemente cuál de ustedes está más satisfecho. Pero esa tampoco exactamente fue la pregunta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Solo nos quedan dos opciones: la escala de intervalo o la escala de razón. ¿Cuál es la diferencia más obvia entre ambas? La proporcionalidad. Mientras que la escala de razón goza de proporcionalidad, la escala de intervalo no. Por lo tanto, establezcamos si esta medida en particular es proporcional o no.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Para definir si hay proporcionalidad, bastará responder a la pregunta siguiente: ¿esta medición tiene un cero absoluto? Eso significa, en otras palabras: ¿existe un nivel de satisfacción &amp;ldquo;cero&amp;rdquo;? De nuevo otra tentación. Podríamos decir: &amp;ldquo;sí, yo puedo comprar algo y estar cero satisfecho&amp;rdquo;. Bueno, eso cumple con solo parte de la definición. La otra parte es: &amp;ldquo;es ese cero satisfacción&amp;rdquo; inequívocamente el mismo para cualquier persona en cualquier momento y en cualquier lugar? En otras palabras: ¿ese &amp;ldquo;cero satisfecho&amp;rdquo; es objetivo?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La respuesta es: no. Tu &amp;ldquo;cero satisfecho&amp;rdquo; no es comprobable como el mismo e idéntico grado de satisfacción para cualquier persona en cualquier tiempo y en cualquier lugar. Tu &amp;ldquo;cero satisfacción&amp;rdquo; puede ser mi &amp;ldquo;1 de satisfacción&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ese es el punto de las mediciones de actitud (y esta lo es): la actitud por definición es subjetiva. Y lo mismo aplica para casi todas las mediciones psicológicas: son subjetivas. Por lo tanto, carecen de &amp;ldquo;punto cero&amp;rdquo; que sea objetivo y absoluto como los -273 ºC del cero de la escala Kelvin o la velocidad de la luz.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;En suma: estamos ante una medición en escala de intervalo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Espero que hayas podido comprender el tema de las escalas de medición. Nos hemos tomado un tiempo porque es un concepto fundamental; si no lo entendemos es probable que el resto de la estadística y la metodología en general se vuelva algo dificultoso, sobre todo cuando se trata de interpretar y comprender.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/pc/&amp;amp;title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em04/&#34;&gt;Compartir por correo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Escalas de Medición, Parte 4</title>
       <link>/post/em04/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
