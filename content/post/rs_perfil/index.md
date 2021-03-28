@@ -18,9 +18,7 @@ Es indiscutible. Cuando se analiza la situación política, tendemos a involucra
   a. **Dimensión Restricción / Libertad**: Cuando la esfera política y sus protagonistas se desenvuelven adecuadamente, los ciudadanos experimentan la sensación de tener libertad. La esfera privada predomina en sus vidas, es posible sumergirse en las metas propias, y se incrementa la ilusión de ser individuos capaces de definir el propio destino. Por el contrario, cuando la esfera política y sus protagonistas se desempeñan inadecuadamente, la vivencia individual parece difuminarse y predominan las preocupaciones públicas. El ciudadano pierde el foco en su realización personal y solo parece importar el gran y nebuloso destino de la nación. Esto genera la percepción de estar en una encrucijada existencial; la vida propia se suspende, campea la incertidumbre hasta lo intolerable, y se pierde la capacidad de acción. Solo parece importar lo masivo, y formar parte de los grandes movimientos se vuelve la única manera relevante de acción. Esto restringe y encorseta la iniciativa personal y, como es fácil de entender, el bienestar emocional de los ciudadanos disminuye.
   
   
-  b. **Dimensión Opacidad / Transparencia**: Una de las prioridades de la opinión pública es la accesibilidad a los hechos. Como la concepción d
-
->Al comité británico, entonces, podemos aventurarnos a sugerir, a modo de conclusión, que la definición más liberal y útil de medición es, como lo sugirió uno de sus miembros, "la asignación de números a las cosas para representar hechos y convenciones sobre ellas". El problema de qué es y qué no es medición se reduce a la simple pregunta: ¿Cuáles son las reglas, si las hay, bajo las cuales se asignan los números? Si podemos determinar un conjunto coherente de reglas, estamos obviamente hablando de medición de algún tipo, y ya luego podemos proceder a la más interesante pregunta  acerca del tipo de medición de que se trata.
+  b. **Dimensión Opacidad / Transparencia**: Una de las prioridades de la opinión pública es la accesibilidad a los hechos. Como la concepción de lo político 
 
 ## Puntos Clave
 
