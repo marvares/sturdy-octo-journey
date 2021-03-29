@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data | Martín Vargas Estrada</title>
-    <link>/tag/data/</link>
-      <atom:link href="/tag/data/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.martinvargas.org.pe/tag/data/</link>
+      <atom:link href="https://www.martinvargas.org.pe/tag/data/index.xml" rel="self" type="application/rss+xml" />
     <description>Data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Sat, 23 May 2020 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.martinvargas.org.pe/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_2.png</url>
       <title>Data</title>
-      <link>/tag/data/</link>
+      <link>https://www.martinvargas.org.pe/tag/data/</link>
     </image>
     
     <item>
       <title>Preparando tus Datos</title>
-      <link>/post/data_wrangling/</link>
+      <link>https://www.martinvargas.org.pe/post/data_wrangling/</link>
       <pubDate>Sat, 23 May 2020 21:13:14 -0500</pubDate>
-      <guid>/post/data_wrangling/</guid>
+      <guid>https://www.martinvargas.org.pe/post/data_wrangling/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Facebook&lt;/a&gt;&lt;/li&gt;

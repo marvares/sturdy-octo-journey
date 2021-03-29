@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psicología Evolucionista | Martín Vargas Estrada</title>
-    <link>/tag/psicologia-evolucionista/</link>
-      <atom:link href="/tag/psicologia-evolucionista/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.martinvargas.org.pe/tag/psicologia-evolucionista/</link>
+      <atom:link href="https://www.martinvargas.org.pe/tag/psicologia-evolucionista/index.xml" rel="self" type="application/rss+xml" />
     <description>Psicología Evolucionista</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.martinvargas.org.pe/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_2.png</url>
       <title>Psicología Evolucionista</title>
-      <link>/tag/psicologia-evolucionista/</link>
+      <link>https://www.martinvargas.org.pe/tag/psicologia-evolucionista/</link>
     </image>
     
     <item>
       <title>Bases de la Psicología Social, Una Visión Personal de las Teorías Fundamentales</title>
-      <link>/publication/book/bases/</link>
+      <link>https://www.martinvargas.org.pe/publication/book/bases/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/book/bases/</guid>
+      <guid>https://www.martinvargas.org.pe/publication/book/bases/</guid>
       <description></description>
     </item>
     

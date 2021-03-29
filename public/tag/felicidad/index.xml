@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Felicidad | Martín Vargas Estrada</title>
-    <link>/tag/felicidad/</link>
-      <atom:link href="/tag/felicidad/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.martinvargas.org.pe/tag/felicidad/</link>
+      <atom:link href="https://www.martinvargas.org.pe/tag/felicidad/index.xml" rel="self" type="application/rss+xml" />
     <description>Felicidad</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.martinvargas.org.pe/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_2.png</url>
       <title>Felicidad</title>
-      <link>/tag/felicidad/</link>
+      <link>https://www.martinvargas.org.pe/tag/felicidad/</link>
     </image>
     
     <item>
       <title>Bienestar subjetivo, “Felicidad objetiva” y actitudes en una muestra representativa de la población peruana</title>
-      <link>/publication/journal-article/</link>
+      <link>https://www.martinvargas.org.pe/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>https://www.martinvargas.org.pe/publication/journal-article/</guid>
       <description></description>
     </item>
     

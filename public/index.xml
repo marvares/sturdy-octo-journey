@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martín Vargas Estrada</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.martinvargas.org.pe/</link>
+      <atom:link href="https://www.martinvargas.org.pe/index.xml" rel="self" type="application/rss+xml" />
     <description>Martín Vargas Estrada</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.martinvargas.org.pe/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_2.png</url>
       <title>Martín Vargas Estrada</title>
-      <link>/</link>
+      <link>https://www.martinvargas.org.pe/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://www.martinvargas.org.pe/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://www.martinvargas.org.pe/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://www.martinvargas.org.pe/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://www.martinvargas.org.pe/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://www.martinvargas.org.pe/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
+      <guid>https://www.martinvargas.org.pe/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,9 +78,9 @@
     
     <item>
       <title>El Perfil de la Política</title>
-      <link>/post/rs_perfil/</link>
+      <link>https://www.martinvargas.org.pe/post/rs_perfil/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/post/rs_perfil/</guid>
+      <guid>https://www.martinvargas.org.pe/post/rs_perfil/</guid>
       <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
 &lt;p&gt;Es indiscutible. Cuando se analiza la situación política, tendemos a involucrar emociones con enorme facilidad. Y esto se debe a que la esfera política existe en cuatro dimensiones que la caracterizan:&lt;/p&gt;
 &lt;p&gt;a. &lt;strong&gt;Dimensión Restricción / Libertad&lt;/strong&gt;: Cuando la esfera política y sus protagonistas se desenvuelven adecuadamente, los ciudadanos experimentan la sensación de tener libertad. La esfera privada predomina en sus vidas, es posible sumergirse en las metas propias, y se incrementa la ilusión de ser individuos capaces de definir el propio destino. Por el contrario, cuando la esfera política y sus protagonistas se desempeñan inadecuadamente, la vivencia individual parece difuminarse y predominan las preocupaciones públicas. El ciudadano pierde el foco en su realización personal y solo parece importar el gran y nebuloso destino de la nación. Esto genera la percepción de estar en una encrucijada existencial; la vida propia se suspende, campea la incertidumbre hasta lo intolerable, y se pierde la capacidad de acción. Solo parece importar lo masivo, y formar parte de los grandes movimientos se vuelve la única manera relevante de acción. Esto restringe y encorseta la iniciativa personal y, como es fácil de entender, el bienestar emocional de los ciudadanos disminuye.&lt;/p&gt;
@@ -174,9 +174,9 @@
     
     <item>
       <title>Escalas de Medición, Parte 4</title>
-      <link>/post/em04/</link>
+      <link>https://www.martinvargas.org.pe/post/em04/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/em04/</guid>
+      <guid>https://www.martinvargas.org.pe/post/em04/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em04/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -291,9 +291,9 @@
     
     <item>
       <title>Escalas de Medición, Parte 3</title>
-      <link>/post/em03/</link>
+      <link>https://www.martinvargas.org.pe/post/em03/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/em03/</guid>
+      <guid>https://www.martinvargas.org.pe/post/em03/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em03/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -361,9 +361,9 @@
     
     <item>
       <title>El Drama de la Comunicación y la Precariedad de la Ciencia</title>
-      <link>/post/pc/</link>
+      <link>https://www.martinvargas.org.pe/post/pc/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/pc/</guid>
+      <guid>https://www.martinvargas.org.pe/post/pc/</guid>
       <description>
 
 
@@ -462,9 +462,9 @@ Antonio Porchia&lt;/p&gt;
     
     <item>
       <title>Qué es el Estrés</title>
-      <link>/post/stress001/</link>
+      <link>https://www.martinvargas.org.pe/post/stress001/</link>
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/stress001/</guid>
+      <guid>https://www.martinvargas.org.pe/post/stress001/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/stress001/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -516,9 +516,9 @@ Antonio Porchia&lt;/p&gt;
     
     <item>
       <title>Escalas de Medición, Parte 2</title>
-      <link>/post/em02/</link>
+      <link>https://www.martinvargas.org.pe/post/em02/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/em02/</guid>
+      <guid>https://www.martinvargas.org.pe/post/em02/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em02/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -614,9 +614,9 @@ Antonio Porchia&lt;/p&gt;
     
     <item>
       <title>Escalas de Medición, Parte 1</title>
-      <link>/post/em01/</link>
+      <link>https://www.martinvargas.org.pe/post/em01/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/em01/</guid>
+      <guid>https://www.martinvargas.org.pe/post/em01/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir por Facebook&lt;/a&gt;&lt;/li&gt;
@@ -751,9 +751,9 @@ Antonio Porchia&lt;/p&gt;
     
     <item>
       <title>Preparando tus Datos</title>
-      <link>/post/data_wrangling/</link>
+      <link>https://www.martinvargas.org.pe/post/data_wrangling/</link>
       <pubDate>Sat, 23 May 2020 21:13:14 -0500</pubDate>
-      <guid>/post/data_wrangling/</guid>
+      <guid>https://www.martinvargas.org.pe/post/data_wrangling/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -851,9 +851,9 @@ Antonio Porchia&lt;/p&gt;
     
     <item>
       <title>Estadística, estadísticas, y verdad</title>
-      <link>/post/estad_y_verdad/</link>
+      <link>https://www.martinvargas.org.pe/post/estad_y_verdad/</link>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/estad_y_verdad/</guid>
+      <guid>https://www.martinvargas.org.pe/post/estad_y_verdad/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -892,9 +892,9 @@ Antonio Porchia&lt;/p&gt;
     
     <item>
       <title>Virus, Cultura y Civilización</title>
-      <link>/post/virus_y_civ/</link>
+      <link>https://www.martinvargas.org.pe/post/virus_y_civ/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/virus_y_civ/</guid>
+      <guid>https://www.martinvargas.org.pe/post/virus_y_civ/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/virus_y_civ/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -942,9 +942,9 @@ Antonio Porchia&lt;/p&gt;
     
     <item>
       <title>Enigmas y Problemas</title>
-      <link>/post/enigma/</link>
+      <link>https://www.martinvargas.org.pe/post/enigma/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/enigma/</guid>
+      <guid>https://www.martinvargas.org.pe/post/enigma/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/enigma/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -986,25 +986,25 @@ Antonio Porchia&lt;/p&gt;
     
     <item>
       <title>Relación entre esperanza, bienestar, actitudes laborales y sociodemográficos en miembros de la PEA</title>
-      <link>/publication/conference-paper/</link>
+      <link>https://www.martinvargas.org.pe/publication/conference-paper/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <guid>https://www.martinvargas.org.pe/publication/conference-paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bases de la Psicología Social, Una Visión Personal de las Teorías Fundamentales</title>
-      <link>/publication/book/bases/</link>
+      <link>https://www.martinvargas.org.pe/publication/book/bases/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/book/bases/</guid>
+      <guid>https://www.martinvargas.org.pe/publication/book/bases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
+      <link>https://www.martinvargas.org.pe/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
+      <guid>https://www.martinvargas.org.pe/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -1017,9 +1017,9 @@ Antonio Porchia&lt;/p&gt;
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://www.martinvargas.org.pe/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://www.martinvargas.org.pe/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -1151,9 +1151,9 @@ Three
     
     <item>
       <title>Argerich</title>
-      <link>/post/xf_argerich/</link>
+      <link>https://www.martinvargas.org.pe/post/xf_argerich/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
-      <guid>/post/xf_argerich/</guid>
+      <guid>https://www.martinvargas.org.pe/post/xf_argerich/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_Argerich/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -1184,9 +1184,9 @@ Three
     
     <item>
       <title>Trazos</title>
-      <link>/post/xf_trazos/</link>
+      <link>https://www.martinvargas.org.pe/post/xf_trazos/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/post/xf_trazos/</guid>
+      <guid>https://www.martinvargas.org.pe/post/xf_trazos/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_trazos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -1218,17 +1218,17 @@ Three
     
     <item>
       <title>External Project</title>
-      <link>/project/external-project/</link>
+      <link>https://www.martinvargas.org.pe/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>https://www.martinvargas.org.pe/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <link>https://www.martinvargas.org.pe/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>https://www.martinvargas.org.pe/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -1239,25 +1239,25 @@ Three
     
     <item>
       <title>Bienestar subjetivo, “Felicidad objetiva” y actitudes en una muestra representativa de la población peruana</title>
-      <link>/publication/journal-article/</link>
+      <link>https://www.martinvargas.org.pe/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>https://www.martinvargas.org.pe/publication/journal-article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>El Libro del Laurel Rosa</title>
-      <link>/publication/book/laurel/</link>
+      <link>https://www.martinvargas.org.pe/publication/book/laurel/</link>
       <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/book/laurel/</guid>
+      <guid>https://www.martinvargas.org.pe/publication/book/laurel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tinta Indeleble</title>
-      <link>/post/xf_tinta/</link>
+      <link>https://www.martinvargas.org.pe/post/xf_tinta/</link>
       <pubDate>Sun, 03 May 2015 00:00:00 +0000</pubDate>
-      <guid>/post/xf_tinta/</guid>
+      <guid>https://www.martinvargas.org.pe/post/xf_tinta/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_tinta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -1290,9 +1290,9 @@ Three
     
     <item>
       <title>Prez inconexa</title>
-      <link>/post/xf_prayer/</link>
+      <link>https://www.martinvargas.org.pe/post/xf_prayer/</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
-      <guid>/post/xf_prayer/</guid>
+      <guid>https://www.martinvargas.org.pe/post/xf_prayer/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_prayer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -1324,9 +1324,9 @@ Three
     
     <item>
       <title>Her Shadow</title>
-      <link>/post/xf_hershadow/</link>
+      <link>https://www.martinvargas.org.pe/post/xf_hershadow/</link>
       <pubDate>Sat, 03 May 2014 00:00:00 +0000</pubDate>
-      <guid>/post/xf_hershadow/</guid>
+      <guid>https://www.martinvargas.org.pe/post/xf_hershadow/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_hershadow/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
@@ -1362,9 +1362,9 @@ Three
     
     <item>
       <title>Mujer Con Sombrero</title>
-      <link>/post/xf_wwah/</link>
+      <link>https://www.martinvargas.org.pe/post/xf_wwah/</link>
       <pubDate>Sat, 03 May 2014 00:00:00 +0000</pubDate>
-      <guid>/post/xf_wwah/</guid>
+      <guid>https://www.martinvargas.org.pe/post/xf_wwah/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_wwah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compartir en Facebook&lt;/a&gt;&lt;/li&gt;
