@@ -4,12 +4,9 @@ title: El Perfil de la Política
 categories: ["Psicología Política"]
 tags: ["Psicología Social", "Reseña"]
 summary: Reseña del libro "El Perfil del Lagarto" (2021), de Carlos Paredes.
+socialshare: true
 ---
 
-- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em04/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/pc/&title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em04/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em04/)
 
 ## Introducción 
 
@@ -18,7 +15,7 @@ Es indiscutible. Cuando se analiza la situación política, tendemos a involucra
   a. **Dimensión Restricción / Libertad**: Cuando la esfera política y sus protagonistas se desenvuelven adecuadamente, los ciudadanos experimentan la sensación de tener libertad. La esfera privada predomina en sus vidas, es posible sumergirse en las metas propias, y se incrementa la ilusión de ser individuos capaces de definir el propio destino. Por el contrario, cuando la esfera política y sus protagonistas se desempeñan inadecuadamente, la vivencia individual parece difuminarse y predominan las preocupaciones públicas. El ciudadano pierde el foco en su realización personal y solo parece importar el gran y nebuloso destino de la nación. Esto genera la percepción de estar en una encrucijada existencial; la vida propia se suspende, campea la incertidumbre hasta lo intolerable, y se pierde la capacidad de acción. Solo parece importar lo masivo, y formar parte de los grandes movimientos se vuelve la única manera relevante de acción. Esto restringe y encorseta la iniciativa personal y, como es fácil de entender, el bienestar emocional de los ciudadanos disminuye.
   
   
-  b. **Dimensión Opacidad / Transparencia**: Una de las prioridades de la opinión pública es la accesibilidad a los hechos. Como la concepción de lo político 
+  b. **Dimensión Opacidad / Transparencia**: Una de las prioridades de la opinión pública es la accesibilidad a los hechos. Dada la enorme capacidad de lo político para restringir la acción y la vida cotidiana, los ciudadanos, casi instintivamente, demandan claridad 
 
 ## Puntos Clave
 
@@ -74,8 +71,3 @@ Imaginemos la siguiente escena:
   * En suma: estamos ante una medición en escala de intervalo. 
 
 Espero que hayas podido comprender el tema de las escalas de medición. Nos hemos tomado un tiempo porque es un concepto fundamental; si no lo entendemos es probable que el resto de la estadística y la metodología en general se vuelva algo dificultoso, sobre todo cuando se trata de interpretar y comprender.
-
-- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em04/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/pc/&title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em04/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em04/)
