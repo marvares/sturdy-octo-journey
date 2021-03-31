@@ -3,7 +3,7 @@ date: "2021-03-28"
 title: El Perfil de la Política
 categories: ["Psicología Política"]
 tags: ["Psicología Social", "Reseña"]
-summary: Reseña del libro "El Perfil del Lagarto" (2021), de Carlos Paredes, antecedida por una pequeña propuesta de marco conceptual para entender la opinión pública en relación a la Política.
+summary: Reseña del libro "El Perfil del Lagarto" (2021), de Carlos Paredes, antecedida por una pequeña propuesta de marco conceptual para entender la opinión pública en relación a la Política, y rematada por una aplicación breve de la propuesta al personaje principal del libro reseñado.
 socialshare: false
 ---
 
