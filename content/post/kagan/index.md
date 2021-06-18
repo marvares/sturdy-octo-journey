@@ -8,7 +8,7 @@ summary: Uno de los grandes psicólogos del siglo XX y principios del XXI ha tra
 
 # Jerome Kagan
 
-## Ciencia vs Opinión
+## Ciencia versus Opinión
 
 Jerome Kagan era un liberal, que pensaba que todos los seres humanos nacemos con el mismo potencial y, por lo tanto, solo nos diferenciamos en función del entorno y nuestras propias motivaciones. 
 

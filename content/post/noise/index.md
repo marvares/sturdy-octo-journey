@@ -13,7 +13,7 @@ summary: Reseña del libro "Noise, A Flaw in Human Judgment" (2021), de Daniel K
 
 ## Los profesionales veleidosos
 
-Oncólogos de diagnóstico caprichoso, jueces hinchas de fútbol, psiquiatras erráticos, aseguradores inconstantes... ¿Qué tienen en común?
+Oncólogos de diagnóstico caprichoso, jueces hinchas de fútbol, psiquiatras erráticos, aseguradores inconstantes... ¿Qué pueden tener en común?
 
 Todos trabajan como especialistas en su ramo. Todos esperamos de ellos resultados concluyentes, unívocos, consistentes: o tienes cáncer o no lo tienes; o eres culpable o eres inocente; estás psicótico o solo tienes  pánico; tienes que pagar una prima de cien soles o una de mil.
 
