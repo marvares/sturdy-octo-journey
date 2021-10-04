@@ -1,14 +1,14 @@
 ---
 date: "2021-10-04"
-title: 12 Reglas
+title: 12 Reglas-05
 categories: ["Psicología"]
 tags: ["Psicología Social"]
-summary: Capítulo 05, Un psicólogo conservador revisita la crianza tradicional.
+summary: Regla 05, No permitas que tus Hijos hagan Cosas que Detestes. Un psicólogo conservador revisita la crianza tradicional.
 ---
 
-# 12 de Reglas para Vivir: Regla 05: No permitas que tus Hijos hagan Cosas que Detestes
+# 12 de Reglas para Vivir: Regla 05
 
-## Pues no, no está bien...
+## No permitas que tus Hijos hagan Cosas que Detestes
 
 Peterson denuncia que existe en muchos padres la idea de querer ser amigos de los hijos, en vez de autoridad paterna. Denuncia que muchas veces los padres disfrazan inoperancia con indulgencia, usando la tolerancia como un manto para la irresponsabilidad.
 
