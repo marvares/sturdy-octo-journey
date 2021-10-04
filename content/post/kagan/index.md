@@ -1,42 +1,45 @@
 ---
-date: "2021-06-17"
-title: Jerome Kagan
+date: "2021-10-04"
+title: 12 Reglas
 categories: ["Psicología"]
-tags: ["Psicología del Desarrollo"]
-summary: Uno de los grandes psicólogos del siglo XX y principios del XXI ha trascendido este último mes. Algunas líneas acerca de su obra y su perfil.
+tags: ["Psicología Social"]
+summary: Capítulo 05: Un psicólogo conservador revisita la crianza tradicional.
 ---
 
-# Jerome Kagan
+# 12 de Reglas para Vivir: Regla 05: No permitas que tus Hijos hagan Cosas que Detestes
 
-## Ciencia vs. Opinión
+## Pues no, no está bien...
 
-Jerome Kagan era un liberal, que pensaba que todos los seres humanos nacemos con el mismo potencial y, por lo tanto, solo nos diferenciamos en función del entorno y nuestras propias motivaciones. 
+Peterson denuncia que existe en muchos padres la idea de querer ser amigos de los hijos, en vez de autoridad paterna. Denuncia que muchas veces los padres disfrazan inoperancia con indulgencia, usando la tolerancia como un manto para la irresponsabilidad.
 
-Hasta que empezó a investigar la relación entre el temperamento, la crianza y la personalidad de los individuos. 
+Y es que la paternidad es un rol que exige una delicada y ardua mezcla de disciplina, criterio moral claro, apertura y amor.
 
-Descubrió, por ejemplo, que los hijos de madres solteras que trabajan —y que por ende se pasaban mucho tiempo en guarderías— no diferían significativamente de los niños que pasaban la mayor parte de su existencia bajo la atenta mirada de mamá. 
+Crítica algunos mitos, como el del niño puro que es corrompido por la sociedad; que el talento y la creatividad infantil solo son obstaculizados por la socialización. Peterson es el rey de la racionalización: no importa cuánto profundice, hasta qué punto llegue en sus elucubraciones psicológico filosóficas, siempre termina concluyendo lo mismo que me podría haber dicho mi abuelita.
 
-*"Tenía tanta resistencia a otorgarle mucha influencia a lo biológico,"* diría Kagan muchos años después. Y sin embargo, no solo se la concedió, sino que escribió un libro con todos los hallazgos que se desprendían de su investigación y la de muchos otros, y que apuntaban hacia una verdad que inicialmente lo hacía sentir incómodo: al fin y al cabo, por más que los padres nos esforcemos, el impacto que estamos estinados a tener sobre la personalidad de nuestros hijos no es ni remotamente tan grande como quisiéramos —o tememos. 
+## El Contrato Social
 
-Jerome Kagan era un científico auténtico. No tenía miedo de ver la realidad a la
-cara, aunque esta no le gustase ni se condijese con sus creencias previas.
+Para este autor, los padres deben promover las actitudes que llevarán al hijo al triunfo social, y castigar y reprimir aquellas que pueden llevarlo al fracaso y la miseria. El problema radica en definir qué es el triunfo y qué es el fracaso. Además está la cuestión de anticipar qué conductas terminarán siendo recompensadas socialmente. Esto último es más difícil de predecir de lo que uno creería, sobre todo en los últimos tiempos, donde las demandas sociales pueden cambiar en lapsos más breves que el de una generación.
 
-## El Libro
+Aun si Peterson ha hecho un más que razonable esfuerzo para fundar sus puntos de vista sobre las fases de la evolución darwiniana, una cosa son los mecanismos biológicos y otra las complejidades simbólicas de la socialización. Puede que ambas sean isomórficas, o que las particularidades de la segunda pueden reducirse, ultimadamente, a las de la primera, pero definitivamente hay una desincronía que impide reducir, al menos en un solo paso, toda la socialización a lo biológico.
 
-***The Nature of the Child***[^1] fue publicado en 1984. Es una obra retadora,
-iconoclasta. Desafía, aún hoy, la sabiduría convencional acerca de los niños y su crianza. Solía asumirse que lo que sucediera en una etapa del desarrollo del
-individuo tendría impacto en la etapa siguiente; Kagan puso este supuesto en tela de juicio. Apoyado en evidencia, el libro menciona, entre otros, el *New York Longitudinal Study*, donde se le hizo seguimiento desde la infanciia a más 100 personas: los problemas infantiles, incluso en los casos en los cuales fue necesaria una intervención terapéutica, no parecían dejar huellas en el sujeto adulto. 
+Es importante determinar que la funcionalidad del contrato social radica en la adecuada tensión entre dos opuestos: el conservadurismo que anquilosa y el progresismo que desintegra. En general, el contenido de este libro tiende a apuntalar la posición conservadora, pero solo tiene sentido si la sociedad está pasando por una fase particularmente "progresista" o excesivamente cuestionadora; ese puede ser el caso de la sociedad norteamericana, pero ciertamente no es el caso de la sociedad peruana.
 
-Esto implica que una infancia difícil o incluso trágica no necesariamente determina una adultez problemática, pero también que incluso el apoyo más amplio de los padres no es garantía de éxito futuro para los hijos. 
+La sociedad peruana ha sido, siglo tras siglo, uno de los pilares del conservadurismo en toda Sudamérica. A tal extremo, que muchas estructuras culturales del virreinato parecen haberse perpetuado en los primeros tiempos de la República y algunas creencias básicas, como la dominancia social, llegan a infectar la cotidianidad actual: tenemos un partido de supuesta izquierda radical que sigue evidencian no solo un discurso, sino una práctica autoritaria, patriarcal y tradicionalista.
 
-Kagan enfatiza que el factor biológico determina las pautas del desarrollo; conforme el cerebro alcanza ciertos hitos biológicos, interactúa con las influencias ambientales, dando lugar a resultados a menudo poco predecibles. Era firme promotor de la plasticidad del desarrollo, pero también realista en cuanto a sus límites.
+## ¿Somos una nación?
 
-De esta forma, aun pasando por la tortuosa admisión del rol fundamental de lo
-biológico, Kagan logró llegar de todos modos a la idea inicial: el ser humano es
-capaz de elevarse por encima de los antecedentes más trágicos, sobreponiéndose
-a ellos hasta el límite de sus posibilidades. 
+Mi teoría personal es que el predominio de la dominancia social en el Perú tiene que ver con la generación de un contrato social desprovisto del sentimiento nacional. En ausencia del sentimiento nacional, el colectivo peruano trata de aferrarse a creencias y valores que lo vertebren, y que vinculen su pasado con su presente y su futuro. Y desgraciadamente, una de tales creencias culturales es la creencia de que algunos grupos tienen predominio natural o intrínseco sobre otras, estableciendo una jerarquía inescapable.
 
-A más de uno no se le escapará la ironía: el gran psicólogo, que detestaba la idea de que lo biológico influyera tanto en el desarrollo, termina por llegar a la conclusión de que las limitaciones sufridas en una etapa inicial no tenían por qué impactar en la etapa siguiente; es decir, las personas aún somos capaces de hacernos a nostros mismos.
+La nación peruana no existe como tal. Es como un matrimonio sin amor, dónde lo único que termina uniendo a los integrantes es el beneficio mutuo, la simbiosis, el interés que en el mejor de los casos acaba en utilidad recíproca, y en el peor de los casos explotación de una de las partes sobre la otra.
+
+La empresa intelectual de Peterson es analítica, no sintética, en el sentido kantiano del término. Todo su esfuerzo no apunta a generar nuevo conocimiento, sino a ratificar y apuntalar la sabiduría convencional. Y esa es quizás la más descorazonadora de las características de este libro en particular y del enfoque conservador en general: qué arranca coma apriorísticamente coma de la idea de que todo ya está aprobado, todo ultimadamente sabido, y que como dijera el venerable Jorge de Burgos en la versión fílmica de "el nombre de la Rosa", todo se reduce a una "sublime recapitulación, y no búsqueda".
+
+Sin embargo, hay que rescatar que el conservadurismo es emocionalmente atractivo y cognitivamente accesible y fácil. En el fondo, a todos nos gusta sentir que todo ya está decidido, sabido y previsto, y que ese destino es entendible y moralmente correcto. Encontraste, el progresismo solo puede ofrecer incertidumbre y complejidad que desasosiega: puedes tratar de descubrir nuevas y mejores formas de gobernar y dividir, pero nadie puede garantizar una solución mejor que la conservadora; y además es intelectualmente desafiante: hay que mantener una visión abierta y amplia que incorpora incluso lo que no queremos ver, lo que nos intranquiliza y angustia, y estar dispuesto al riesgo de acabar peor de lo que empezamos. De hecho ningún hombre o mujer sensatos deberían aportar por el progresismo, si eso implica alejarnos de modos establecidos que, mal que bien, han probado que funcionan, que proponer caminos necesariamente ásperos principiantes, hacia destinos mejores, iguales o peores.
+
+Y sin embargo, el predominio conservador, históricamente, ha probado ser tóxico, tiránico y regresivo. Envenena la curiosidad, ahogada por su inmovilismo atenazante; justifica y fundamenta el autoritarismo y la intolerancia, porque si hay una única verdad y es la mía, entonces no tengo porqué tolerar a los que piensan diferente. Dejado a sus propios ímpetus, condena a millones a una existencia de bestia de carga, que es aproximadamente el mejor modo de describir el estilo de vida del 95% de los seres humanos durante el 95% de la historia conocida.
+
+Sí miramos a nivel global, hasta antes del estallido de Internet ha existido un poderoso impulso positivo hacia el progresismo: la capacidad discriminativa alcanzó, probablemente por vez primera en la historia, a la gran mayoría de ciudadanos de los países más avanzados, incluso a muchos ciudadanos de clase media y alta en países periféricos. Esto ha permitido que el progresismo se ha adoptado y sus frutos apreciados de manera masiva por que, por primera vez, el progresismo dejó de ser asunto de élites intelectuales y económicas, y pasó a definir la agenda política en muchas de las principales naciones del mundo.
+
 
 Goleman[^2] lo pone así:
 
