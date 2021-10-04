@@ -1,93 +1,71 @@
 ---
-date: "2020-07-02"
-title: Escalas de Medición, Parte 1
-categories: ["Asesoría de Tesis"]
-tags: ["Metodología", "Investigación Cuantitativa", "Estadística"]
-summary: Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología, el clásico "On the Theory of Scales of Measurement", de Stevens.
+date: "2021-10-04"
+title: 12 Reglas
+categories: ["Psicología"]
+tags: ["Psicología Social"]
+summary: Capítulo 05, Un psicólogo conservador revisita la crianza tradicional.
 ---
 
-- [Compartir por Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em01/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=https%3A//www.martinvargas.org.pe/post/em01/)
-- [Compartir por LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=http%3A//127.0.0.1%3A4321/post/em01/&title=Interesante%20art%C3%ADculo&summary=&source=)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Comparto%20un%20art%C3%ADculo%20interesante%3A%20http%3A//127.0.0.1%3A4321/post/em01/)
+# 12 de Reglas para Vivir: Regla 05: No permitas que tus Hijos hagan Cosas que Detestes
 
-# Escalas de Medición, Parte 1
+## Pues no, no está bien...
 
-Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología:  ***Stevens, S. S. (1946). On the theory of scales of measurement. Science, 103(2684), 677–680. [https://doi.org/10.1126/science.103.2684.677](https://doi.org/10.1126/science.103.2684.677)***
+Peterson denuncia que existe en muchos padres la idea de querer ser amigos de los hijos, en vez de autoridad paterna. Denuncia que muchas veces los padres disfrazan inoperancia con indulgencia, usando la tolerancia como un manto para la irresponsabilidad.
 
-Este es apenas el primero de una serie de artículos, ya que este tema es  fundamental pero quizá a algunos de nosotros se nos puede complicar si tratamos de asimilarlo de una sola vez. 
+Y es que la paternidad es un rol que exige una delicada y ardua mezcla de disciplina, criterio moral claro, apertura y amor.
 
-## Un comité inglés
+Crítica algunos mitos, como el del niño puro que es corrompido por la sociedad; que el talento y la creatividad infantil solo son obstaculizados por la socialización. Peterson es el rey de la racionalización: no importa cuánto profundice, hasta qué punto llegue en sus elucubraciones psicológico filosóficas, siempre termina concluyendo lo mismo que me podría haber dicho mi abuelita.
 
-En 1932, en Inglaterra, se reunió un comité compuesto por físicos y psicólogos, para deliberar  sobre la siguiente cuestión: ***¿es posible medir las sensaciones?***
+## El Contrato Social
 
-Discutieron las cuestión ¡durante siete años! Y no lograron un acuerdo: cada uno "salió tal como había entrado". Así que continuaron hasta 1940. 
+Para este autor, los padres deben promover las actitudes que llevarán al hijo al triunfo social, y castigar y reprimir aquellas que pueden llevarlo al fracaso y la miseria. El problema radica en definir qué es el triunfo y qué es el fracaso. Además está la cuestión de anticipar qué conductas terminarán siendo recompensadas socialmente. Esto último es más difícil de predecir de lo que uno creería, sobre todo en los últimos tiempos, donde las demandas sociales pueden cambiar en lapsos más breves que el de una generación.
 
-El meollo de la discusión consistía en ponerse de acuerdo en relación a qué se entiende por "*medición*". 
+Aun si Peterson ha hecho un más que razonable esfuerzo para fundar sus puntos de vista sobre las fases de la evolución darwiniana, una cosa son los mecanismos biológicos y otra las complejidades simbólicas de la socialización. Puede que ambas sean isomórficas, o que las particularidades de la segunda pueden reducirse, ultimadamente, a las de la primera, pero definitivamente hay una desincronía que impide reducir, al menos en un solo paso, toda la socialización a lo biológico.
 
-Como suele suceder en la historia de la Psicología, los "primeros principios" tuvieron que ver con el estudio de lo sensorial, específicamente la percepción auditiva (Stevens era una de los expertos en el tema).
+Es importante determinar que la funcionalidad del contrato social radica en la adecuada tensión entre dos opuestos: el conservadurismo que anquilosa y el progresismo que desintegra. En general, el contenido de este libro tiende a apuntalar la posición conservadora, pero solo tiene sentido si la sociedad está pasando por una fase particularmente "progresista" o excesivamente cuestionadora; ese puede ser el caso de la sociedad norteamericana, pero ciertamente no es el caso de la sociedad peruana.
 
-Para cerrar la discusión, se acordó que iban a centrarse en el estudio de un instrumento de medición específico, en este caso un test del mismo Stevens: "*the Sone scale of loudness"*, de 1938. Era una escala que intentaba medir la sensación subjetiva que corresponde a estímulos auditivos. 
+La sociedad peruana ha sido, siglo tras siglo, uno de los pilares del conservadurismo en toda Sudamérica. A tal extremo, que muchas estructuras culturales del virreinato parecen haberse perpetuado en los primeros tiempos de la República y algunas creencias básicas, como la dominancia social, llegan a infectar la cotidianidad actual: tenemos un partido de supuesta izquierda radical que sigue evidencian no solo un discurso, sino una práctica autoritaria, patriarcal y tradicionalista.
 
-Enfrentado a la imposibilidad de llegar a una única definición de medición que no suscite alguna objeción, el autor propone la admisión *à priori* de que no existe una única modalidad de medición. 
+## ¿Somos una nación?
 
-Stevens indica que las diferentes clases de medición se diferencian en función de dos criterios: 
+Mi teoría personal es que el predominio de la dominancia social en el Perú tiene que ver con la generación de un contrato social desprovisto del sentimiento nacional. En ausencia del sentimiento nacional, el colectivo peruano trata de aferrarse a creencias y valores que lo vertebren, y que vinculen su pasado con su presente y su futuro. Y desgraciadamente, una de tales creencias culturales es la creencia de que algunos grupos tienen predominio natural o intrínseco sobre otras, estableciendo una jerarquía inescapable.
 
- - Las diferencias "prácticas" ("***empirical operations***") en las acciones implicadas en la medición misma; y
- - La diferencia en las propiedades matemático-formales de cada tipo de medición.
+La nación peruana no existe como tal. Es como un matrimonio sin amor, dónde lo único que termina uniendo a los integrantes es el beneficio mutuo, la simbiosis, el interés que en el mejor de los casos acaba en utilidad recíproca, y en el peor de los casos explotación de una de las partes sobre la otra.
 
-Uno de los miembros del famoso Comité indicó una definición de medición que ¡yo ya había deducido por mí mismo hace años!: 
+La empresa intelectual de Peterson es analítica, no sintética, en el sentido kantiano del término. Todo su esfuerzo no apunta a generar nuevo conocimiento, sino a ratificar y apuntalar la sabiduría convencional. Y esa es quizás la más descorazonadora de las características de este libro en particular y del enfoque conservador en general: qué arranca coma apriorísticamente coma de la idea de que todo ya está aprobado, todo ultimadamente sabido, y que como dijera el venerable Jorge de Burgos en la versión fílmica de "el nombre de la Rosa", todo se reduce a una "sublime recapitulación, y no búsqueda".
 
->"*La medición, en el sentido más amplio, se define como la asignación de números a objetos o eventos de acuerdo con determinadas reglas.*" (N. R. Campbell, según Stevens, p. 667)
+Sin embargo, hay que rescatar que el conservadurismo es emocionalmente atractivo y cognitivamente accesible y fácil. En el fondo, a todos nos gusta sentir que todo ya está decidido, sabido y previsto, y que ese destino es entendible y moralmente correcto. Encontraste, el progresismo solo puede ofrecer incertidumbre y complejidad que desasosiega: puedes tratar de descubrir nuevas y mejores formas de gobernar y dividir, pero nadie puede garantizar una solución mejor que la conservadora; y además es intelectualmente desafiante: hay que mantener una visión abierta y amplia que incorpora incluso lo que no queremos ver, lo que nos intranquiliza y angustia, y estar dispuesto al riesgo de acabar peor de lo que empezamos. De hecho ningún hombre o mujer sensatos deberían aportar por el progresismo, si eso implica alejarnos de modos establecidos que, mal que bien, han probado que funcionan, que proponer caminos necesariamente ásperos principiantes, hacia destinos mejores, iguales o peores.
 
-***¿Qué es una escala? Una escala es un algoritmo que asigna números/caracteres a objetos/eventos aplicando ciertas reglas***, las cuales reglas deben tener cierto paralelismo a los aspectos de los objetos/eventos que se pretende medir.
+Y sin embargo, el predominio conservador, históricamente, ha probado ser tóxico, tiránico y regresivo. Envenena la curiosidad, ahogada por su inmovilismo atenazante; justifica y fundamenta el autoritarismo y la intolerancia, porque si hay una única verdad y es la mía, entonces no tengo porqué tolerar a los que piensan diferente. Dejado a sus propios ímpetus, condena a millones a una existencia de bestia de carga, que es aproximadamente el mejor modo de describir el estilo de vida del 95% de los seres humanos durante el 95% de la historia conocida.
 
-## Reglas=Operaciones
+Sí miramos a nivel global, hasta antes del estallido de Internet ha existido un poderoso impulso positivo hacia el progresismo: la capacidad discriminativa alcanzó, probablemente por vez primera en la historia, a la gran mayoría de ciudadanos de los países más avanzados, incluso a muchos ciudadanos de clase media y alta en países periféricos. Esto ha permitido que el progresismo se ha adoptado y sus frutos apreciados de manera masiva por que, por primera vez, el progresismo dejó de ser asunto de élites intelectuales y económicas, y pasó a definir la agenda política en muchas de las principales naciones del mundo.
 
-Cuando hablaba de reglas, hablaba en realidad de operaciones que se pueden expresar matemáticamente.
 
-Entrando en materia, existen cuatro grandes tipos de escalas: escala nominal, escala ordinal, escala de intervalo y escala de razón. Cada tipo de escala de medición estará definida por un tipo de operación aplicable; la palabra "aplicable" significa que podemos usar esas operaciones para modificar la escala sin que se pierda ninguna propiedad esencial de la medición.
+Goleman[^2] lo pone así:
 
-| Escala | Definición  | Ejemplo
-|:--:|:--:|:--:
-|Nominal  | Sirve solo para distinguir un elemento de otro |  Perú, Guatemala, EEUU;  católico, evangélico, ateo.
-|Ordinal | Sirve para determinar qué elemento tiene más o menos del atributo que se mide| Grado militar: soldado raso, capitán, general; nivel organizacional: auxiliar, asistente, jefe, gerente.
-|De intervalo | Sirve para medir la distancia entre los elementos; la distancia debe ser constante; el "punto cero" es arbitrario | Grados centígrados; grados Fahrenheit. La inmensa mayoría de pruebas psicológicas.
-| De razón | Igual que la escala de intervalo, pero el cero es absoluto, objetivo, y no arbitrario.| Número de cigarrillos consumidos; número de parejas sexuales.
+> *Man cannot look at himself without bias. As Mr. Kagan notes, ideology guides
+science, particularly the human sciences. Thus he attributes to the uncertainties of modern times the current appeal of such ideas as those expressed by the eminent psychologist Erik Erikson (the human infant needs "basic trust") and the psychologist Harry Harlow (infant monkeys need love, even if only in the form of a surrogate mother made of wire and terry cloth). "Every society," Mr. Kagan writes, "needs some transcendent theme to which citizens can be loyal." The inviolate sanctity of the parent- infant bond is ours.*
 
-Las operaciones o reglas de las que estamos hablando son: 
+Goleman continúa indicando que, si bien nuestro reseñado sustenta su propuesta en evidencias, también existe evidencia contraria, por ejemplo indicando que la proporción de  adultos con problemas psicológicos con antecedentes de abuso infantil es mayor que la existente entre los adultos libres de esas dificultades. El autor de "Emotional Intelligence" añade que los hallazgos de Kagan plantean cierta pugna entre la metodología clínica (basada en la observación directa de casos patológicos) y la metodología experimental (basada en el control de variables extrañas, aleatorización y contexto de laboratorio).
 
- - **Igualdad/desigualdad** (*Escala nominal*)
- -  **Ranqueo u ordenamiento** (*Escala ordinal*)
- - **Vectorialidad o igualdad entre los grados de diferencia** entre dos o más objetos o estímulos (*Escala de intervalo*)
- - **Proporcionalidad o igualdad entre las proporciones** existentes entre dos o más objetos o estímulos (*Escala de razón*)
+## La Persona
 
-La tabla siguiente nos resume y nos da un ejemplo de cada  operación aplicable a cada tipo de escala:
+Kagan fue un tímido y ansioso vitalicio. Un tartamudo durante su infancia
+(limitación que luego superó.) Tal vez por ello, le resultó tan atrayente
+investigar cómo algo que iba más allá (y más atrás) de sus propias elecciones personales y su crianza lo marcara de manera permanente y continua por la duración de su existencia.
 
-| Escala | Operación | Expresión
-|:---|:---:|:---:|
-| *Nominal* |Igualdad |1=1
-|*Ordinal*|Ranqueo|1 < 2
-|*Intervalo*|Vectorialidad |(2-1)=(3-2)
-|*De razón* | Proporcionalidad|(1/2)=(2/4)
+Según calcularía eventualmente, pertenecía a ese 15% de adultos tímidos y retraídos, la contraparte temperamental de ese 15% especular y efervescente que iba confiado aceptando con una sonrisa todo lo nuevo que le ofreciera el mundo.
 
-¿Cuál sería el criterio para aplicar las diferentes escalas de medición? Es decir, ¿de qué depende el tipo de medición que vamos a aplicar? Pues va a depender de las propiedades que queremos medir:
+Un proverbial judío, intelectual y brillante, pasó de estudiar en Yale a finalmente enseñar en Harvard por décadas. Recibió grandes honores profesionales, tanto al inicio (Premio de la Asociación Psiquiátrica Americana en 1963), como hacia el final de su trayectoria (Premio Stanley Hall, de la APA, en 1995). Según Dan Gilbert (otra supestrella de Harvard), Kagan mantuvo hasta el final su fascinación por el aprendizaje: incluso anciano, seguía asombrándose como un niño ante cada nuevo conocimiento.
 
- 1. Si solo queremos medir si dos objetos son o no los mismos, usaremos la escala **nominal** (estaremos midiendo la propiedad de *igualdad*).
- 2. Si queremos medir si cuál es mayor ente dos o más objetos, usaremos la escala **ordinal** (estaremos midiendo la propiedad de *ranqueo*).
- 3. Si queremos determinar si las diferencias o "distancias" entre dos o más objetos es igual o diferente, usaremos la escala de **intervalo** (estaremos midiendo la propiedad de Igualdad entre los grados de diferencia, o *vectorialidad*).
- 4. Si queremos determinar la proporcionalidad entre dos o más objetos, usaremos la escala de **razón** (estaremos midiendo la propiedad de *proporcionalidad*)
 
-El criterio para definir qué análisis es posible aplicar es mantener los datos *invariantes*, o como hemos dicho líneas arriba: operar de tal forma que la medición esencial no se altera.
 
- 1. En la escala ***nominal***, un nombre puede ser cambiado por otro. La única limitación es no aplicar el mismo nombre para elementos diferentes, ni tampoco nombres diferentes para el mismo elemento. Por ejemplo, si los elementos que queremos medir son grupos religiosos, no podremos usar el término *católico* para quienes van a misa y reconocen la autoridad del Papa y para quienes profesan la fe de Mahoma y peregrinan a la Meca.
- 2. En la escala ***ordinal***, no solo no se puede cambiar el nombre o denominación, sino tampoco el orden de los elementos. Sin embargo,  sí es posible hacer cualquier otro cambio.  Por ejemplo, si estamos usando las denominaciones "100" como código para los auxiliares, "200" para los analistas, y "300" para los jefes, podríamos cambiarlas por "1", "2" y "3", o "1000", "2000" y "3000", o por último, "A", "B", y "C".
- 3. En la escala ***de intervalo***, las operaciones admisibles son aún más restringidas; solo se pueden hacer cambios si se hace una transformación lineal del tipo  ***ax+b***. Por ejemplo, se puede convertir una temperatura medida en grados centígrados a grados Fahrenheit (F=C*9/5+32), pero usando una transformación. 
- 4. En la escala ***de razón***, la escala de medición de mayor nivel, es también la más restringida. Solo son admisibles transformaciones mediante la multiplicación por una constante, del tipo ***ax***. Por ejemplo, las medidas de longitud solo se pueden transformar mediante una constante, como el caso de pulgadas a centímetros (cm=pulgadas*2.54).
 
-En los próximos artículos, haremos una pequeña revisión de los dos grupos de escalas: nominal y ordinal, por un lado, y las de intervalo y de razón, por el otro.
 
-- [Compartir por Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em01/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=https%3A//www.martinvargas.org.pe/post/em01/)
-- [Compartir por LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=http%3A//127.0.0.1%3A4321/post/em01/&title=Interesante%20art%C3%ADculo&summary=&source=)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Comparto%20un%20art%C3%ADculo%20interesante%3A%20http%3A//127.0.0.1%3A4321/post/em01/)
+
+
+
+
+[^1]:[Reseña de "The Nature of the Child", por Daniel
+Goleman](https://www.nytimes.com/1984/11/18/books/not-the-father-of-the-man.html)
+[^2]: Goleman, op. cit. 
