@@ -6,7 +6,7 @@ tags: ["Psicología Social"]
 summary: Regla 05, No permitas que tus hijos hagan cosas que detestes, o Un psicólogo conservador revisita la crianza tradicional.
 ---
 
-# 12 de Reglas para Vivir: Regla 05
+# 12 de Reglas para Vivir: 05
 
 ## No permitas que tus Hijos hagan Cosas que Detestes
 
@@ -57,3 +57,9 @@ El progresismo generó tres grandes olas, especialmente poderosas entre 1950 y 2
 1. Punto de vista específico
 
 ### Globalización
+
+A las dimensiones económica y cultural, más o menos obvias, habría que agregar dos dimensiones que tal vez sean aún más acuciantes para muchos nativos de los países de primer orden del mundo: el desplazamiento emocional y sexual. No es solo que de pronto hayan llegado trabajadores tercermundistas con culturas invasivas: es que esto provoca una angustia existencial y biológica. 
+
+### Sobreinformación y empoderamiento 
+
+Acaso una de las delusiones más perniciosas del siglo XXI sea la accesibilidad de la información. 
