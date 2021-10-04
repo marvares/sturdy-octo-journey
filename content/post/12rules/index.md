@@ -1,6 +1,6 @@
 ---
 date: "2021-10-04"
-title: 12 Reglas-05
+title: 12 Reglas para Vivir, 05
 categories: ["Psicología"]
 tags: ["Psicología Social"]
 summary: Regla 05, No permitas que tus hijos hagan cosas que detestes, o Un psicólogo conservador revisita la crianza tradicional.
