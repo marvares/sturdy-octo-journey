@@ -58,8 +58,13 @@ El progresismo generó tres grandes olas, especialmente poderosas entre 1950 y 2
 
 ### Globalización
 
-A las dimensiones económica y cultural, más o menos obvias, habría que agregar dos dimensiones que tal vez sean aún más acuciantes para muchos nativos de los países de primer orden del mundo: el desplazamiento emocional y sexual. No es solo que de pronto hayan llegado trabajadores tercermundistas con culturas invasivas: es que esto provoca una angustia existencial y biológica. 
+A las dimensiones económica y cultural, más o menos obvias, habría que agregar dos  que tal vez sean aún más acuciantes para muchos nativos de los países de primer mundo: el desplazamiento emocional y sexual. No es solo que de pronto hayan llegado trabajadores tercermundistas con culturas invasivas: es que esto provoca una angustia existencial y biológica. La precariedad tribal, sentida por primera vez por los norteamericanos en el nervio en el atentado del 11 de septiembre, inició una reacción en cadena. Por primera vez se echó de ver que la prosperidad grosera de la postguerra hoy no es más que una saturada y confusa cultura embotada de consumismo vacío. Solo los votantes más torpes (la mayoría, en realidad) piensan que esa decadencia de alma puede subsanarse con deportaciones. 
+
+Está claro, hoy con la pandemia más que nunca, que los *emigrantes* no tienen siquiera necesidad de migrar para quitarles el trabajo a los WASPs. Bastan una computadora y una conexión a la Internet.
 
 ### Sobreinformación y empoderamiento 
 
-Acaso una de las delusiones más perniciosas del siglo XXI sea la accesibilidad de la información. 
+Acaso una de las delusiones más perniciosas del siglo XXI sea la accesibilidad de la información. Como dijera J. R. Ribeyro, esta es una época de Erasmos enanos, que celular en mano y Google en pantalla se asientan en una falsa autopercepción de suficiencia cognitiva, y en algunos casos de franca y ridícula soberbia. Llevada a sus extremos, la promesa de la democracia saturó la mente de millones y movilizó sus cuerpos para tomar el Capitolio y despreciar cualquier criterio de verdad ajeno a su propio y pasajero *pálpito*. El método científico es hoy el crujir de tripas del barrendero, y la ética se basa en la antipatía del analfabeto funcional. 
+
+Estas masas —rebeldes a lo Ortega y Gasset— se volvieron enjambre y contagian su desasosiego globalmente. Patean con la potencia y el raciocinio de una vaca Holstein. Votan por su propia hambre, y eligen la perpetuación de quien los manipula.
+
