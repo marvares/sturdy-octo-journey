@@ -64,7 +64,29 @@ Está claro, hoy con la pandemia más que nunca, que los *emigrantes* no tienen 
 
 ### Sobreinformación y empoderamiento 
 
-Acaso una de las delusiones más perniciosas del siglo XXI sea la accesibilidad de la información. Como dijera J. R. Ribeyro, esta es una época de Erasmos enanos, que celular en mano y Google en pantalla se asientan en una falsa autopercepción de suficiencia cognitiva, y en algunos casos de franca y ridícula soberbia. Llevada a sus extremos, la promesa de la democracia saturó la mente de millones y movilizó sus cuerpos para tomar el Capitolio y despreciar cualquier criterio de verdad ajeno a su propio y pasajero *pálpito*. El método científico es hoy el crujir de tripas del barrendero, y la ética se basa en la antipatía del analfabeto funcional. 
+Acaso una de las delusiones más perniciosas del siglo XXI sea fruto la accesibilidad de la información. Como dijera J. R. Ribeyro, esta es una época de Erasmos enanos, que celular en mano y Google en pantalla se asientan en una falsa autopercepción de suficiencia cognitiva, y en algunos casos de franca y ridícula soberbia. Llevada a sus extremos, la promesa de la democracia ha saturado la mente de millones y movilizó sus cuerpos para tomar el Capitolio y despreciar cualquier criterio de verdad ajeno a su propio y pasajero *pálpito*. El método científico es hoy el crujir de tripas del barrendero, y la ética se basa en la antipatía del analfabeto funcional. 
 
 Estas masas —rebeldes a lo Ortega y Gasset— se volvieron enjambre y contagian su desasosiego globalmente. Patean con la potencia y el raciocinio de una vaca Holstein. Votan por su propia hambre, y eligen la perpetuación de quien los manipula.
+
+Se desdeña la especialización porque ¿quién valora el dominio de un nicho cuando se tiene la vastedad superficial del Asistente de Google y la Wikipedia?. Esta sensación de fuerza *vidente* (ya no la fuerza ciega de antaño). Este empoderamiento ha generado la confianza suficente para que las grandes masas de votantes se atrevan a decisiones como el Brexit y Trump. En mi evaluación, ***el misterio de estos resultados no es por qué se escogieron (ya que el resultado es anunciable) sino por qué los votantes se sintieron con la autoconfianza suficiente como para emitir ese tipo de voto.*** Yo no dudo de que ese tipo de vota haya estado en el fondo del corazón de muchísimos votantes por muchos años —Trump y el Brexit son solo encarnaciones recientes de tendencias que siempre estuvieron allí—; solo desde el 2015 se transformaron en voto efectivo porque las masas ya son lo suficientemente rebeldes.
+
+### Especie versus Tribu
+
+Así como somos animales de escasez, creados para sobrellevar el hambre y la carencia como estado permanente, somos criaturas de tribu. Somos constitucionalmente incapaces de guardar lealtades que vayan en contra de la reproducción, y la única unidad entendible y viable a nivel biológico es la tribu, esa especie de familia extendida. 
+
+El progresismo logró disolver el tribalismo por varios lustros. Todavía ahora, entre los más cultos, acomodados y beligerantes de juventud, sobrevive en cierta forma el *especifismo*, ese punto de vista que trata de expresar los intereses de toda la especie humana. Es la visión de las Thunberg y los *carpoolers*. En ese guión, es la Humanidad versus el Tiempo & el Cosmos pero, sobre todo, el Ser Humano versus nuestra propia miopía localista.
+
+¿Por qué esta óptica, generada por el progresismo educado, no ha logrado sobrevivir ni siquiera en las capas más instruidas de la naciones  más cultas de la UE?
+
+La respuesta simple es que a la postura específica (de *especie*), ecologista y humanitaria, le faltó un ingrediente esencial, a saber , un enemigo. 
+
+Todo psicólogo social sabe que las lealtades son solo el nombre clásico de la cohesión intragrupal. Y la cohesión intragrupal es invocada, generada, por un antagonista lo más similar y especular que se pueda hallar: Francia vs Alemania, Alianza vs Universitario, Perú vs Chile, San Marcos vs Católica.
+
+¿Pero quiénes serían los antagonistas de la especie humana? ¿El Tiempo, el Planeta, el Universo y el Tiempo? Demasiado abstracto e impersonal. No hay enemigo más insidioso que el que no tiene rostro.
+
+En cambio la mirada localista tiene la inmensa ventaja de impelernos en el sentido milenario de nuestras hormonas preprogramadas. No estamos hechos para odiar a la Naturaleza; estamos hechos para detestar al vecino, al extranjero, al que viene de otro vecindario.
+
+
+
+
 
