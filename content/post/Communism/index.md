@@ -42,7 +42,7 @@ Sin ese tren y ese viaje, la historia posterior del mundo hubiera sido distinta.
 
 Sin esa travesía noreuropea, no habría habido, tampoco, una Segunda Guerra Mundial (al menos no como la conocemos), y ciertamente hubiera sido imposible un lapso de Guerra Fría, ni una remodelación de la gran nación china bajo los cánones del comunismo. No habría habido un escenario bélico en Corea, ni un muro que derribar eventualmente en Berlín, ni una guerra que perder para los americanos en Vietnam.
 
-La idea clave es  que **el comunismo es un civilización alternativa**, cuya dinámica interna es necesario elucidar. También es necesario explicar, psicológicamente, el profundo compromiso que el comunismo generó en millones de personas, la devoción extrema a la que llevó a tantos. 
+La idea clave es  que **el comunismo es un estilo de civilización alternativa**, cuya dinámica interna es necesario elucidar. También es necesario explicar, psicológicamente, el profundo compromiso que el comunismo generó en millones de personas, la devoción extrema a la que llevó a tantos. 
 
 En suma, vamos a intentar comprender el registro histórico del Comunismo. En su apogeo, algunos años después de la Segunda Guerra Mundial, aproximadamente un tercio de la población del planeta llegó a vivir bajo regímenes comunistas. 
 
