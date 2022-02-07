@@ -10,7 +10,7 @@ summary: Primer acercamiento acerca de una ideología indispensable para entende
 
 Un tren recorre Alemania hacia el final de la Gran Guerra. Un vagón alberga a alrededor de 30 pasajeros, todos ellos revolucionarios. Uno de ellos, Lenin. 
 
-El vagón no está sellado físicamente, pero sí metafóricamente: nadie en su interior es revisado ni su identidad corroborada en todo el viaje. 
+El vagón no está sellado en realidad, aunque sí metafóricamente: nadie en su interior es revisado ni su identidad corroborada en todo el viaje. 
 
 Marx había dicho (y Lenin lo había citado): *"La Revolución es la locomotora de la Historia".* Y he aquí que la metáfora se había materializado. 
 
