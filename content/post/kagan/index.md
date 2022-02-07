@@ -3,7 +3,7 @@ date: "2021-06-17"
 title: Jerome Kagan
 categories: ["Psicología"]
 tags: ["Psicología del Desarrollo"]
-summary: Uno de los grandes psicólogos del siglo XX y principios del XXI ha trascendido este último mes. Algunas líneas acerca de su obra y su perfil.
+summary: Uno de los grandes psicólogos del siglo XX y principios del XXI ha trascendido. Algunas líneas acerca de su obra y su perfil.
 ---
 
 # Jerome Kagan
