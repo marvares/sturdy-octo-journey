@@ -8,7 +8,7 @@ summary: Primer acercamiento acerca de una ideología indispensable para entende
 
 # La Locomotora de la Historia
 
-Un tren recorre Alemania hacia el final de la Gran Guerra. Un vagón alberga a alrededor de 30 pasajeros, todos ellos revolucionarios. Uno de ellos era Vladímir Ulianov, Lenin. 
+Un tren recorre Alemania hacia el final de la Gran Guerra. Un vagón alberga a alrededor de 30 pasajeros, todos ellos revolucionarios. Uno de ellos era Vladímir Ulianov, conocido como Lenin. 
 
 El vagón no está sellado en realidad, aunque sí metafóricamente: nadie en su interior es revisado ni su identidad corroborada en todo el viaje. 
 
