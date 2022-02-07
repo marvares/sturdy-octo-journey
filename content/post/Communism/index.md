@@ -34,7 +34,7 @@ El 16 de abril de 1917, Lenin, luego de diversos trasbordos, llega a la estació
 El regreso de Lenin posibilitó la toma de poder del comunismo en Rusia, más tarde ese mismo año.
 
 Esto es muy significativo. Hasta antes de Lenin, el comunismo había sido solo una noción, un enfoque teórico, motivo encendido de polémica y debate, pero nada más. Lenin fue el
-vehículo que convirtió esas ideas en realidad concreta, en una entidad política que estaría llamada a reconfigurar todo el panorama del poder en el mundo entero. 
+vehículo que convirtió esas ideas en realidad concreta, en una entidad política que estaría llamada a reconfigurar todo el panorama del poder en el mundo. 
 
 La vocación, claramente definida, de la Rusia de Lenin por desplegar y difundir la revolución por todo el mundo no le permitiría a ninguna nación permanecer neutral. O se
 sumaban a su esfuerzo con entusiasmo, o lo combatían con temor, pero todos debían asumir una posición.
