@@ -46,7 +46,7 @@ La idea clave es  que **el comunismo es un estilo de civilización alternativa**
 
 En suma, vamos a intentar comprender el registro histórico del Comunismo. En su apogeo, algunos años después de la Segunda Guerra Mundial, aproximadamente un tercio de la población del planeta llegó a vivir bajo regímenes comunistas. 
 
-Aún hoy, tantos años después de la Caída del Muro, del derrocamiento del régimen soviético y sus estados adláteres, existen importantes estados del mundo que proclaman diversos grados de adherencia a ideologías comunistas o afines a ellas, como son los casos de Corea del Norte o Cuba. 
+Aún hoy (tantos años después de la Caída del Muro y del derrocamiento del régimen soviético y sus estados adláteres), subsisten importantes estados del mundo que proclaman diversos grados de adherencia a ideologías comunistas, como Corea del Norte y Cuba. 
 
 ### Definiendo el Comunismo
 
