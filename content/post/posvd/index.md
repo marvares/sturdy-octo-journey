@@ -14,7 +14,7 @@ ciertas o, por el contrario, son infundadas, interesadas y/o alarmistas?
 Gran parte de esta noción de *posverdad* surge de las elecciones del 2016, en donde
 Donald Trump, en una especie de ataque surrealista en contra de la realidad política
 americana y mundial, demostró que la candidatura de alguien sin récord político
-previo no solo podía ser viable, sino ganadora. 
+previo no solo podía ser viable, sino ganadora, en el contexto de elecciones en naciones del Primer Mundo. 
 
 Para quienquiera que tenga un mínimo interés en la política mundial, el bienio 2015-2016 fue un
 punto de viraje. Antes de ese momento, el consenso más o menos aceptado en el
@@ -23,15 +23,16 @@ progresismo y el humanismo secular eran pilares más o menos indiscutibles del e
 
 ## 2015, El Año que lo Cambió todo 
 
-Autores como Harari y Levitsky escribieron  obras significativas postulando los teoremas que definían, respectivamente, las reglas del juego político mundial y local antes y después del 2015. 
+Autores como Harari[^1]  y Levitsky[^2] escribieron  obras significativas postulando los teoremas que definían, respectivamente, las reglas del juego político mundial y local antes y después del 2015. 
+[^1]: Harari, Y. 2015. Sapiens : a brief history of humankind. Harper.
+[^2]: Levitsky S, Ziblatt D. 2018. How Democracies Die. New York: Crown.
 
 Más allá de cualquier explicación sesuda o análisis exhaustivo, baste enumerar aquí lo que cambió *de facto* desde ese año:
 
 - Personas sin trayectoria política y/o con capacidades intelectuales mediocres podían llegar al máximo liderazgo ejecutivo en naciones desarrolladas y/o poblacionalmente complejas, como EEUU, Reino Unido, Brasil o México.
 - El nacionalismo es un capital político más poderoso que la globalización 
 - La figura del *hombre fuerte* resucitó del pasado con más vitalidad que nunca
-- El prestigio del *especialista* se desplomó estrepitosamente. En la era de *Google*, las
-  personas que en décadas previas admitían ignorancia se sienten reivindicadas y valoran
+- El prestigio del *especialista* se desplomó estrepitosamente. En la era de *Google*, se produce la auténtica "Rebelión de las Masas"[^3]. Las   personas que en décadas previas admitían ignorancia se sienten reivindicadas y valoran
   su criterio sencillo, ratificado por la coincidencia masiva: *sí, la pena de muerte es lo
   más efectivo contra el crimen; no, no existe el género, solo los dos sexos con los que
   nacemos, como con los perros y los gatitos; sí, los inmigrantes deberían ser expulsados; sí, la
@@ -40,7 +41,10 @@ Más allá de cualquier explicación sesuda o análisis exhaustivo, baste enumer
   emociones; no con el objetivo de mejorarlas, actualizarlas y hacerlas más sólidas, sino
   para relativizarlas, desnaturalizarlas y doblegarlas a algún impulso emocional
   colectivo.
-- La democracia directa --la primitiva, la del conteo, el mítin y "la mitad más uno"-- tiende a reemplazar a la democracia representativa --la del debate, el referente legal y la profesionalización política--. 
+- La democracia directa --la primitiva, la del conteo, el mítin y "la mitad más uno"-- tiende a reemplazar a la democracia representativa --la del debate, el referente legal y la profesionalización política--.
+
+[^3]: Ortega y Gasset, J. 1927. La Rebelión de las Masas
+
 - El progresismo es casi universalmente derrotado por el conservadurismo. Los prejuicios
   más rancios, que nunca desaparecieron pero se ejercían desde la vergüenza,
   la sombra y en contextos que aseguraran la impunidad, ahora se proclaman en
