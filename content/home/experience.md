@@ -17,6 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Asesor de Tesis"
+  company = "Universidad Antonio Ruiz de Montoya (UARM)"
+  company_url = "https://uarm.edu.pe/"
+  location = "Lima"
+  date_start = "2021-12-01"
+  date_end = "2022-12-01"
+  description = """
+  Asesoría a estudiantes y tesistas en Psicología, Administración, y Ciencias Sociales en:
+  
+  * Planteamiento del Problema de Investigación
+  * Formulación de Matriz de Consistencia
+  * Metodología de Investigación Cualitativa
+  * Diseño de Investigación
+  * Determinación de Fuentes Bibliográficas
+  * Normas APA
+  """
+
 [[experience]]
   title = "Asesor Académico"
   company = "Independiente"
