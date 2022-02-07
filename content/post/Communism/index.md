@@ -8,7 +8,7 @@ summary: Primer acercamiento acerca de una ideología indispensable para entende
 
 # La Locomotora de la Historia
 
-Un tren recorre Alemania hacia el final de la Gran Guerra. Un vagón alberga a alrededor de 30 pasajeros, todos ellos revolucionarios. Uno de ellos, Lenin. 
+Un tren recorre Alemania hacia el final de la Gran Guerra. Un vagón alberga a alrededor de 30 pasajeros, todos ellos revolucionarios. Uno de ellos era Vladímir Ulianov, Lenin. 
 
 El vagón no está sellado en realidad, aunque sí metafóricamente: nadie en su interior es revisado ni su identidad corroborada en todo el viaje. 
 
@@ -53,7 +53,7 @@ Aún hoy, tantos años después de la Caída del Muro, del derrocamiento del ré
 
 Modelado por Karl Marx, consiste en la abolición de la propiedad privada y del mercado, como mecanismo que busca utilidad y ganancia, en pro de un nuevo sistema de control colectivo de los medios de producción.
 
-En el *Manifiesto Comunista*, Marx y Engels el comunismo fue resumido en una frase: *abolición de la propiedad privada*.
+En el *Manifiesto Comunista*, Marx y Engels resumieron el comunismo en una frase: *abolición de la propiedad privada*.
 
 Obviamente, la supresión de la propiedad privada era solo un medio; el fin era la igualdad social completa, y compartir una nueva etapa en la evolución de las sociedades humanas.
 
@@ -65,7 +65,7 @@ El término "comunismo" y "comunista", en el sentido de enfatizar el compromiso 
 
 De hecho, la relación entre comunismo y religión es compleja[^1]. Todas las comunidades previas que habían hecho suya, en distintos grados y formas, la idea de una vida en común a ultranza, lo habían hecho con una perspectiva de trascendencia religiosa. La vida en común era un antídoto contra el veneno del materialismo, y la meta era salvar el alma *después* de la muerte del cuerpo. 
 
-[^1]: Recordemos que para Harari, por ejemplo, el comunismo ***es*** una religión.
+[^1]: Recordemos que para Harari, por ejemplo, el comunismo ***ES*** una religión.
 
 Para Pablo, por ejemplo, el amor al dinero era una de las raíces de todos los males. Sin embargo, Marx rechazaba cualquier paralelo entre el comunismo y el cristianismo, aduciendo que este último predica la pobreza.
 
