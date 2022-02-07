@@ -16,8 +16,7 @@ Marx había dicho (y Lenin lo había citado): *"La Revolución es la locomotora 
 
 Bajo autorización de las autoridades alemanas, Lenin estaba siendo conducido a Petrogrado, entonces capital rusa.
 
-Cada uno pensaba estar utilizando al otro. Los alemanes creían estar a punto de introducir un elemento que eventualmente haría que Rusia se saliera de la Gran Guerra; los revolucionarios a bordo del tren se sentían particularmente orgullosos y optimistas: planeaban emprender desde
-Rusia una revolución que acabaría con todos los regímenes del continente y eventualmente del mundo. 
+Cada uno pensaba estar utilizando al otro. Los alemanes creían estar a punto de introducir un elemento que eventualmente haría que Rusia se saliera de la Gran Guerra; los revolucionarios a bordo del tren se sentían particularmente orgullosos y optimistas: planeaban emprender desde Rusia una revolución que acabaría con todos los regímenes del continente y eventualmente del mundo. 
 
 ¿Cuál era el estado de ánimo del revolucionario ruso?
 
