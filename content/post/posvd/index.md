@@ -2,7 +2,7 @@
 date: "2022-02-07"
 title: Psicología Política y Posverdad
 categories: ["Psicología Política"]
-tags: ["Psicología Social", "Psicología Política", "Elecciones"]
+tags: ["Psicología Social", "Psicología Política", "Elecciones", "Trump"]
 summary: Tres investigaciones que tratan de ahondar en la posverdad.
 ---
 
