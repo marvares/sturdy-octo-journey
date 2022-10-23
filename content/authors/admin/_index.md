@@ -57,7 +57,7 @@ user_groups:
 - Visitors
 ---
 
-Soy psicólogo social, docente universitario, asesor académico, consultor empresarial, y coach. 
+Soy psicólogo social, docente universitario, asesor académico, consultor empresarial, y coach. Miembro de la American Psychological Association [APA](https://www.apa.org/ 'APA').
 
 Realizo investigación a nivel académico, asesoro tesistas en Psicología, ciencias administrativas y sociales, y desarrollo encuestas y escalas de medición cualicuantitativa. Asimismo, soy consultor de empresas en temas de clima y cultura organizacional.
 
