@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Yanacocha"
+  organization = "Minera Yanacocha"
   organization_url = "http://www.yanacocha.com"
   title = "Diploma de Reconocimiento Ideas Doradas GMP"
   certificate_url = "https://drive.google.com/file/d/1z-SycQ_WlFUELM6VQykAyf8IH62b12oS/view?usp=sharing"

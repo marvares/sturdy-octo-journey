@@ -199,6 +199,16 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  organization = "LinkedIn"
+  organization_url = "https://www.linkedin.com/learning/"
+  title = "Learning Vim"
+  url = "https://www.linkedin.com/learning/me/my-library/completed?u=107508554"
+  certificate_url = "https://drive.google.com/file/d/1aV0JfYKFXbPanpU-jzcl3mpM8w44APCG/view?usp=share_link"
+  date_start = "2022-04-04"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Lynda.com/LinkedIn"
   organization_url = "http://www.lynda.com"
   title = "Data Visualization in R with ggplot2"
