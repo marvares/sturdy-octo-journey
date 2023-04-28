@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "LinkedIn"
   organization_url = "https://www.linkedin.com/learning/"
-  title = "Learning Vim"
+  title = "Learning vim"
   url = "https://www.linkedin.com/learning/me/my-library/completed?u=107508554"
   certificate_url = "https://drive.google.com/file/d/1aV0JfYKFXbPanpU-jzcl3mpM8w44APCG/view?usp=share_link"
   date_start = "2022-04-04"
