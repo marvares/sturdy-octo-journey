@@ -29,7 +29,7 @@ interests:
 - Comportamiento Organizacional
 organizations:
 - name: Independiente
-  url: "https://www.martinvargas.org.pe/"
+  url: "https://www.perupsicosocial.pe/"
 role: Asesor Académico
 social:
 - icon: envelope

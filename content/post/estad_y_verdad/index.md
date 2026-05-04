@@ -5,10 +5,10 @@ categories: ["Psicología Social"]
 tags: ["Metodología", "Ciencia", "COVID-19", "Estadística"]
 ---
 
-- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/estad_y_verdad/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&title=Art%C3%ADculo&summary=&source=)
-- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/estad_y_verdad/)
+- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/estad_y_verdad/)
+- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/estad_y_verdad/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/estad_y_verdad/&title=Art%C3%ADculo&summary=&source=)
+- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.perupsicosocial.pe/post/estad_y_verdad/)
 
 
 >Las estadísticas tienen una relación tormentosa con la verdad. Lo que debería ser su mejor carta de credibilidad --a saber, ser una expresión matemática-- a menudo es una barrera para ser mejor comprendidas, y su mayor atractivo --poder manifestarse en forma gráfica-- rara vez es usada para trasladar lo veraz de modo más digerible, sino más bien para facilitar la tergiversación.
@@ -33,7 +33,7 @@ Yo albergo un pesimismo que me parece sensato en cuanto a las generaciones adult
 
 Por eso hago este pedido para mis colegas docentes universitarios y escolares: fomentemos en los alumnos la lealtad con la verdad, empezando por el respeto por los datos. Hagamos actividades al respecto, transmitamos la fidelidad a la verdad en cada una de nuestras actitudes; demos el ejemplo en nuestra propia investigación, en especial quienes están involucrados en los saberes que los gringos llaman ***STEM*** (*ciencia, tecnología, ingeniería, matemáticas*). Como dijera Borges, quien distorsiona, por dejadez o conveniencia, la minuciosa recopilación de los datos, niega parte del mundo y nos divorcia de la realidad.
 
-- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/estad_y_verdad/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/estad_y_verdad/&title=Art%C3%ADculo&summary=&source=)
-- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/estad_y_verdad/)
+- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/estad_y_verdad/)
+- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/estad_y_verdad/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/estad_y_verdad/&title=Art%C3%ADculo&summary=&source=)
+- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.perupsicosocial.pe/post/estad_y_verdad/)

@@ -6,10 +6,10 @@ tags: ["Ciencia", "COVID-19", "Sociedad"]
 summary: La aparición del COVID-19 representa una oportunidad para crecer como país. ¿Podremos aprovecharla?
 ---
 
-- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/virus_y_civ/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.martinvargas.org.pe/post/virus_y_civ/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/virus_y_civ/&title=Interesante%20art%C3%ADculo&summary=&source=)
-- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/virus_y_civ/)
+- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/virus_y_civ/)
+- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.perupsicosocial.pe/post/virus_y_civ/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/virus_y_civ/&title=Interesante%20art%C3%ADculo&summary=&source=)
+- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.perupsicosocial.pe/post/virus_y_civ/)
 
 >*La aparición del COVID-19 representa una oportunidad para crecer como país. ¿Podremos aprovecharla?*
 
@@ -51,7 +51,7 @@ De otro modo, en las elecciones próximas, y en los años sucesivos, seguiremos 
 
 Ojalá fuera que el virus nos inmunice contra la delincuencia política.
 
-- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/virus_y_civ/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.martinvargas.org.pe/post/virus_y_civ/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/virus_y_civ/&title=Interesante%20art%C3%ADculo&summary=&source=)
-- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/virus_y_civ/)
+- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/virus_y_civ/)
+- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.perupsicosocial.pe/post/virus_y_civ/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/virus_y_civ/&title=Interesante%20art%C3%ADculo&summary=&source=)
+- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.perupsicosocial.pe/post/virus_y_civ/)

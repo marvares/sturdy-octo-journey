@@ -6,10 +6,10 @@ tags: ["Non-Psych", "Literatura", "Microrrelato"]
 summary: Bien conocido es que la Argerich destrozó el corazón de Charles Dutoit. Menos conocido es que Dutoit cortó con su Victorinox las cuerdas del Pléyel de ésta...
 ---
 
-- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_Argerich/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/xf_argerich/&title=Interesante&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_Argerich/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_Argerich/)
+- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/xf_Argerich/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/xf_argerich/&title=Interesante&summary=&source=)
+- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/xf_Argerich/)
+- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/xf_Argerich/)
 
 ## Microrrelato
 
@@ -21,7 +21,7 @@ Luego, en el trascurso de una tarde demencial --mientras Martha viajaba a Suiza 
 Pero el asesinato del noble instrumento de ensayo estaba consumado, y cuando arribó al hogar hasta hacía poco compartido, la argentina lloró toda la noche, mucho más de lo que había llorado nunca por su marido. 
 
 
-- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_Argerich/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/xf_argerich/&title=Interesante&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_Argerich/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_Argerich/)
+- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/xf_Argerich/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/xf_argerich/&title=Interesante&summary=&source=)
+- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/xf_Argerich/)
+- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/xf_Argerich/)

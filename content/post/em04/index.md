@@ -3,13 +3,13 @@ date: "2020-08-30"
 title: Escalas de Medición, Parte 4
 categories: ["Asesoría de Tesis"]
 tags: ["Metodología", "Investigación Cuantitativa", "Estadística"]
-summary: Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología, el clásico "On the Theory of Scales of Measurement", de Stevens. Puedes leer la primera parte [aquí](https://www.martinvargas.org.pe/post/em01/), la segunda [aquí](https://www.martinvargas.org.pe/post/em02/), y la tercera [aquí](https://www.martinvargas.org.pe/post/em03/).
+summary: Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología, el clásico "On the Theory of Scales of Measurement", de Stevens. Puedes leer la primera parte [aquí](https://www.perupsicosocial.pe/post/em01/), la segunda [aquí](https://www.perupsicosocial.pe/post/em02/), y la tercera [aquí](https://www.perupsicosocial.pe/post/em03/).
 ---
 
-- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em04/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/pc/&title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em04/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em04/)
+- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/em04/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/pc/&title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&summary=&source=)
+- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/em04/)
+- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/em04/)
 
 ## Conclusión
 
@@ -72,7 +72,7 @@ Imaginemos la siguiente escena:
 
 Espero que hayas podido comprender el tema de las escalas de medición. Nos hemos tomado un tiempo porque es un concepto fundamental; si no lo entendemos es probable que el resto de la estadística y la metodología en general se vuelva algo dificultoso, sobre todo cuando se trata de interpretar y comprender.
 
-- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em04/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/pc/&title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em04/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em04/)
+- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/em04/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/pc/&title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&summary=&source=)
+- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/em04/)
+- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/em04/)

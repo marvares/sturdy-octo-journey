@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Martín Vargas Estrada</title>
-    <link>https://www.martinvargas.org.pe/publication_types/</link>
-      <atom:link href="https://www.martinvargas.org.pe/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.perupsicosocial.pe/publication_types/</link>
+      <atom:link href="https://www.perupsicosocial.pe/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.martinvargas.org.pe/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.perupsicosocial.pe/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_3.png</url>
       <title>Publication_types</title>
-      <link>https://www.martinvargas.org.pe/publication_types/</link>
+      <link>https://www.perupsicosocial.pe/publication_types/</link>
     </image>
     
   </channel>

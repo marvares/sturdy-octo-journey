@@ -5,10 +5,10 @@ categories: ["Asesoría de Tesis"]
 tags: ["Metodología", "Tesis", "Planteamiento del Problema"]
 ---
 
-- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/enigma/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.martinvargas.org.pe/post/enigma/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=mailto%3A?subject=Interesante%2520art%25C3%25ADculo%26body=Comparto%2520un%2520art%25C3%25ADculo%2520interesante...%2520%250Ahttps%253A//www.martinvargas.org.pe/post/enigma/&title=Interesante%20art%C3%ADculo&summary=&source=)
-- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/enigma/)
+- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/enigma/)
+- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.perupsicosocial.pe/post/enigma/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=mailto%3A?subject=Interesante%2520art%25C3%25ADculo%26body=Comparto%2520un%2520art%25C3%25ADculo%2520interesante...%2520%250Ahttps%253A//www.perupsicosocial.pe/post/enigma/&title=Interesante%20art%C3%ADculo&summary=&source=)
+- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.perupsicosocial.pe/post/enigma/)
 
 Decía Steven Pinker que existen enigmas, y existen problemas.
 
@@ -41,7 +41,7 @@ Una tesis es un camino largo, una maratón de largo aliento: no es solo “una m
 
 Así que, ¡a enamorarse otra vez de sus carreras! Recuperen la “mirada del cachimbo”, y regresen hasta encontrar una pregunta lo más cercana posible al enigma.
 
-- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/enigma/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.martinvargas.org.pe/post/enigma/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=mailto%3A?subject=Interesante%2520art%25C3%25ADculo%26body=Comparto%2520un%2520art%25C3%25ADculo%2520interesante...%2520%250Ahttps%253A//www.martinvargas.org.pe/post/enigma/&title=Interesante%20art%C3%ADculo&summary=&source=)
-- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/enigma/)
+- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/enigma/)
+- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.perupsicosocial.pe/post/enigma/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=mailto%3A?subject=Interesante%2520art%25C3%25ADculo%26body=Comparto%2520un%2520art%25C3%25ADculo%2520interesante...%2520%250Ahttps%253A//www.perupsicosocial.pe/post/enigma/&title=Interesante%20art%C3%ADculo&summary=&source=)
+- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.perupsicosocial.pe/post/enigma/)

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data | Martín Vargas Estrada</title>
-    <link>https://www.martinvargas.org.pe/tag/data/</link>
-      <atom:link href="https://www.martinvargas.org.pe/tag/data/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.perupsicosocial.pe/tag/data/</link>
+      <atom:link href="https://www.perupsicosocial.pe/tag/data/index.xml" rel="self" type="application/rss+xml" />
     <description>Data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Sat, 23 May 2020 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>https://www.martinvargas.org.pe/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.perupsicosocial.pe/images/icon_hu4977141dd009e7cdad9ae62f559b4f3e_3337_512x512_fill_lanczos_center_3.png</url>
       <title>Data</title>
-      <link>https://www.martinvargas.org.pe/tag/data/</link>
+      <link>https://www.perupsicosocial.pe/tag/data/</link>
     </image>
     
     <item>
       <title>Preparando tus Datos</title>
-      <link>https://www.martinvargas.org.pe/post/data_wrangling/</link>
+      <link>https://www.perupsicosocial.pe/post/data_wrangling/</link>
       <pubDate>Sat, 23 May 2020 21:13:14 -0500</pubDate>
-      <guid>https://www.martinvargas.org.pe/post/data_wrangling/</guid>
+      <guid>https://www.perupsicosocial.pe/post/data_wrangling/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Facebook&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/data_wrangling/&amp;amp;title=Preparando%20tus%20Datos&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.perupsicosocial.pe/post/data_wrangling/&amp;amp;title=Preparando%20tus%20Datos&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/data_wrangling/&#34;&gt;Comparte vía correo&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/data_wrangling/&#34;&gt;Comparte vía correo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
 &lt;p&gt;Cuando hacemos una investigación o tesis cuantitativa, a menudo se hace necesario &amp;ldquo;vaciar&amp;rdquo; los datos en una hoja de cálculo, o incluso hacer tablas manuales, antes de poder analizarlos en un software estadístico para llegar a una interpretación y conclusiones.&lt;/p&gt;
@@ -101,13 +101,13 @@
 &lt;p&gt;Por último, es importante tomar en cuenta que muchas veces lo que estamos llamando &amp;ldquo;data desarreglada&amp;rdquo; (&lt;em&gt;&amp;ldquo;untidy&amp;rdquo;&lt;/em&gt;) lo es para efectos de procesamiento de data, en especial para efectos de procesamiento de data por programas de software como R y similares. No significa que necesariamente las tablas que hemos puesto como &lt;em&gt;untidy&lt;/em&gt; sean versiones &amp;ldquo;incorrectas&amp;rdquo;; en muchas ocasiones los autores e instituciones disponen la data de esa forma porque se trata de presentaciones que para el ojo humano son más intuitivas y fáciles de leer.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Facebook&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.martinvargas.org.pe/post/data_wrangling/&amp;amp;title=Preparando%20tus%20Datos&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https%3A//www.perupsicosocial.pe/post/data_wrangling/&amp;amp;title=Preparando%20tus%20Datos&amp;amp;summary=&amp;amp;source=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/data_wrangling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comparte en Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/data_wrangling/&#34;&gt;Comparte vía correo&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;mailto:?subject=Interesante%20Art%C3%ADculo&amp;amp;body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/data_wrangling/&#34;&gt;Comparte vía correo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -3,13 +3,13 @@ date: "2020-08-27"
 title: Escalas de Medición, Parte 3
 categories: ["Asesoría de Tesis"]
 tags: ["Metodología", "Investigación Cuantitativa", "Estadística"]
-summary: Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología, el clásico "On the Theory of Scales of Measurement", de Stevens. Puedes leer la primera parte [aquí](https://www.martinvargas.org.pe/post/em01/) y la segunda [aquí](https://www.martinvargas.org.pe/post/em02/).
+summary: Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología, el clásico "On the Theory of Scales of Measurement", de Stevens. Puedes leer la primera parte [aquí](https://www.perupsicosocial.pe/post/em01/) y la segunda [aquí](https://www.perupsicosocial.pe/post/em02/).
 ---
 
-- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em03/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/pc/&title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em03/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em03/)
+- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/em03/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/pc/&title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&summary=&source=)
+- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/em03/)
+- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/em03/)
 
 # Escalas de Medición, Parte 3
 
@@ -65,7 +65,7 @@ Por último, cabe mencionar que, en la práctica, muchos software estadísticos 
 
 En el artículo siguiente, último de la serie sobre este tema, cerraremos con algunas conclusiones generales y un caso de análisis para que puedas poner en acción algunos de los conceptos que hemos venido discutiendo hasta aquí.
 
-- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em03/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/pc/&title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/em03/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/em03/)
+- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/em03/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/pc/&title=El%20Drama%20de%20la%20Comunicaci%C3%B3n%20y%20la%20Precariedad%20de%20la%20Ciencia&summary=&source=)
+- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/em03/)
+- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/em03/)

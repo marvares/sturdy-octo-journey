@@ -6,8 +6,8 @@ tags: ["Metodología", "Investigación Cuantitativa", "Estadística"]
 summary: Te resumo y explico los puntos principales de uno de los artículos más importantes de la metodología cuantitativa, muy en especial para los psicólogos y estudiantes de psicología, el clásico "On the Theory of Scales of Measurement", de Stevens.
 ---
 
-- [Compartir por Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em01/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=https%3A//www.martinvargas.org.pe/post/em01/)
+- [Compartir por Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/em01/)
+- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=https%3A//www.perupsicosocial.pe/post/em01/)
 - [Compartir por LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=http%3A//127.0.0.1%3A4321/post/em01/&title=Interesante%20art%C3%ADculo&summary=&source=)
 - [Compartir por Twitter](https://twitter.com/intent/tweet?text=Comparto%20un%20art%C3%ADculo%20interesante%3A%20http%3A//127.0.0.1%3A4321/post/em01/)
 
@@ -87,7 +87,7 @@ El criterio para definir qué análisis es posible aplicar es mantener los datos
 
 En los próximos artículos, haremos una pequeña revisión de los dos grupos de escalas: nominal y ordinal, por un lado, y las de intervalo y de razón, por el otro.
 
-- [Compartir por Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/em01/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=https%3A//www.martinvargas.org.pe/post/em01/)
+- [Compartir por Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/em01/)
+- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=https%3A//www.perupsicosocial.pe/post/em01/)
 - [Compartir por LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=http%3A//127.0.0.1%3A4321/post/em01/&title=Interesante%20art%C3%ADculo&summary=&source=)
 - [Compartir por Twitter](https://twitter.com/intent/tweet?text=Comparto%20un%20art%C3%ADculo%20interesante%3A%20http%3A//127.0.0.1%3A4321/post/em01/)

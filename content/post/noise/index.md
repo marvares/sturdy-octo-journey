@@ -6,10 +6,10 @@ tags: ["Reseña", "Sesgo", "Kahneman", "Psicología Política"]
 summary: Reseña del libro "Noise, A Flaw in Human Judgment" (2021), de Daniel Kahneman, Olivier Sibony y Cass R. Sunstein.
 ---
 
-- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/noise/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.martinvargas.org.pe/post/noise/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.martinvargas.org.pe%2Fpost%2Fnoise%2F&amp;title=Rese%C3%B1a%20del%20Libro%20%22Noise%22%2C%20de%20Kahneman%2C%20Sibony%20%26%20Sunstein&amp;summary=Rese%C3%B1a%20del%20libro%20%22Noise%2C%20A%20Flaw%20in%20Human%20Judgment%22%20(2021)%2C%20de%20Daniel%20Kahneman%2C%20Olivier%20Sibony%20y%20Cass%20R.%20Sunstein.&amp;source=)
-- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/noise/)
+- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/noise/)
+- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.perupsicosocial.pe/post/noise/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.perupsicosocial.pe%2Fpost%2Fnoise%2F&amp;title=Rese%C3%B1a%20del%20Libro%20%22Noise%22%2C%20de%20Kahneman%2C%20Sibony%20%26%20Sunstein&amp;summary=Rese%C3%B1a%20del%20libro%20%22Noise%2C%20A%20Flaw%20in%20Human%20Judgment%22%20(2021)%2C%20de%20Daniel%20Kahneman%2C%20Olivier%20Sibony%20y%20Cass%20R.%20Sunstein.&amp;source=)
+- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.perupsicosocial.pe/post/noise/)
 
 ## Los profesionales veleidosos
 
@@ -66,7 +66,7 @@ Otro costo, más sutil, es la percepción de deshumanización a la que podría l
 
 Para los autores, sin embargo, las dimensiones del ruido han llegado a niveles intolerables en muchos aspectos. Y es difícil no relacionar ello con la creciente repulsa global de las grandes masas hacia los "especialistas".
 
-- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/noise/)
-- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.martinvargas.org.pe/post/noise/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.martinvargas.org.pe%2Fpost%2Fnoise%2F&amp;title=Rese%C3%B1a%20del%20Libro%20%22Noise%22%2C%20de%20Kahneman%2C%20Sibony%20%26%20Sunstein&amp;summary=Rese%C3%B1a%20del%20libro%20%22Noise%2C%20A%20Flaw%20in%20Human%20Judgment%22%20(2021)%2C%20de%20Daniel%20Kahneman%2C%20Olivier%20Sibony%20y%20Cass%20R.%20Sunstein.&amp;source=)
-- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.martinvargas.org.pe/post/noise/)
+- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/noise/)
+- [Compartir por correo](mailto:?subject=Interesante%20art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante...%20%0Ahttps%3A//www.perupsicosocial.pe/post/noise/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.perupsicosocial.pe%2Fpost%2Fnoise%2F&amp;title=Rese%C3%B1a%20del%20Libro%20%22Noise%22%2C%20de%20Kahneman%2C%20Sibony%20%26%20Sunstein&amp;summary=Rese%C3%B1a%20del%20libro%20%22Noise%2C%20A%20Flaw%20in%20Human%20Judgment%22%20(2021)%2C%20de%20Daniel%20Kahneman%2C%20Olivier%20Sibony%20y%20Cass%20R.%20Sunstein.&amp;source=)
+- [Compartir en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20interesante%20art%C3%ADculo...%0Ahttps%3A//www.perupsicosocial.pe/post/noise/)

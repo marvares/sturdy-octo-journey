@@ -6,10 +6,10 @@ tags: ["Non-Psych", "Literatura", "Microrrelato"]
 summary: Dadivoso y multiforme es el Señor...
 ---
 
-- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_prayer/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/xf_prayer/&title=Interesante&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_prayer/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_prayer/)
+- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/xf_prayer/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/xf_prayer/&title=Interesante&summary=&source=)
+- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/xf_prayer/)
+- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/xf_prayer/)
 
 ## Microrrelato
 
@@ -25,7 +25,7 @@ Remoto y alado es el Señor. Preciso y total. Frecuentado y asombroso.
 
 
 
-- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/xf_prayer/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/xf_prayer/&title=Interesante&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/xf_prayer/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/xf_prayer/)
+- [Compartir en Facebook]( https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/xf_prayer/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/xf_prayer/&title=Interesante&summary=&source=)
+- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/xf_prayer/)
+- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/xf_prayer/)

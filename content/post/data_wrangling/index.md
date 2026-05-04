@@ -7,10 +7,10 @@ tags: ["Metodología", "Estadística", "Data"]
 summary: En este artículo, te resumiré algunas pautas importantes para poder preparar tu data (usaremos el término *data* o *datos* indistintamente), tomadas del importante artículo de Hadley Wickham ***"Tidy Data"*** (Wickham, 2014).
 ---
 
-- [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/data_wrangling/)
-- [Comparte en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/data_wrangling/&title=Preparando%20tus%20Datos&summary=&source=)
-- [Comparte en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/data_wrangling/)
-- [Comparte vía correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/data_wrangling/)
+- [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/data_wrangling/)
+- [Comparte en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/data_wrangling/&title=Preparando%20tus%20Datos&summary=&source=)
+- [Comparte en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/data_wrangling/)
+- [Comparte vía correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/data_wrangling/)
 
 ## Introducción
 
@@ -128,7 +128,7 @@ Teniendo clara esta consideración, los últimos dos tipos de error son más fá
 Por último, es importante tomar en cuenta que muchas veces lo que estamos llamando "data desarreglada" (*"untidy"*) lo es para efectos de procesamiento de data, en especial para efectos de procesamiento de data por programas de software como R y similares. No significa que necesariamente las tablas que hemos puesto como *untidy* sean versiones "incorrectas"; en muchas ocasiones los autores e instituciones disponen la data de esa forma porque se trata de presentaciones que para el ojo humano son más intuitivas y fáciles de leer. 
 
 
-- [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/data_wrangling/)
-- [Comparte en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/data_wrangling/&title=Preparando%20tus%20Datos&summary=&source=)
-- [Comparte en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/data_wrangling/)
-- [Comparte vía correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/data_wrangling/)
+- [Comparte en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/data_wrangling/)
+- [Comparte en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/data_wrangling/&title=Preparando%20tus%20Datos&summary=&source=)
+- [Comparte en Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/data_wrangling/)
+- [Comparte vía correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/data_wrangling/)

@@ -6,10 +6,10 @@ tags: ["Estrés", "Coaching"]
 summary: El estrés es una fuerza muy insidiosa, que empieza de manera casi imperceptible pero que puede llegar a tener un enorme impacto en nuestras vidas. 
 ---
 
-- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/stress001/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/stress001/&title=Qu%C3%A9%20es%20el%20estr%C3%A9s&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/stress001/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/stress001/)
+- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/stress001/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/stress001/&title=Qu%C3%A9%20es%20el%20estr%C3%A9s&summary=&source=)
+- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/stress001/)
+- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/stress001/)
 
 ## Cuando los poderes del pensamiento se aletargan
 
@@ -56,7 +56,7 @@ Si me has acompañado hasta ahora, concluirás conmigo en que el estrés no es u
 
 Para evitar caer en el estrés, podemos actuar a diversos niveles: podemos modificar nuestras emociones, nuestros pensamientos, nuestras conductas, o diversas combinaciones de estos. Es una tarea potencialmente difícil, sobre todo si se la emprende en soledad. Por ello, te ofrecemos nuestro apoyo profesional; no dejes que el *poder de tus pensamientos se aletargue*; te esperamos.
 
-- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.martinvargas.org.pe/post/stress001/)
-- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.martinvargas.org.pe/post/stress001/&title=Qu%C3%A9%20es%20el%20estr%C3%A9s&summary=&source=)
-- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.martinvargas.org.pe/post/stress001/)
-- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.martinvargas.org.pe/post/stress001/)
+- [Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.perupsicosocial.pe/post/stress001/)
+- [Compartir en LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.perupsicosocial.pe/post/stress001/&title=Qu%C3%A9%20es%20el%20estr%C3%A9s&summary=&source=)
+- [Compartir por correo](mailto:?subject=Interesante%20Art%C3%ADculo&body=Comparto%20un%20art%C3%ADculo%20interesante%3A%20https%3A//www.perupsicosocial.pe/post/stress001/)
+- [Compartir por Twitter](https://twitter.com/intent/tweet?text=Les%20comparto%20un%20art%C3%ADculo%20interesante%3A%0Ahttps%3A//www.perupsicosocial.pe/post/stress001/)
