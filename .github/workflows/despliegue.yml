@@ -1,1 +1,33 @@
+name: Despliegue Automático a GoDaddy
 
+on:
+  push:
+    branches:
+      - master  # Cambia a "master" si ese es el nombre de tu rama principal
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Descargar el código del repositorio
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # Vital si tu tema de Hugo está como submódulo
+
+      - name: 🛠️ Instalar Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: 🏗️ Construir el sitio
+        run: hugo --minify
+
+      - name: 🚀 Subir por FTP a GoDaddy
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./public/
