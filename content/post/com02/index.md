@@ -3,7 +3,7 @@ date: "2022-03-06"
 title: Comunismo, 02
 categories: ["Ideología"]
 tags: ["Psicología Social"]
-summary: Segundo acercamiento acerca de una ideología indispensable para entender el mundo en general y al Perú en particular.
+summary: 2do acercamiento acerca de una ideología indispensable para entender el mundo en general y al Perú en particular.
 ---
 
 # Marx and Engels: Una Camaradería Intelectual
@@ -17,7 +17,7 @@ absolutos, y el tabaco que fuma el hombre de la casa impregna de una humareda ta
 el reducidísimo ambiente que el espía siente que le lagrimean los ojos. 
 
 Los libros y manuscritos del ideólogo se intercalan, caóticamente, con las escasas
-posesiones de la familia. Marx --un hombretón corpulento de estatuta mediana y cabello de
+posesiones de la familia. Marx --un hombretón corpulento de estatura mediana y cabello de
 un gris incipiente--, tiene tan solo 34 años, pero la pelambrera desarreglada e hirsuta, y
 la intensidad de su mirada generan una fuerte impresión en el prusiano, quien llega a
 describir esta última como "siniestra". 

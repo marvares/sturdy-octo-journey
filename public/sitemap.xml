@@ -1,295 +1,494 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://www.perupsicosocial.pe/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2026-05-03T23:24:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.perupsicosocial.pe/post/post-de-prueba/</loc>
+    <lastmod>2026-05-03T23:24:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/categories/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/com02/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/category/ideologia/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/psicologia-social/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tags/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/elecciones/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/posverdad/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/psicologia-politica/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/category/psicologia-politica/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/posvd/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/trump/</loc>
     <lastmod>2022-02-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/communism/</loc>
     <lastmod>2022-02-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/12rules/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/category/psicologia/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/kagan/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/psicologia-del-desarrollo/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/noise/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/kahneman/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/category/psicologia-social/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/resena/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/sesgo/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/rs_perfil/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/category/asesoria-de-tesis/</loc>
     <lastmod>2020-08-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/em04/</loc>
     <lastmod>2020-08-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/estadistica/</loc>
     <lastmod>2020-08-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/investigacion-cuantitativa/</loc>
     <lastmod>2020-08-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/metodologia/</loc>
     <lastmod>2020-08-30T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/em03/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/ciencia/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/comunicacion/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/pc/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/semantica/</loc>
     <lastmod>2020-07-17T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/coaching/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/estres/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/category/psicologia-clinica/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/stress001/</loc>
     <lastmod>2020-07-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/em02/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/em01/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/data/</loc>
     <lastmod>2020-05-23T21:13:14-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/data_wrangling/</loc>
     <lastmod>2020-05-23T21:13:14-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/covid-19/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/estad_y_verdad/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/sociedad/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/virus_y_civ/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/enigma/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/planteamiento-del-problema/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/tesis/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication-type/7/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/actitudes/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/authors/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/bienestar/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/esperanza/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/author/katherine-vasquez/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/author/martin-vargas-estrada/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/psicologia-organizacional/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/psicologia-positiva/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication_types/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication/conference-paper/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/author/renzo-zea/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication-type/5/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication/book/bases/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/constructivismo/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/psicologia-cognitiva/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/psicologia-evolucionista/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/xf_argerich/</loc>
     <lastmod>2017-05-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/literatura/</loc>
     <lastmod>2017-05-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/microrrelato/</loc>
     <lastmod>2017-05-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/non-psych/</loc>
     <lastmod>2017-05-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/xf_trazos/</loc>
     <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/felicidad/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/publication/book/laurel/</loc>
     <lastmod>2015-07-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/poesia/</loc>
     <lastmod>2015-07-20T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/tag/cuento/</loc>
     <lastmod>2015-05-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/xf_tinta/</loc>
     <lastmod>2015-05-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/xf_prayer/</loc>
     <lastmod>2014-05-14T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/xf_hershadow/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/post/xf_wwah/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.perupsicosocial.pe/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
+  
 </urlset>
