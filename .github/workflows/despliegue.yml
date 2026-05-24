@@ -3,7 +3,7 @@ name: Despliegue Automático a GoDaddy
 on:
   push:
     branches:
-      - master  # Cambia a "master" si ese es el nombre de tu rama principal
+      - perupsicosocial.pe  # Cambia a "master" si ese es el nombre de tu rama principal
 
 jobs:
   build-and-deploy:
