@@ -4,7 +4,7 @@ authors:
 bio: Mis intereses académicos se centran en Psicología Social, Psicología Organizacional, Análisis Cuantitativo y Psicología Positiva.
 education:
   courses:
-  - course: Data Science and Statistics
+  - course: Business Intelligence and Data Science
     institution: SENATI
     year: 2025
   - course: MBA
