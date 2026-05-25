@@ -28,7 +28,7 @@ interests:
 - Metodología de la Investigación
 - Diseño Instruccional
 - Cultura Organizacional
-- Psicología Positiva
+- Psicología Política
 - Comportamiento Organizacional
 organizations:
 - name: Independiente
