@@ -37,7 +37,7 @@ social:
   link: mailto:francisco.vargas@pucp.pe
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/marvares
+  link: https://x.com/perupsicosocial
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?hl=es&user=mPZyY7kAAAAJ

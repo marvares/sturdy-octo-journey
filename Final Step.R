@@ -4,5 +4,5 @@ blogdown::install_hugo(version = "0.72.0", force = TRUE)
 blogdown::serve_site()
 # Para construirlo:
 blogdown::hugo_build()
-# Luego hago commit de todo lo que cambió:
+# Luego hago commit de todo lo que cambió y luego push, y si todo va bien, se debería publicar
 
