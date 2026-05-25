@@ -3,7 +3,7 @@ date: "2022-03-06"
 title: Comunismo, 02
 categories: ["Ideología"]
 tags: ["Psicología Social"]
-summary: Segunda entrega acerca de una ideología indispensable para entender el mundo en general y al Perú en particular.
+summary: Segunda parte acerca de una ideología indispensable para entender el mundo en general y al Perú en particular.
 ---
 
 # Marx and Engels: Una Camaradería Intelectual
