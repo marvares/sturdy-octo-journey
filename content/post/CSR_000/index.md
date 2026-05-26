@@ -15,7 +15,7 @@ Hay dos proyectos de Estado, dos ideales hacia los que cuales apuntar al intenta
 
 El primero es el proyecto neoliberal y el segundo lo que Vergara denomina *proyecto republicano*.
 
-El proyecto neoliberal se basa en la promoción de una economía en la que se privilegia la mayor libertad posible para la iniciativa empresarial privada. Por implicancia, se entiende que el Estado debería tener el tamaño más reducido posible, y su intervención reducrise a lo indispensable. 
+El proyecto neoliberal se basa en la promoción de una economía en la que se privilegia la mayor libertad posible para la iniciativa empresarial privada. Por implicancia, se entiende que el Estado debería tener el tamaño más reducido posible, y su intervención restringirse a lo indispensable. 
 
 
 
