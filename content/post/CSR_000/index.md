@@ -11,7 +11,7 @@ summary: Notas de lectura a raíz de *Ciudadanos Sin República*, de Alberto Ver
 
 ## Los Dos Proyectos de Estado en el Perú
 
-Hay dos proyectos de estado, dos ideales hacia los que cuales apuntar los recursos del Estado.
+Hay dos proyectos de Estado, dos ideales hacia los que cuales apuntar al minytentar construir la nación peruana.
 
 El primero es el proyecto neoliberal y el segundo lo que Vergara denomina *proyecto republicano*.
 
