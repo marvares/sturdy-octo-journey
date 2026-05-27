@@ -33,4 +33,6 @@ De modo que tenemos ante nosotros la tarea de investigar por qué en el país:
 
 ### El Falso Antagonismo de las opciones
 
-En el libro no se especifica esto, pero parece bastante claro que en la mente de muchos ciudadanos peruanos la proecupación por la democratización de la sociedad no parece ser una auténtica prioridad. Puede que, preguntados directamente, una amplia mayoría declare que la democracia
+En el libro no se especifica esto, pero parece bastante claro que en la mente de muchos ciudadanos peruanos la preocupación por la democratización de la sociedad no parece ser una auténtica prioridad. Puede que, preguntados públicamente, una amplia mayoría declare que la democracia es importante. Hay mucho de deseabilidad social en eso: nadie quiere parecer autoritario (al menos, no todavía). Pero las acciones van por otro lado. 
+
+Desde la segunda elección de AGP 
