@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Mis intereses académicos se centran en Psicología Social, Psicología Organizacional, Análisis Cuantitativo y Psicología Positiva.
+bio: Mis intereses académicos se centran en Psicología Social, Psicología Organizacional, Análisis Cuantitativo y Psicología Política.
 education:
   courses:
   - course: Business Intelligence and Data Science
