@@ -65,6 +65,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "_cache$"]
   [markup.highlight]
     codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
   [markup.tableOfContents]
+    tableOfContents = true
     startLevel = 2
     endLevel = 3
 
