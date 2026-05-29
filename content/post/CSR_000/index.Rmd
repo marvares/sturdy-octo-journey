@@ -17,6 +17,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Prólogo
 
+> Vergara, Alberto (2018). Ciudadanos sin República: De la precariedad institucional al descalabro político (2.ª ed.). Editorial Planeta.
+
 ## Los Dos Proyectos de Estado en el Perú
 
 Hay dos proyectos de Estado, dos ideales hacia los que cuales apuntar al intentar construir la nación peruana.
