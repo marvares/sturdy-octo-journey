@@ -5,27 +5,13 @@ subtitle: Notas de Lectura
 categories: ["Ciencia Política"]
 tags: ["Psicología Política", "Ciudadanos Sin República", "Alberto Vergara"]
 summary: Notas de lectura a raíz de *Ciudadanos Sin República*, de Alberto Vergara.
-output:
-  blogdown::html_page:
-    toc: true
-    toc_depth: 3
+# output:
+#   blogdown::html_page:
+#     toc: true
+#     toc_depth: 3
 ---
 
 
-<div id="TOC">
-<ul>
-<li><a href="#pr%C3%B3logo" id="toc-prólogo">Prólogo</a>
-<ul>
-<li><a href="#los-dos-proyectos-de-estado-en-el-per%C3%BA" id="toc-los-dos-proyectos-de-estado-en-el-perú">Los Dos Proyectos de Estado en el Perú</a></li>
-<li><a href="#c%C3%B3mo-se-relacionan-los-dos-proyectos" id="toc-cómo-se-relacionan-los-dos-proyectos">Cómo se relacionan los dos Proyectos</a>
-<ul>
-<li><a href="#alan-el-c%C3%ADnico" id="toc-alan-el-cínico">Alan, El Cínico</a></li>
-<li><a href="#paniagua-el-republicano" id="toc-paniagua-el-republicano">Paniagua, el Republicano</a></li>
-<li><a href="#acotaci%C3%B3n-el-peruano-y-la-democracia-en-n%C3%BAmeros" id="toc-acotación-el-peruano-y-la-democracia-en-números">Acotación: El Peruano y la Democracia, en Números</a></li>
-</ul></li>
-</ul></li>
-</ul>
-</div>
 
 <div id="prólogo" class="section level1">
 <h1>Prólogo</h1>
@@ -68,7 +54,7 @@ output:
 <div id="acotación-el-peruano-y-la-democracia-en-números" class="section level3">
 <h3>Acotación: El Peruano y la Democracia, en Números</h3>
 <p>En cuanto psicólogo social, no me basta con el <em>feeling</em><a href="#fn6" class="footnote-ref" id="fnref6"><sup>6</sup></a> acerca de la poca estima de mis compatriotas en relación a la democracia. Hay que aterrizarlo. Y aunque hay diversas maneras de hacerlo —diversos periodos, varios estudios, múltiples metodologías—, y debido a que no es el tema central de este artículo, usaré una base de datos a la mano: la encuesta que Latinobarómetro realiza en muchos países del continente cada año. Aunque lo adecuado sería realizar una serie de tiempo, una vez más: debido a la complejidad y a que no es el foco de estas líneas, me limitaré a graficar los resultados disponibles más cercanos al momento en que escribo: la “oleada” del 2024.</p>
-<p>He aquí algunos cuadros generados a partir de esa data<a href="#fn7" class="footnote-ref" id="fnref7"><sup>7</sup></a>:</p>
+<p>He aquí algunos cuadros generados a partir de esa data:</p>
 <table>
 <colgroup>
 <col width="50%" />
@@ -101,50 +87,74 @@ output:
 </tr>
 </tbody>
 </table>
-<p><img src="{{< blogdown/postref >}}index_files/figure-html/graf-1.png" alt="" width="672" /></p>
-<p>Como Latinobarómetro hace la misma encuesta (poco más o menos) cada año en el mismo espacio geográfico, es posible establecer ciertas comparaciones. En especial, ¿cómo se compara ese ya lejano 2006<a href="#fn8" class="footnote-ref" id="fnref8"><sup>8</sup></a> con los datos disponibles más recientes?</p>
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">Postura Política</th>
-<th align="left">2006 (%)</th>
-<th align="left">2024 (%)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left"><strong>La democracia es preferible a cualquier otra forma de gobierno</strong></td>
-<td align="left">55.00%</td>
-<td align="left">44.25%</td>
-</tr>
-<tr class="even">
-<td align="left"><strong>A la gente como uno, nos da lo mismo un régimen democrático que uno no democrático</strong></td>
-<td align="left">18.00%</td>
-<td align="left">29.67%</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>En algunas circunstancias, un gobierno autoritario puede ser preferible a uno democrático</strong></td>
-<td align="left">19.00%</td>
-<td align="left">19.08%</td>
-</tr>
-<tr class="even">
-<td align="left"><strong>NS/NR (No sabe / No responde)</strong></td>
-<td align="left">8.00%</td>
-<td align="left">7.00%</td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Total</strong></td>
-<td align="left"><strong>100.00%</strong></td>
-<td align="left"><strong>100.00%</strong></td>
-</tr>
-</tbody>
-</table>
-<p>Esto nos indica que el poco favor hacia la democracia, si algo ha cambiado, ha sido para peor: al menos el año 2024, en el Perú la gente la rechazaba <em>aun más</em> que cuando eligieron a AGP y al “Ollanta Polo Rojo” por encima de Paniagua.</p>
+<pre class="r"><code># Si no tienes instalado ggplot2, descomenta y corre la siguiente línea:
+# install.packages(&quot;ggplot2&quot;)
+
+library(ggplot2)
+
+# 1. Crear el data frame con los datos consolidados
+datos &lt;- data.frame(
+  postura = c(
+    &quot;La democracia es preferible\na cualquier otra forma de gobierno&quot;,
+    &quot;A la gente como uno, nos da lo mismo\nun régimen democrático...&quot;,
+    &quot;En algunas circunstancias, un gobierno\nautoritario puede ser...&quot;,
+    &quot;NS/NR (No sabe / No responde)&quot;
+  ),
+  porcentaje = c(44.25, 29.67, 19.08, 7.00)
+)
+
+# 2. Convertir la columna &#39;postura&#39; en un factor y fijar los niveles en orden inverso.
+# Esto es necesario para que ggplot2 dibuje la barra de mayor porcentaje en la parte superior.
+datos$postura &lt;- factor(datos$postura, levels = rev(datos$postura))
+
+# 3. Definir la paleta de colores para cada postura
+colores &lt;- c(
+  &quot;La democracia es preferible\na cualquier otra forma de gobierno&quot; = &quot;#4C72B0&quot;,
+  &quot;A la gente como uno, nos da lo mismo\nun régimen democrático...&quot; = &quot;#DD8452&quot;,
+  &quot;En algunas circunstancias, un gobierno\nautoritario puede ser...&quot; = &quot;#C44E52&quot;,
+  &quot;NS/NR (No sabe / No responde)&quot; = &quot;#8C8C8C&quot;
+)
+
+# 4. Construir el gráfico
+grafico &lt;- ggplot(datos, aes(x = porcentaje, y = postura, fill = postura)) +
+  # Crear las barras horizontales
+  geom_bar(stat = &quot;identity&quot;, width = 0.7) +
+  
+  # Añadir las etiquetas de texto con el formato de porcentaje (2 decimales)
+  geom_text(aes(label = sprintf(&quot;%.2f%%&quot;, porcentaje)), 
+            hjust = -0.2, size = 4.5, fontface = &quot;bold&quot;, color = &quot;#333333&quot;) +
+  
+  # Aplicar los colores personalizados
+  scale_fill_manual(values = colores) +
+  
+  # Expandir un poco el eje X para que los números no se corten al final
+  scale_x_continuous(expand = expansion(mult = c(0, 0.15))) +
+  
+  # Textos y títulos
+  labs(
+    title = &quot;Apoyo a la democracia en Perú\n(Latinobarómetro)&quot;,
+    x = &quot;Porcentaje (%)&quot;,
+    y = NULL # Quitamos el título del eje Y porque las etiquetas se explican solas
+  ) +
+  
+  # Tema visual limpio y minimalista
+  theme_minimal() +
+  theme(
+    legend.position = &quot;none&quot;, # Escondemos la leyenda (es redundante)
+    plot.title = element_text(size = 16, face = &quot;bold&quot;, margin = margin(b = 15)),
+    axis.text.y = element_text(size = 11, color = &quot;black&quot;),
+    axis.text.x = element_text(size = 10),
+    axis.title.x = element_text(size = 12, face = &quot;bold&quot;, margin = margin(t = 10)),
+    panel.grid.major.y = element_blank(), # Quitamos líneas horizontales de fondo
+    panel.grid.minor = element_blank(),
+    axis.line.x = element_line(color = &quot;gray50&quot;) # Línea del eje X visible
+  )
+
+# 5. Mostrar el gráfico en la ventana de &quot;Plots&quot;
+print(grafico)</code></pre>
+<p><img src="/post/CSR_000/index2_files/figure-html/graf-1.png" alt="" width="672" /></p>
+<pre class="r"><code># Opcional: Si deseas guardar el gráfico como una imagen de alta resolución, usa ggsave()
+# ggsave(&quot;apoyo_democracia_peru.png&quot;, plot = grafico, width = 10, height = 6, dpi = 300)</code></pre>
 </div>
 </div>
 </div>
@@ -157,7 +167,5 @@ output:
 <li id="fn4"><p>Es muy probable que la causa eficiente de su suicidio haya sido la más burda vanidad, que le hacía insoportable la mera idea de verse en presidio, aunque fuera solo de forma episódica (como muy probablemente hubiera sido el caso, dada la ubicua presencia del aprismo y el filoaprismo en el Poder Judicial).<a href="#fnref4" class="footnote-back">↩︎</a></p></li>
 <li id="fn5"><p>Escribo esto entre la primera y segunda vuelta de las elecciones presidenciales del 2026.<a href="#fnref5" class="footnote-back">↩︎</a></p></li>
 <li id="fn6"><p>Es asombroso ver cuán poco se preocupan los científicos sociales, en sus interacciones con el gran público, en usar fuentes resultado de investigación. Es entendible que no se detallen bibliografías o referencias, pero en términos comunicacionales, es importante especificar que el origen de las afirmaciones de un analista social provienen de investigación y no de mera teoría, o —peor aún— del “pálpito”.<a href="#fnref6" class="footnote-back">↩︎</a></p></li>
-<li id="fn7"><p><a href="https://www.latinobarometro.org/latinobarometro-2024" class="uri">https://www.latinobarometro.org/latinobarometro-2024</a><a href="#fnref7" class="footnote-back">↩︎</a></p></li>
-<li id="fn8"><p><a href="https://www.latinobarometro.org/latinobarometro-2006" class="uri">https://www.latinobarometro.org/latinobarometro-2006</a><a href="#fnref8" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>

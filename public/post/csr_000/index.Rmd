@@ -11,6 +11,10 @@ output:
     toc_depth: 3
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # Prólogo
 
 ## Los Dos Proyectos de Estado en el Perú
@@ -19,7 +23,7 @@ Hay dos proyectos de Estado, dos ideales hacia los que cuales apuntar al intenta
 
 El primero es el proyecto neoliberal y el segundo lo que Vergara denomina *proyecto republicano*.
 
-El proyecto neoliberal se basa en la promoción de una economía en la que se privilegia la mayor libertad posible para la iniciativa empresarial privada. Por implicancia, se entiende que el Estado debería tener el tamaño más reducido posible, y su intervención social restringirse a lo indispensable. Este orden de ideas da forma al sistema económico nacional desde al menos el año 1990.
+El proyecto neoliberal se basa en la promoción de una economía en la que se privilegia la mayor libertad posible para la iniciativa empresarial privada. Por implicancia, se entiende que el Estado debería tener el tamaño más reducido posible, y su intervención social restringirse a lo indispensable. Este orden de ideas da forma al sistema económico nacional desde el infame "paquetazo" del año 1990.
 
 Lo que Vergara etiqueta como *proyecto republicano* consiste básicamente en asumir al ciudadano como agente político, respetar a las instituciones ---y al contrapeso entre ellas que permite mantenerlas en balance---, y tratar de mantener el *estado de derecho*, entendido como el acatamiento a lo que las distintas instituciones dispongan, así como al ordenamiento legal en general.
 
@@ -71,10 +75,112 @@ La clave para entender a la prioridad institucional es que el fin último es res
 
 Don Valentín fue excepcional en muchas dimensiones, no siendo la menor la coherencia entre las resoluciones establecidas en su discurso inaugural y las acciones realizadas a lo largo de sus brevísimos ocho meses de su gobierno. Los organismos electorales fueron redirigidos hacia políticas que tomaban más en cuenta al ciudadano; las FFAA fueron despolitizadas, y el MEC incluyó acciones concretas de transparencia en el gasto.
 
-Ni falta hace decirlo: nadie ha tomado la posta, hasta hoy[^5]. Cuando se presentó a las elecciones, un lustro después, apenas si obtuvo poco más del 5% de los votos. Tal vez será pedagógico recordar que, en ese año (2006), fueron Alan García y Ollanta Humala quienes pasaron a la segunda vuelta electoral. Sí; un AGP que venía de haber sido, según el consenso histórico y las cifras de desempeño, el peor presidente del Perú. Y un Humala en su periodo más autoritario y contestatario, el "Ollanta Polo Rojo", subvencionado por Hugo Chávez, que venía de apoyar la revuelta armada de su hermano Antauro en contra del Presidente Toledo.
+Ni falta hace decirlo: nadie ha tomado la posta, hasta hoy[^5]. Cuando se presentó a las elecciones, un lustro después, apenas si obtuvo poco más del 5% de los votos. Tal vez será pedagógico recordar que, en ese año (2006), fueron Alan García y Ollanta Humala quienes pasaron a la segunda vuelta electoral. Sí; un AGP que venía de haber sido, según el consenso histórico y las cifras de desempeño, el peor presidente de la Historia del Perú. Y un Humala en su periodo más autoritario y contestatario, el "Ollanta Polo Rojo", en ese instante probablemente el más amenazante para la democracia, que venía de apoyar la revuelta armada de su hermano Antauro en contra del Presidente Toledo.
 
 [^5]: Escribo esto entre la primera y segunda vuelta de las elecciones presidenciales del 2026.
 
-En otras palabras: el votante peruano prefirió al peor mandatario desde 1821, y a un militar autoritario y rebelde de ideas de izquierda, antes que al primer presidente que desde 1980 se había preocupado por restablecer la relación entre Estado y ciudadanía.
+En otras palabras: el votante peruano prefirió al peor mandatario desde 1821, y a un militar autoritario con antecedentes de querer quebrar el estado de derecho, antes que al primer presidente que desde 1980 se había preocupado por restablecer la relación entre Estado y ciudadanía.
 
-## Paradigmas en Disputa
+### Acotación: El Peruano y la Democracia, en Números
+
+En cuanto psicólogo social, no me basta con el *feeling*[^6] acerca de la poca estima de mis compatriotas en relación a la democracia. Hay que aterrizarlo. Y aunque hay diversas maneras de hacerlo —diversos periodos, varios estudios, múltiples metodologías—, y debido a que no es el tema central de este artículo, usaré una base de datos a la mano: la encuesta que Latinobarómetro realiza en muchos países del continente cada año. Aunque lo adecuado sería realizar una serie de tiempo, una vez más: debido a la complejidad y a que no es el foco de estas líneas, me limitaré a graficar los resultados disponibles más cercanos al momento en que escribo: la "oleada" del 2024.
+
+[^6]: Es asombroso ver cuán poco se preocupan los científicos sociales, en sus interacciones con el gran público, en usar fuentes resultado de investigación. Es entendible que no se detallen bibliografías o referencias, pero en términos comunicacionales, es importante especificar que el origen de las afirmaciones de un analista social provienen de investigación y no de mera teoría, o —peor aún— del "pálpito".
+
+He aquí algunos cuadros generados a partir de esa data[^7]:
+
+[^7]: <https://www.latinobarometro.org/latinobarometro-2024>
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Postura Política** | **Porcentaje (%)** |
+| **La democracia es preferible a cualquier otra forma de gobierno** | 44.25% |
+| **A la gente como uno, nos da lo mismo un régimen democrático que uno no democrático** | 29.67% |
+| **En algunas circunstancias, un gobierno autoritario puede ser preferible a uno democrático** | 19.08% |
+| **NS/NR (No sabe / No responde)** | 7.00% |
+| **Total** | **100.00%** |
+
+```{r graf, echo=FALSE}
+# Si no tienes instalado ggplot2, descomenta y corre la siguiente línea:
+# install.packages("ggplot2")
+
+library(ggplot2)
+
+# 1. Crear el data frame con los datos consolidados
+datos <- data.frame(
+  postura = c(
+    "La democracia es preferible\na cualquier otra forma de gobierno",
+    "A la gente como uno, nos da lo mismo\nun régimen democrático...",
+    "En algunas circunstancias, un gobierno\nautoritario puede ser...",
+    "NS/NR (No sabe / No responde)"
+  ),
+  porcentaje = c(44.25, 29.67, 19.08, 7.00)
+)
+
+# 2. Convertir la columna 'postura' en un factor y fijar los niveles en orden inverso.
+# Esto es necesario para que ggplot2 dibuje la barra de mayor porcentaje en la parte superior.
+datos$postura <- factor(datos$postura, levels = rev(datos$postura))
+
+# 3. Definir la paleta de colores para cada postura
+colores <- c(
+  "La democracia es preferible\na cualquier otra forma de gobierno" = "#4C72B0",
+  "A la gente como uno, nos da lo mismo\nun régimen democrático..." = "#DD8452",
+  "En algunas circunstancias, un gobierno\nautoritario puede ser..." = "#C44E52",
+  "NS/NR (No sabe / No responde)" = "#8C8C8C"
+)
+
+# 4. Construir el gráfico
+grafico <- ggplot(datos, aes(x = porcentaje, y = postura, fill = postura)) +
+  # Crear las barras horizontales
+  geom_bar(stat = "identity", width = 0.7) +
+  
+  # Añadir las etiquetas de texto con el formato de porcentaje (2 decimales)
+  geom_text(aes(label = sprintf("%.2f%%", porcentaje)), 
+            hjust = -0.2, size = 4.5, fontface = "bold", color = "#333333") +
+  
+  # Aplicar los colores personalizados
+  scale_fill_manual(values = colores) +
+  
+  # Expandir un poco el eje X para que los números no se corten al final
+  scale_x_continuous(expand = expansion(mult = c(0, 0.15))) +
+  
+  # Textos y títulos
+  labs(
+    title = "Apoyo a la democracia en Perú\n(Latinobarómetro, 2024)",
+    x = "Porcentaje (%)",
+    y = NULL # Quitamos el título del eje Y porque las etiquetas se explican solas
+  ) +
+  
+  # Tema visual limpio y minimalista
+  theme_gray() +
+  theme(
+    legend.position = "none", # Escondemos la leyenda (es redundante)
+    plot.title = element_text(size = 16, face = "bold", margin = margin(b = 15)),
+    axis.text.y = element_text(size = 11, color = "black"),
+    axis.text.x = element_text(size = 10),
+    axis.title.x = element_text(size = 12, face = "bold", margin = margin(t = 10)),
+    panel.grid.major.y = element_blank(), # Quitamos líneas horizontales de fondo
+    panel.grid.minor = element_blank(),
+    axis.line.x = element_line(color = "gray50") # Línea del eje X visible
+  )
+
+# 5. Mostrar el gráfico en la ventana de "Plots"
+print(grafico)
+
+# Opcional: Si deseas guardar el gráfico como una imagen de alta resolución, usa ggsave()
+# ggsave("apoyo_democracia_peru.png", plot = grafico, width = 10, height = 6, dpi = 300)
+```
+
+Como Latinobarómetro hace la misma encuesta (poco más o menos) cada año en el mismo espacio geográfico, es posible establecer ciertas comparaciones. En especial, ¿cómo se compara ese ya lejano 2006[^8] con los datos disponibles más recientes?
+
+[^8]: <https://www.latinobarometro.org/latinobarometro-2006>
+
+| Postura Política | 2006 (%) | 2024 (%) |
+|:-----------------------|:-----------------------|:-----------------------|
+| **La democracia es preferible a cualquier otra forma de gobierno** | 55.00% | 44.25% |
+| **A la gente como uno, nos da lo mismo un régimen democrático que uno no democrático** | 18.00% | 29.67% |
+| **En algunas circunstancias, un gobierno autoritario puede ser preferible a uno democrático** | 19.00% | 19.08% |
+| **NS/NR (No sabe / No responde)** | 8.00% | 7.00% |
+| **Total** | **100.00%** | **100.00%** |
+
+Esto nos indica que el poco favor hacia la democracia, si algo ha cambiado, ha sido para peor: al menos el año 2024, en el Perú la gente la rechazaba *aun más* que cuando eligieron a AGP y al "Ollanta Polo Rojo" por encima de Paniagua.

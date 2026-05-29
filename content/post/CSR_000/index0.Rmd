@@ -5,15 +5,13 @@ subtitle: Notas de Lectura
 categories: ["Ciencia Política"]
 tags: ["Psicología Política", "Ciudadanos Sin República", "Alberto Vergara"]
 summary: Notas de lectura a raíz de *Ciudadanos Sin República*, de Alberto Vergara.
-output:
-  blogdown::html_page:
-    toc: true
-    toc_depth: 3
+# output:
+#   blogdown::html_page:
+#     toc: true
+#     toc_depth: 3
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 # Prólogo
 
@@ -87,9 +85,7 @@ En cuanto psicólogo social, no me basta con el *feeling*[^6] acerca de la poca 
 
 [^6]: Es asombroso ver cuán poco se preocupan los científicos sociales, en sus interacciones con el gran público, en usar fuentes resultado de investigación. Es entendible que no se detallen bibliografías o referencias, pero en términos comunicacionales, es importante especificar que el origen de las afirmaciones de un analista social provienen de investigación y no de mera teoría, o —peor aún— del "pálpito".
 
-He aquí algunos cuadros generados a partir de esa data[^7]:
-
-[^7]: <https://www.latinobarometro.org/latinobarometro-2024>
+He aquí algunos cuadros generados a partir de esa data:
 
 |  |  |
 |------------------------------------|------------------------------------|
@@ -100,87 +96,8 @@ He aquí algunos cuadros generados a partir de esa data[^7]:
 | **NS/NR (No sabe / No responde)** | 7.00% |
 | **Total** | **100.00%** |
 
-```{r graf, echo=FALSE}
-# Si no tienes instalado ggplot2, descomenta y corre la siguiente línea:
-# install.packages("ggplot2")
 
-library(ggplot2)
 
-# 1. Crear el data frame con los datos consolidados
-datos <- data.frame(
-  postura = c(
-    "La democracia es preferible\na cualquier otra forma de gobierno",
-    "A la gente como uno, nos da lo mismo\nun régimen democrático...",
-    "En algunas circunstancias, un gobierno\nautoritario puede ser...",
-    "NS/NR (No sabe / No responde)"
-  ),
-  porcentaje = c(44.25, 29.67, 19.08, 7.00)
-)
 
-# 2. Convertir la columna 'postura' en un factor y fijar los niveles en orden inverso.
-# Esto es necesario para que ggplot2 dibuje la barra de mayor porcentaje en la parte superior.
-datos$postura <- factor(datos$postura, levels = rev(datos$postura))
 
-# 3. Definir la paleta de colores para cada postura
-colores <- c(
-  "La democracia es preferible\na cualquier otra forma de gobierno" = "#4C72B0",
-  "A la gente como uno, nos da lo mismo\nun régimen democrático..." = "#DD8452",
-  "En algunas circunstancias, un gobierno\nautoritario puede ser..." = "#C44E52",
-  "NS/NR (No sabe / No responde)" = "#8C8C8C"
-)
 
-# 4. Construir el gráfico
-grafico <- ggplot(datos, aes(x = porcentaje, y = postura, fill = postura)) +
-  # Crear las barras horizontales
-  geom_bar(stat = "identity", width = 0.7) +
-  
-  # Añadir las etiquetas de texto con el formato de porcentaje (2 decimales)
-  geom_text(aes(label = sprintf("%.2f%%", porcentaje)), 
-            hjust = -0.2, size = 4.5, fontface = "bold", color = "#333333") +
-  
-  # Aplicar los colores personalizados
-  scale_fill_manual(values = colores) +
-  
-  # Expandir un poco el eje X para que los números no se corten al final
-  scale_x_continuous(expand = expansion(mult = c(0, 0.15))) +
-  
-  # Textos y títulos
-  labs(
-    title = "Apoyo a la democracia en Perú\n(Latinobarómetro, 2024)",
-    x = "Porcentaje (%)",
-    y = NULL # Quitamos el título del eje Y porque las etiquetas se explican solas
-  ) +
-  
-  # Tema visual limpio y minimalista
-  theme_gray() +
-  theme(
-    legend.position = "none", # Escondemos la leyenda (es redundante)
-    plot.title = element_text(size = 16, face = "bold", margin = margin(b = 15)),
-    axis.text.y = element_text(size = 11, color = "black"),
-    axis.text.x = element_text(size = 10),
-    axis.title.x = element_text(size = 12, face = "bold", margin = margin(t = 10)),
-    panel.grid.major.y = element_blank(), # Quitamos líneas horizontales de fondo
-    panel.grid.minor = element_blank(),
-    axis.line.x = element_line(color = "gray50") # Línea del eje X visible
-  )
-
-# 5. Mostrar el gráfico en la ventana de "Plots"
-print(grafico)
-
-# Opcional: Si deseas guardar el gráfico como una imagen de alta resolución, usa ggsave()
-# ggsave("apoyo_democracia_peru.png", plot = grafico, width = 10, height = 6, dpi = 300)
-```
-
-Como Latinobarómetro hace la misma encuesta (poco más o menos) cada año en el mismo espacio geográfico, es posible establecer ciertas comparaciones. En especial, ¿cómo se compara ese ya lejano 2006[^8] con los datos disponibles más recientes?
-
-[^8]: <https://www.latinobarometro.org/latinobarometro-2006>
-
-| Postura Política | 2006 (%) | 2024 (%) |
-|:-----------------------|:-----------------------|:-----------------------|
-| **La democracia es preferible a cualquier otra forma de gobierno** | 55.00% | 44.25% |
-| **A la gente como uno, nos da lo mismo un régimen democrático que uno no democrático** | 18.00% | 29.67% |
-| **En algunas circunstancias, un gobierno autoritario puede ser preferible a uno democrático** | 19.00% | 19.08% |
-| **NS/NR (No sabe / No responde)** | 8.00% | 7.00% |
-| **Total** | **100.00%** | **100.00%** |
-
-Esto nos indica que el poco favor hacia la democracia, si algo ha cambiado, ha sido para peor: al menos el año 2024, en el Perú la gente la rechazaba *aun más* que cuando eligieron a AGP y al "Ollanta Polo Rojo" por encima de Paniagua.
