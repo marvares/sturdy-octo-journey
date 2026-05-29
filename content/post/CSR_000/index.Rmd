@@ -81,7 +81,7 @@ Ni falta hace decirlo: nadie ha tomado la posta, hasta hoy[^5]. Cuando se presen
 
 En otras palabras: el votante peruano prefirió al peor mandatario desde 1821, y a un militar autoritario con antecedentes de querer quebrar el estado de derecho, antes que al primer presidente que desde 1980 se había preocupado por restablecer la relación entre Estado y ciudadanía.
 
-### Acotación: El Peruano y la Democracia, en Números
+### Acotación: El Peruano y la Democracia, en Números {#democracia-peru-data}
 
 En cuanto psicólogo social, no me basta con el *feeling*[^6] acerca de la poca estima de mis compatriotas en relación a la democracia. Hay que aterrizarlo. Y aunque hay diversas maneras de hacerlo —diversos periodos, varios estudios, múltiples metodologías—, y debido a que no es el tema central de este artículo, usaré una base de datos a la mano: la encuesta que Latinobarómetro realiza en muchos países del continente cada año. Aunque lo adecuado sería realizar una serie de tiempo, una vez más: debido a la complejidad y a que no es el foco de estas líneas, me limitaré a graficar los resultados disponibles más cercanos al momento en que escribo: la "oleada" del 2024.
 
@@ -184,3 +184,7 @@ Como Latinobarómetro hace la misma encuesta (poco más o menos) cada año en el
 | **Total** | **100.00%** | **100.00%** |
 
 Esto nos indica que el poco favor hacia la democracia, si algo ha cambiado, ha sido para peor: al menos el año 2024, en el Perú la gente la rechazaba *aun más* que cuando eligieron a AGP y al "Ollanta Polo Rojo" por encima de Paniagua.
+
+Claro está, el panorama es mucho más complejo y hay varios ítems más en esta encuesta —así como un análisis longitudinal— que podrían tomarse en cuenta. Pero como ya indicamos, esto no es más que una acotación a las notas de lectura del prólogo del libro, destinada tan solo a echar un vistazo a la situación actitudinal de los peruanos en torno a la idea de democracia.
+
+Aun con todas esas limitaciones, el análisis de estos datos nos ayuda a formarnos una idea de por qué tantas personas muestran un gran nivel de tolerancia a las infracciones al estado de derecho por parte de, por ejemplo, el fujimorismo.
