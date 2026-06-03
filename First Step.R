@@ -9,6 +9,10 @@ usethis::use_git_config(user.name = "Francisco Martín Vargas", user.email = "fr
 # Antes de poder trabajar hay que instalar el tema "Hugo":
 blogdown::install_hugo(version = "0.72.0", force = TRUE)
 
+# Si estoy una mac con chip Apple silicon:
+
+blogdown::install_hugo(version = "0.72.0", os = "macOS", arch = "64bit", force = TRUE)
+
 # luego darle el PAT para sincronizar los cambios en el repo:
 gitcreds::gitcreds_set()
 

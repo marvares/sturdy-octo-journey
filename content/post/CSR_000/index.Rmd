@@ -35,11 +35,11 @@ Por desgracia, en el Perú se ha instaurado una dinámica en la que ambos "proye
 
 De modo que tenemos ante nosotros la tarea de investigar por qué en el país:
 
--   Se concibe ambas opciones como si fueran excluyentes entre sí;
+- Se concibe ambas opciones como si fueran excluyentes entre sí;
 
--   Los defensores del neoliberalismo no contemplan la inclusión de una *agenda republicana* dentro de su acción política.
+- Los defensores del neoliberalismo no contemplan la inclusión de una *agenda republicana* dentro de su acción política.
 
--   Ningún partido ni líder político ha logrado convertir la *agenda republicana* en una plataforma electoral viable.
+- Ningún partido ni líder político ha logrado convertir la *agenda republicana* en una plataforma electoral viable.
 
 ### Alan, El Cínico
 
@@ -94,7 +94,7 @@ He aquí algunos cuadros generados a partir de esa data[^7]:
 [^7]: <https://www.latinobarometro.org/latinobarometro-2024>
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Postura Política** | **Porcentaje (%)** |
 | **La democracia es preferible a cualquier otra forma de gobierno** | 44.25% |
 | **A la gente como uno, nos da lo mismo un régimen democrático que uno no democrático** | 29.67% |
@@ -178,7 +178,7 @@ Como Latinobarómetro hace la misma encuesta (poco más o menos) cada año en el
 [^8]: <https://www.latinobarometro.org/latinobarometro-2006>
 
 | Postura Política | 2006 (%) | 2024 (%) |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | **La democracia es preferible a cualquier otra forma de gobierno** | 55.00% | 44.25% |
 | **A la gente como uno, nos da lo mismo un régimen democrático que uno no democrático** | 18.00% | 29.67% |
 | **En algunas circunstancias, un gobierno autoritario puede ser preferible a uno democrático** | 19.00% | 19.08% |
@@ -205,4 +205,4 @@ Una economía que parece capaz de rebotar de terremotos políticos dignos de una
 
 ### Ciencias Sociales y Economía
 
-Vergara enumera múltiples fuentes en las cuales se afirma que, si hay una relación entre economía y desarollo institucional, el efecto (la "variable dependiente") es el desarrollo económico,
+Vergara enumera múltiples fuentes en las cuales se afirma que, si hay una relación entre economía y desarrollo institucional, es la institucionalidad la que fomenta la mejora económica, y no a la inversa.
